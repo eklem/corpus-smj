@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -97,7 +97,7 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'amendments-to-the-mental-health-care-act.html_id=682169'"/>
+<xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
@@ -106,8 +106,8 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'markering-av-8-mai.html_id=681133'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'preassakonferansa-2012-darkkistuvvon-nat.html_id=681969'"/>
 <xsl:variable name="para_smj" select="''"/>
+<xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
