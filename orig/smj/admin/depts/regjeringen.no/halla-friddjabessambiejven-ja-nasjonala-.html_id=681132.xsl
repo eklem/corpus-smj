@@ -97,16 +97,16 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="'financial-markets-report.html_id=682184'"/>
+<xsl:variable name="para_eng" select="''"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'eit-meir-robust-finanssystem.html_id=682184'"/>
+<xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'tale-pa-frigjorings--og-veterandagen-8-m.html_id=681132'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'moarmesmano-8-biejve-avvudallam.html_id=681133'"/>
+<xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
