@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document id="no_id" xml:lang="smj">
+  <header>
+    <title>Dån le dánna - infonuorra</title>
+    <genre/>
+    <author>
+      <person born="" firstname="" lastname="unknown" nationality="" sex="unknown"/>
+    </author>
+    <year>2007</year>
+    <publChannel>
+      <publication>
+        <publisher>Infonuorra</publisher>
+      </publication>
+    </publChannel>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual>
+      <language xml:lang="smj"/>
+      <language xml:lang="nob"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate  1.19 ; file-specific xsl  $Revision: 1.8 $; common.xsl  $Revision: 43736 $; </version>
+  </header>
+  <body>
+    <p type="text">
+Dån le dánna:  www.infonuorra.no / álggosijddo
+  </p>
+    <p type="text">
+Miellagiddis jahke <errorort correct="Edinburghan" errtype="punct" pos="prop">Edinburgh:an</errorort></p>
+    <p type="text">
+Divtasvuonak Mikkel Eskil André Mikkelsen le 18 jage vuoras ja årru dálla <errorort correct="Edinburghan" errtype="punct" pos="prop">Edinburgh:an</errorort>, mij le <errorort correct="Skottlánda" errtype="con" pos="prop">Skotlánda</errorort> oajvvestáda. <errorort correct="Skottlánnda" errtype="con" pos="prop">Skotlánnda</errorort> l oassen <errorort correct="Stuor Británnias" errtype="notcmp" pos="prop">Stuorbritánnias</errorort>. Edinburgh le lullemerragátten, luovtan Firth of Forth. Dåppe l (<errormorphsyn cat="nomsg" const="advl" correct="tjavtja" errtype="agr" orig="gensg" pos="noun">tjaktja</errormorphsyn> rájes) årrum. Eskil avtav jagev ålggorijkan sidáj muossádit, ja válljij nuppát jagev joarkkaskåvlån jur <errorort correct="Skottlándan" errtype="con" pos="prop">Skotlándan</errorort> låhkåt. Dåppe låhkå Leith Academy Secondary <errorort correct="Schoolan" errtype="punct" pos="prop">School:an</errorort>, 1000 ietjá oahppij siegen. (High School <errorort correct="amerigaieŋŋilsgiellaj" errtype="conc" pos="noun">amerijkaieŋŋilsgiellaj</errorort>)
+  </p>
+    <p type="text">
+Dåhku jåhtet lij ållu ietjálágásj ja unnán gássjelis danen gå divna lij ådå. Valla diedon riek geldulasj aj. <errorort correct="Famillja" errtype="a" pos="noun">Fámillja</errorort> <errorort correct="Edinburghan" errtype="punct" pos="prop">Edinburgh:an</errorort> le guossodimieddne Patricia ja suv 12 jagák bárnne Josh. Eskil hávsskudallá sunnu siegen ja subtsastallá suv ja guossodimiednes miella le sæmmilágásj, ja nav máhtteba tjåhkudallat ja dåssju suohttasijt ságastallat, tjajmmat ja hávsskudallat aktan. Guossodimieddne barggá skåvllåkantijnán, valla ij Eskila skåvlån. Eskil lanjáv juohká Alejandrojn gut le Chiles. Ladnja l oalle unne, ja dajnas sjaddá diehttelis buorre stuoráp sajev oadtjot, javllá sån.
+  </p>
+    <p type="text">
+Eskil subtsastallá nav vájbaj gå lij vahkov dåssju ieŋŋilsgielav sáhkadam. Ållu ietjá dille lij boahtet Knut Hamsun joarkkaskåvlås gånnå li 100 oahppe stuorra Leith <errorort correct="Academyj" errtype="punct" pos="prop">Academy:ij</errorort>. Sjaddá basske ja rihtjam váttsáldagájn gå gájkka 1000 oahppe avta bále sirddeli. Valla Eskil <errorort correct="soapptsu" errtype="conc" pos="verb">soapttsu</errorort> riek buoragit skåvlån. Giellas buorep ja buorep sjaddá. Eskil subtsas sån le ietjas ieŋŋilsgielav ednagit buoredam, tjálalattjat ja aj njálmálattjat.
+  </p>
+    <p type="text">
+Skåvlån hæhttuji juohkka akta sierra skåvllåbiktasijt adnet. <errormorphsyn cat="gensg" const="spred" correct="slippsa" errtype="case" orig="nomsg" pos="noun">Eskilin le tjáhppis båvså, tjáhppis jali bieddjis skirtto ja alek slipsa</errormorphsyn>. Næjtsojn li sæmmi skåvllåbiktasa, valla sij máhtti aj (<errormorphsyn cat="acksg" const="advl" correct="vuolpojn" errtype="case" orig="comsg" pos="noun">vuolpov</errormorphsyn> gárvvunit). Skåvlån le riek garra njuolgadusá <errormorphsyn cat="sg3prs" const="fin" correct="guosski" errtype="number" orig="pl3prs" pos="verb">ma dasi guosská</errormorphsyn>. Ietján li njuolgadusá buorre, javllá Eskil. <errorort correct="Skottlándan" errtype="con" pos="prop">Skotlándan</errorort> e åvdepnamájt ane.
+  </p>
+    <p type="text">
+- Dánna hæhttup javllat Sir, Mr, Miss jali Mrs.
+  </p>
+    <p type="text">
+Eskil danen <errorort correct="matematihkkaåhpadiddjev" errtype="svow" pos="noun">matematihkkaåhpådiddjev</errorort> Miss <errorort correct="Watsonin" errtype="punct" pos="prop">Watson:in</errorort> gåhttju. <errorort correct="Åhpadiddje" errtype="svow" pos="noun">Åhpådiddje</errorort> li oalle tjiehpe, ållagasj matematihkka- ja <errorort correct="sebrudakfáhkaåhpadiddje" errtype="svow" pos="noun">sebrudakfáhkaåhpådiddje</errorort>. Suv skåvlån klássajn ælla guhtik <errorort correct="klássaladnja" errtype="conc" pos="noun">klássaladna</errorort> nav gåktu Vuonan. Danna li <errorort correct="åhpadiddjijn" errtype="svow" pos="noun">åhpådiddjijn</errorort> guhtik ladnja, ja oahppe hæhttuji sirddet klássalanjáj milta, ja fágaj milta. Eskilin li <errorort correct="niellje" errtype="mix" pos="num">njiella</errorort><errorort correct="Physical" errtype="con" pos="noun">Psysical</errorort> education<span type="quote">" mij le lásjmudallam, "</span>modern studies" mij le sebrudakfáhka, ja ieŋŋilsgiella ja matematihkka. Suv skåvlån li nuorap ja vuorrasap oahppe.
+  </p>
+    <p type="text">
+- Leith <errorort correct="Academyn" errtype="mix" pos="prop">Academy:an</errorort> li oahppe 12 jage gitta 18 jage gaskan, ja nav li aj ållo <span type="quote">"smávmáná"</span> váttsáldagájn, subtsastallá Eskil.
+  </p>
+    <p type="text">
+Moattes oahpperádnajs e åvvånis diede gånnå Vuodna le. Muhtema diehti, ja soabmása aj binnátjav sámij birra diehti. <errorort correct="Ieŋŋilsgiellaåhpadiddje" errtype="svow" pos="noun">Ieŋŋilsgiellaåhpådiddje</errorort> diedij binnáv sámij birra åvdutjis, ja suv mielas lij riek suohtas Eskilij oahpástuvvat.
+  </p>
+    <p type="text">
+Vuostasj jagev joarkkaskåvlån lågåj Eskil Knut Hamsun joarkkaskåvlån Hábmerin. Danna vas galggá goalmát jagijn tjaktjaj joarkket. Galggá ållit <errorort correct="dábálasjfáhkasuorgev" errtype="cmp" pos="noun">dábálasjfágasuorgev</errorort>, diedon ieŋŋilsgiella fáhkan aj. Boahtte ájge sihtá Eskil ietjá rijkajt guossidit. Sujna le ulmme, ij galga kåntåvrån barggat. Valla vuostatjin galggá Eskil sijddaj Vuodnaj. Moarmesmáno 25. biejve sijddaj boahtá. Giesen galggá barggat ja tjáppa dálkken (vuordedahtte tjáppa dálkke sjaddá) <errorort correct="hávsskudallat" errtype="conc" pos="verb">hávskudallat</errorort>. <errorort correct="Skottlándan" errtype="con" pos="prop">Skotlándan</errorort> le tjoasskásap gå Vuonan.
+  </p>
+    <p type="text">
+Eskilin ij la galla nav miella stádas ja rádnajstis vuolgget, gejt ednagit sjaddá åhtsålit. Huoman sån ávvudallá sijddaj boadátjit, ietjas vehkaj ja rádnajda Vuonan, biergguj, sijddadagádum pizzaj ja smávhálmugijda, majt aj la åhtsålam. Eskil la juo gallánam <errorort correct="toastas" errtype="punct" pos="noun">toast:as</errorort>, mij le væjttalájbbe, majt <errorort correct="Skottlándan" errtype="con" pos="prop">Skotlándan</errorort> agev bårri. Ij la gal buoremus biebbmo dåppe. Sijdan Vuonan li biebmo buorep rubmahij, ja la aj njálgep. <errormorphsyn cat="nomsg" const="obj" correct="hamburgerav" errtype="case" orig="acksg" pos="noun"><errormorphsyn cat="nomsg" const="obj" correct="chipsajt" errtype="case" orig="ackpl" pos="noun">Ålos <errorort correct="Skottlándan" errtype="con" pos="prop">Skotlándan</errorort> bårri gahttungievkanbiebmojt gå basedum chipsa</errormorphsyn> ja hamburgera</errormorphsyn>.
+  </p>
+    <p type="text">
+Eskil ávttji jagev ålggorijkan årotjit. Le ihkeva buorre muossádibme ja ållo mujto gal miellaj báhtsi.
+  </p>
+    <p type="text">
+- Edinburgh le riek tjáppa stáda mav gájkka vierttiji guossidit, ållagasj maŋŋegiesen, hasot Eskil maŋutjissaj.
+  </p>
+    <p type="text">
+Gidá ballo
+  </p>
+    <p type="text">
+Gidá le, ja eksábmaájgge lahkan. Ihkap le låhkåm, ihkap illa. Ihkap illa åvvå girjijt rahpam. Ihkap illa åvvånis oasstám girjijt. Vájku makkir dilen dån la, de li buorre tsuojggima buorre.
+  </p>
+    <p type="text">
+Værámus le ájgge eksáma åvddåla, ja ij eksábma iesj. Ihkap gåva <errorort correct="dahkamusájt dahkamis" errtype="notcmp" pos="noun">dahkamusájtdahkamis</errorort>. Ihkap i nagá låhkåt. Ihkap i jahke oattjo nuohkásav låhkåt. Muhtema nav suhtti, sihti njuvdestit oajvev sæjnnáj. Soabmása dahki divna ietján gå låhkåt, ja sjáhtjali låhkåmav nav guhkev gå máhttelis. Moattes máhtti tjabu lihtijt bassat eksábmaj diertjestime. Dån le åttjudallam. Eksábmaballo ja eksámaj surá. Vuorbbe gå viehkke gávnnu.
+  </p>
+    <p type="text">
+Dunji gut le låhkåm le buorre jus i åvvånis ájádalá eksáma birra iehkedav eksáma åvddåla. Rádnastalá, valla i jur daj rádnaj gudi låhki duv siegen, ja galggi tjadádit dav sæmmi eksámav. De sjaddá nav, divna sjaddabihtit tjåhkkåhit ja skielbestit. Ietján mij le ájnas le oadet. Oade ålov biejvijt (ijájt!) åvddåla, vaj la vuojŋadam ja gárves <span type="quote" xml:lang="eng">"action"</span>-<errorort correct="&quot;actionij&quot;" errtype="hyphen" pos="noun">ij</errorort>. Bårå buoragit. Ij dåssju sjokoládav ja bruvsav. Riekta biebbmo le buorre, ja riekta idedisbiebbmo le riek ájnas. De máhtá bårråt sjokoládav <errorort correct="eksábmaájgev" errtype="cmp" pos="noun">eksábmájgev</errorort>, ja nav varrasåhkkårav lasedit ja energijav jåhtelit oadtjot. Mujte ållo juhkusav, tjáhtje ja bruvssa. Ja mujte positijvalattjat ájádallat. Eksábma, juska gåktu gævvá, ij le værámus mij máhttá dáhpáduvvat?
+  </p>
+    <p type="text">
+Jus dát ij åvvånis viehkeda, ja dån suhta, ale rádnajda suhta. (Tjurvvista páhppárijs ja <errormorphsyn cat="nomsg" const="fin" correct="luosa" errtype="mix" orig="imprt" pos="verb">luossa</errormorphsyn> sæjnnáj). Jali maná viegatjit. Dat soajttá suhtov gádot. Ale viega skåvlå vásuk jali <errorort correct="eksábmalanjá" errtype="conc" pos="noun">eksábmalajná</errorort>, gå dát máhttá <errorort correct="vieredit" errtype="mix" pos="verb">værádit</errorort> <span type="quote">"eksábmanervajt"</span>. Jus sjaddá riek nievrre, máhtá válldet maŋen <errorort correct="páhppárijt" errtype="conc" pos="noun">páppárijt</errorort> viegatjit, ja håjggådit <errorort correct="åhpadiddje" errtype="svow" pos="noun">åhpådiddje</errorort> goade vuosstij. Dát máhttá gullat buorre dahkon jur dalloj, valla ihkap ij <errorort correct="viehkeda nav" errtype="notcmp" pos="verb">viehkedanav</errorort> vuojga eksábmabiejven.
+  </p>
+    <p type="text">
+Dunji gut illa låhkåm, sjaddá væráp. Gå eksábmabiejvve lahkan sáŋart dav ájgev gå la dåssjev barggam ja gådnam, gå gehtjadi balvajt almen jali silbbabårråmvædtsagijt geladit ráddnágådijn. Ihkap sáva dån ittji ålles pensumav lågå eksábmaijáv. Ij la buorre boahtet eksábmaj <errorort correct="guoppotjalmij" errtype="cmp" pos="adv">guobbo tjalmij</errorort>. Jus girje <errorlex correct="ja" origpos="w" pos="cc">la</errorlex> <errorort correct="lågådibme" errtype="conc" pos="verb">låhkådibme</errorort> ij åvvånis le juoga <errorort correct="dunji" errtype="svow" pos="pers">dunju</errorort>, hæhttup sávvat dån le riek tjiehppe jali riek vuorbálasj, dat sihtá javllat, komá sinna vællahit jali juoga dan láhkáj eksábmabiejven. Valla juska vil, dån i besa eksámas. Eksámav hæhttu tjadádit akti. Máhttelis le aj rádnastallat biejvijt ja ijájt viehka åvddåla, ja nav snivva låhkåt vahkkot åvddåla. De la nav gallánam rádnastallamis, ja de le hávsske låhkåt. Tjále <errorort correct="notáhtajt" errtype="lime" pos="noun">notátajt</errorort>, dån buorebut mujtá gå tjála aj. Valla ale tjále ålles girjev, ij dat dåhkki.
+  </p>
+    <p type="text">
+Jus illa låhkåm ja i åvvånis sidá låhkåt, hæhttu dåssju sávvat, dån gávna juojddá tjállet, jali ihkap skåvllå ij la juoga dunji? Sluogas la gåjt persåvnålattjat boahtet maŋemus tijmav skåvllåj, vaj gåjt dieda man birra eksábma le. Ja dunji gut ájn illa oasstám girjijt, le dat vuostasj lávkken gå galga eksábmaj låhkåt.
+  </p>
+    <p type="text">
+Båddista duolla dálla gå dujna l eksábma. Ájnas le rubmahav vanádasstet, ja ihkap ålgus mannat ájádusájt målssomin. Lågå dahkamusájt buoragit, danen gå galga divna dimáj dámaj diehtet, ma li ájnnasa. Álge dajna majt diedá máhtá tjállet. De i dárbaha álgget (juojddá <errormorphsyn cat="acksg" const="subj" correct="mij" errtype="case" orig="nomsg" pos="rel">majt</errormorphsyn> dåssju (<errormorphsyn cat="iv" const="fin" correct="suhttada" errtype="trans" orig="tv" pos="verb">suhtastalá</errormorphsyn>) duv), gå dát máhttá biejsstet ålles eksámav. Tjåhkkida buoragit, båso, ja mujte eksábma ij la ulmmen, valla dåssju barggodahkamus. Jus dujna ælla eksábmanerva, de ij la gåk da nuppe. De máhtá snivva gæhttjat jus dujna åvvånis le eksábma dán jahkebiele.
+  </p>
+    <p type="text">
+Jus ballo ij huoman gádo, de gávnnu kursa gåktu galga eksámajt nahkat. Dáv hæhttu gatjádit skåvlån. Vuorbbe gidáeksámaj!
+  </p>
+    <p type="text">
+Dálvvedáhpádus Lofåhtan
+  </p>
+    <p type="text">
+Iv lim goassak mannam dåppe åvddåla, iv ga gullam dan birra. Ajtu dåhku manniv. <errorort correct="Lofotcupaj" errtype="mix" pos="prop">Lofot-cuhppaj</errorort> ja Væráltgilppusij (VG) jáddiguollimin 2007. Dán jage lij 17. bále dát ásaduváj, ja jur dát ájllek le dajs ájllegijs goassa li ienemus guosse Vágij suohkanin.
+  </p>
+    <p type="text">
+VG jáddiguollimin le sjaddam akta dajs ájnnasamos ásadusájs Lofåhtan, ja vuoset ulmutja råhtåsi Spålavuolláj ja Lofoahttaj dálven aj. Dát le stuorra dáhpadus sijda ulmutjijda ja guossijda. Ålles ásadus álggá juo vahkkot <errorort correct="åvddåla" errtype="vow" pos="adv">åvddålå</errorort>, duojn dájn dåjmajn. Spålavuole skåvllå vádtsin jáddirájdon, diedon bivvalis biktasij ja dábegis rássjogahperijn. Lávllot ja dánssat lij hávskadissan.
+  </p>
+    <p type="text">
+Ittjiv sebra guollimgilpustallamis, massta ávvusiv gå lij sieldes rávtjádahka. Bierjjedagá snjuktjamáno 30. biejve lij <errorort correct="Lofotcupa" errtype="mix" pos="prop">Lofot-cuhppa</errorort> ja lávvodagá lij VG jáddiguollimin. <errorort correct="Lofotcupan" errtype="conc" pos="prop">Lofotcuhpan</errorort> lidjin juohkkalágásj guole, valla dåssju jáddi <errorort correct="VG:n" errtype="suf" pos="acro">VG:an</errorort>. Jus hálijda turisstan <errorort correct="oassálasstet" errtype="conc" pos="verb">oassálasset</errorort> hæhttu mákset 700 kråvnå <errorort correct="Lofotcupan" errtype="mix" pos="prop">Lofot-cuhpan</errorort> ja 800 kråvnå <errorort correct="VG:n" errtype="suf" pos="acro">VG:an</errorort>. Badjelasj 500 ulmutja 15 <errorort correct="nasjåvnås" errtype="a" pos="noun">násjåvnås</errorort> gilpustallin.
+  </p>
+    <p type="text">
+Guollimgilpustallamij aktijvuodan lij VG-kafea, mij le, jus riekta, oabme tjoasskodimvuorkká. Danna lij ållu sierralágásj ilmme. Mánájgárde máná lávllun, duola dagu <span type="quote" xml:lang="nob">"En ekte Lofottorsk..."</span>, mij jur hiebaj. Spålavuole musihkkasiebrre tjuojadij. Danna lidjin gájklágátja; máná, ja vuoras nissuna bielljehervaj ma ruopseldin. Ulmutja spædtjun giedaj ja siegen lávllun. Máhttelis lij oasstet <errorort correct="bacaláov" errtype="mix" pos="noun">bacalao:av</errorort>, guollejuptsav, njuoktjamijt, valla aj guoledagá biebmov dagu bierggojuptsav, váffalgáhkojt ja márfev lájbijn. Oasesbievdijn dåhkkij oasstet VG-mujttomerkajt dagu kepsajt, t-skirtojt, gænssirijt ja diedon dábegis rássjogahperijt ja silbbaguolijt. Tjabu bievddelijnijn lidjin gåvå játtijs. Huonaj lij hiervvidum slávgáj ja viermij ma gahtsahin duonna dánna.
+  </p>
+    <p type="text"><errorort correct="Ulmutjij" errtype="typo" pos="noun">Ulmultji</errorort> siegen máhtijma vuojnnet <errorort correct="t-skirtojt" errtype="conc" pos="noun">t-skirttojt</errorort> <span type="quote" xml:lang="nob">"haill er knall"</span>-tevstajn. Buorre <span type="quote" xml:lang="nob">"haill"</span> buktá buorre guollebivdov. Iv galga subtsastit ienebuv <span type="quote" xml:lang="nob">"hailla"</span> birra, valla guosská gal ájvvejålluribmáj... Gå lijma VG-kafean læhkám manájma kafeaj namájn <span type="quote" xml:lang="eng">"Styrhuset"</span>. Danna ájgojma bårråt. Sierra VG-biebbmolissta lij, ienemusát guolij. Rávvijma VM-pizzav, vuorbbe gå dat lij guoledagá. Kloahkka lij <errorort correct="nieljen" errtype="conc" pos="num">njieljen</errorort> biejven, ja bårådijn lij lávllom ja musihkka hávskadissan. Hæhkkat musihkkatjuojadiddje tjuottjadij bievde nali, gånnå lávloj majt nagáj ja mijáv dánssajuolgijn njuorranij. Ulmutja dánssin ja suohtastallin. Soames gut lij guollejuptsav rávvim oattjoj dav stuorámus gáre sinna mav lav goassak vuojnnám. Dan sinna <errorort correct="gal" errtype="vow" pos="pcle">gala</errorort> luluj diehttelis sadje <errorort correct="muv" errtype="con" pos="pers">muj</errorort> oajvváj ja rádnam oajvváj, jus lulujma gæhttjalit. Galla lij dat VG-biebbmo.
+  </p>
+    <p type="text">
+Ietján lij filmmavuosádallama, lågådallam guolleindustrija histåvrå birra, duot dát vuosádus, málestimkurssa mánájda, <errorort correct="giejddemdájddárvuosádallam" errtype="mix" pos="noun">giejddemdájdarvuosádallam</errorort>, girkkomæsso ja konsærtta Big <errorort correct="Bangajn" errtype="punct" pos="prop">Bang:ajn</errorort>.
+  </p>
+    <p type="text">
+Dán jagásj <errorort correct="Lofotcupav" errtype="mix" pos="prop">Lofot-cuhpav</errorort> vuojtij Boris Petric <errorort correct="Slovákias" errtype="svow" pos="prop">Slovekias</errorort>. Oadtjum lij guolev mij lij 20,5 kilo låssåt.
+  </p>
+    <p type="text">
+Lars Krogdahl Kløftas vuojtij <errorort correct="Væráltgilppusav" errtype="cmp" pos="noun">VæráltGilppusav</errorort> jáddiguollimin 2007 13,2 <errorort correct="kilok" errtype="svow" pos="noun">kiluk</errorort> játtijn. Nubben sjattaj Jakomin Klavdij Slovenias. Goalmádin gis sjattaj Marcel Meinhold, Lulle-Berlinas.
+  </p>
+    <p type="text">
+Ållo dáhpádusáj ja dåjmaj daj guollimgilpustallamij aktijvuodan dagáj <errorort correct="Væráltgilppusav" errtype="cmp" pos="noun">VæráldGilppusav</errorort> ietjálágátjin, ja oalle suohtas vásádussan. Dát lij sierralágásj, ja juoga divna vájmmelis guollára lulun edesik akti ietjas viessomájge gæhttjalit.
+  </p>
+  </body>
+</document>
