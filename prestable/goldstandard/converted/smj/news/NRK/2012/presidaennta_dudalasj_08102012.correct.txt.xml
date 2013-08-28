@@ -36,7 +36,7 @@
     <p>Aili Keskitalo ij la dudálasj 2013 budsjæhttaoajvvadusájn.</p>
     <p>NSR – <errormorphsyn correct="Olli la iesj" errorinfo="x">Olli la iehtja</errormorphsyn> gájbbedam ráddidusás viehka ienep rudájt Sámediggáj gå dav mij dánna oajvvaduvvá, gåktu de sådnå máhttá liehket dudálasj, gatját Keskitalo.</p>
     <p>Gå dal presidænnta návti nammat sån la dudálasj dájna oajvvadusájn, de ham de sån rádjá signálajt oajválattjada jut dát la nuoges ja de ham Stuorradigge ij des dárbaha usjudallat Sámedikkev, jáhkká sån.</p>
-    <p>Sámedigge l <errorsyn correct="0">iehtja</errorsyn> mierredam gájbbedit lassedoarjjagav <errormorphsyn correct="139:jn millijåvnåjn kråvnåjn" errorinfo="x">139 <errorort correct="millijåvnå" errorinfo="conm,0-j">milliåvnå</errorort> kråvnåj</errormorphsyn>, valla dán oajvvadusán boahtá 32 lasse <errorort correct="millijåvnå" errorinfo="conm,0-j">milliåvnå</errorort>.</p>
+    <p>Sámedigge l <errorsyn correct="0">iehtja</errorsyn> mierredam gájbbedit lassedoarjjagav <errormorphsyn correct="139:jn millijåvnåjn kråvnåjn" errorinfo="case">139 <errorort correct="millijåvnå" errorinfo="conm,0-j">milliåvnå</errorort> kråvnåj</errormorphsyn>, valla dán oajvvadusán boahtá 32 lasse <errorort correct="millijåvnå" errorinfo="conm,0-j">milliåvnå</errorort>.</p>
     <p>– Ep de máhte dudálattja liehket budsjæhttalassánimijn mij la 100 <errorort correct="millijåvnå" errorinfo="conm,0-j">milliåvnå</errorort> kråvnå vuolep gå dav majt lijma sávvam, dættot Keskitalo.</p>
     <p>Rahterudá Nordlánndaj</p>
     <p>Nordlánndaj båhti lasse rudá ådå rahteprosjevtajda, aktij 1,1 milliárdda kråvnå.</p>
