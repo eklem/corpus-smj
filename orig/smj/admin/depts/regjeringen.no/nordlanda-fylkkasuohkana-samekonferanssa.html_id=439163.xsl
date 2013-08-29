@@ -78,18 +78,14 @@
   <xsl:variable name="mlang_oth" select="''"/>
   <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
-  <xsl:variable name="parallel_texts" select="'1'"/>
+  <xsl:variable name="parallel_texts" select="''"/>
   <xsl:variable name="para_dan" select="''"/>
-  <xsl:variable name="para_eng" select="'self-determination-and-the-sami.html_id=499217'"/>
   <xsl:variable name="para_fin" select="''"/>
   <xsl:variable name="para_fkv" select="''"/>
   <xsl:variable name="para_ger" select="''"/>
   <xsl:variable name="para_isl" select="''"/>
   <xsl:variable name="para_kal" select="''"/>
   <xsl:variable name="para_nno" select="''"/>
-  <xsl:variable name="para_nob" select="'apningen-av-forskningsprosjektet-ealat--.html_id=451244'"/>
-  <xsl:variable name="para_sma" select="'sijti-jarnge-aarborte-seminare-saemien-g.html_id=449017'"/>
-  <xsl:variable name="para_sme" select="'ealat--dutkanproeavtta-rahpan-15-207-guo.html_id=451244'"/>
   <xsl:variable name="para_smj" select="''"/>
   <xsl:variable name="para_swe" select="''"/>
   <!-- Tag the specified elements with the specified language: -->
