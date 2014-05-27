@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title>Lisásj</title>
@@ -7,6 +6,7 @@
       <person firstname="Lisa Lucia" lastname="Lyngman Gælok" sex="f" born="" nationality="nor"/>
     </author>
     <year>2011</year>
+    <wordcount>453</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -25,7 +25,7 @@
     <p>Guokta tjáppa næjtso, Sanne ja Johanna :)</p>
     <p>Måj Per Jonasijn</p>
     <p>Ráddnam :)</p>
-    <p>Iehkedis kloahkka gietjan le <errorort correct="sámeteáhter" errorinfo="vowc,a-á">sámeteahter</errorort>; <errorlang correct="swe">byfinnar, lappjävlar och annat pack</errorlang>. Gullam lav ahte le riek buorre ja suohtas <errorort correct="teáhter" errorinfo="vowc,a-á">teahter</errorort>, ávvudaláv <errorlex correct="dassátjij" errorinfo="w">dallutji</errorlex>! Dan maŋŋela le tjiektjamhárjjidallam. <errorort correct="Gierun" errorinfo="vowlat,o-u">Gieron</errorort> Sáme Siebrre li stiellim hárjjidallamijt guokti vahkkuj. Dijstagájt le sisbandy ja duorastagájt le bállotjiektjam.</p>
+    <p>Iehkedis kloahkka gietjan le <errorort correct="sámeteáhter" errorinfo="vowc,a-á">sámeteahter</errorort>; <errorlang correct="swe">byfinnar, lappjävlar och annat pack</errorlang>. Gullam lav ahte le riek buorre ja suohtas <errorort correct="teáhter" errorinfo="vowc,a-á">teahter</errorort>, ávvudaláv <errorlex correct="dassátjij" errorinfo="w"><errorort correct="dallutjij" errorinfo="x">dallutji</errorort></errorlex>! Dan maŋŋela le tjiektjamhárjjidallam. <errorort correct="Gierun" errorinfo="vowlat,o-u">Gieron</errorort> Sáme Siebrre li stiellim hárjjidallamijt guokti vahkkuj. Dijstagájt le sisbandy ja duorastagájt le bállotjiektjam.</p>
     <p>Hivás!</p>
     <p>Sjnjissjkom</p>
     <p>Buorre idet!</p>
@@ -46,7 +46,7 @@
     <p>Gábbmis vuoptajt oadtjum</p>
     <p>Iektu bájnnijiv vuoptajt</p>
     <p>Buorre biejvve! Vuoj, man gássjelis le álu dási <errorortreal correct="tjállet" errorinfo="conc,l-ll">tjálet</errorortreal>. Iv huomaha <errorlex correct="ahte" errorinfo="foreign,swe">at</errorlex> mujna l <errorort correct="bloagga" errorinfo="vowc,o-oa">blogga</errorort>, ja gå <errorort correct="ámeraláddárav" errorinfo="vowc,a-á;vowc,a-á;vowlat,a-ák">kameraladdarav</errorort> lav <errorlex correct="láhppám" errorinfo="w">láhppum</errorlex> <errorsyn correct="de ij" errorinfo="missing">ij</errorsyn> la nav suohtas. Sidáv biedjat <errorlex correct="ienep" errorinfo="w">ienebuv</errorlex> gåvåjt ja vuosedit majt dagáv, farra gå dåssju <errorortreal correct="tjállet" errorinfo="conc,l-ll">tjálet</errorortreal>. <errorsyn correct="Maŋemus bloaggima" errorinfo="missing">Maŋemus</errorsyn> rájes lav Divtasvuonan læhkám muhtem biejve, ja dåssju skåvlån årrum. Valla dánna Gierunin muohttegådij vásse duorastagá/<errorort correct="bierjjedagá" errorinfo="conc,rj-rjj">bierjedagá</errorort> ijá. Dálla le ållu bedjat ålggon ja nav hávsske!</p>
-    <p>Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav <errorlex correct="salostittjat" errorinfo="foreign,swe">skejttitjit</errorlex> <errormorphsyn correct="Per Jonasa siegen" errorinfo="x">aktan Per Jonasin</errormorphsyn>.</p>
+    <p>Ittjiv jáhke muohta galgaj bissut, valla ájn le vielggat. Juo máhttep sabegijda tjágŋat, ja idet galgav <errorlex correct="salostittjat" errorinfo="foreign,swe"><errorort correct="skiejttitjit" errorinfo="x">skejttitjit</errorort></errorlex> <errormorphsyn correct="Per Jonasa siegen" errorinfo="x">aktan Per Jonasin</errormorphsyn>.</p>
     <p>Iehkedis soajttá sjaddá <errorlang correct="eng">rail-session</errorlang> aj.</p>
     <p>Uddni lav viehkam ja rádjam.</p>
   </body>

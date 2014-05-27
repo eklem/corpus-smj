@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title>Jahke mij la vássám</title>
@@ -12,6 +11,7 @@
         <publisher>Lokalavisa Nordsalten</publisher>
       </publication>
     </publChannel>
+    <wordcount>532</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -29,7 +29,7 @@
     <p>Divtasvuona suohkan la varresvuodatermaj barggamin <errorsyn correct="gånnå ulmme l" errorinfo="wo">gånnå l ulmme</errorsyn> ietjasa barggijt åhpadit, ja Jielleváre suohkan aj sihtá dát bargos oasev válldet.</p>
     <p>Dan diehti l Jielleváre suohkan Divtasvuona suohkanij girjev tjállám ja gatjádam jus dåhkki sámegiellakursav sijá barggijda aj ásadit. Divtasvuona suohkan ja Stig Eriksen sihti dáv dievnastusáv Jiellevárráj vuobddet, ja vájbi tjavtja guovlluj dát åhpadibme jåhtuj boahtá.</p>
     <p xml:lang="nob">Gidádálven</p>
-    <p xml:lang="nno">Taxiijn hæjttá Idar</p>
+    <p xml:lang="romanian">Taxiijn hæjttá Idar</p>
     <p>Taxi Måsken sjattaj riek oahpes gå Discovery channel sáddij filmav dan birra, valla ittjij de dat huoman Idar Mikkelsenav boanndoda. Dajna de Måske taxi sjaddá histåvrrå. –Mån lav 16 jage taxiav Måsken dåjmadahttám, valla iv desti vuojne sisboadov dassta ja iv desti elja dav dåjmadahttet, subtsas taxiæjgát.</p>
     <p xml:lang="nno">Gidán</p>
     <p xml:lang="sme">Universitehtaåhpadibme Árranin</p>
@@ -46,7 +46,7 @@
     <p>Sihtá julevsábmáj girjijt tjállegoahtet Norbert</p>
     <p>24-jahkásasj ungáralasj studænnta Norbert Kiss la sámegielav låhkåmin, ja guoradallamin ungára-, suoma- ja sámegielav. Sån sihtá girjijt julevsámegiellaj tjállet, ja aj ietjas giellaj sáme girjijt jårggålit. –Dát la muv gáppte, ja guláv dagu aktijvuodav sámij, javllá sån ja vuoset ietjas <errorlex correct="álmmukbiktasav" errorinfo="w"><errorort correct="nasjonálgárvov" errorinfo="vowlat,u-o">nasjunálgárvov</errorort></errorlex>. Sån aj sihtá julevsámegielav adnet gå galggá novellajt tjállet ja girjijt jårggålit. Giesen la Divtasvuonan mannam sámegielav buorebut åhpatjit ja sámij buorebut oahpástuvvat.</p>
     <p xml:lang="sma">Tjavtjan</p>
-    <p xml:lang="ger">NSR–BB  2-1 Miriam</p>
+    <p xml:lang="romanian">NSR–BB  2-1 Miriam</p>
     <p>Miriam Paulsen ja Tone Finnesen bájkálasj NSR-listas ja Anders Urheim BB-listas li da gålmmå ájrrasa Gasska Nordlánda válggaguovlos boahtte válggagávdan Sámedikken. 4 lista oassálasstin dán jagásj Sámedikkeválggaj dán guovlon. Sálto Sámesiebrre – NSR oadtjun 208 jiena, Barggijbelludahka 113 jiena, Gasska Nordlánda <errorort correct="Doarespolitihkalasj" errorinfo="typo">Doarespoltihkalasj</errorort> lissta 38 jiena ja Sáme válggalihtto 11 jiena.</p>
     <p>Tjaktjadálven</p>
     <p>Ep dal ájn diede jus girjjetjállen sjaddap</p>

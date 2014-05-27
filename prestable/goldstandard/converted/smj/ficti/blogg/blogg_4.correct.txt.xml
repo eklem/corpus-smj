@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title/>
@@ -7,6 +6,7 @@
       <person firstname="Naima" lastname="K. Nergård" sex="f" born="" nationality="nor/swe"/>
     </author>
     <year>2011</year>
+    <wordcount>1626</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -42,7 +42,7 @@
     <p>Mikkel</p>
     <p>Ålles <errorlex correct="doajmmaoassálasste" errorinfo="foreign"><errorort correct="basecampoassálasste" errorinfo="cmp,hyph-0">basecamp-oassálasste</errorort></errorlex> vehka!</p>
     <p><errorlex correct="Bagádiddje" errorinfo="foreign">Instruktörra</errorlex> vuoset gåktu daj <errorort correct="diŋgaj" errorinfo="conc,ng-ŋg">dingaj</errorort> dahká.</p>
-    <p>Måj Mikkelijn "cirkusav&amp;(coninit,c-s|sirkusav)" <errorlex correct="ásadin" errorinfo="foreign,sme">doallin</errorlex> ;-)</p>
+    <p>Måj Mikkelijn <span type="quote">"cirkusav&amp;(coninit,c-s|sirkusav)"</span> <errorlex correct="ásadin" errorinfo="foreign,sme">doallin</errorlex> ;-)</p>
     <p><errorlang correct="sla">Mmm</errorlang>, ållu varás gáhkko dålå nanna <errorort correct="basedum" errorinfo="vowc,á-a">básedum</errorort>.</p>
     <p>
       <errorlang correct="nor">Rapellering</errorlang>
@@ -90,12 +90,12 @@
     <p>tjállám: Naima <errorort correct="kloahkka" errorinfo="vowlat,á-a">kloahkká</errorort> 10:14</p>
     <p>Majt aná dán birra?</p>
     <p>ådåájggásasj <errorort correct="Jåhkåmåhke" errorinfo="cap;conc,hkk-hk">jåhkkåmåhke</errorort> gahper Ge majt mån Karinis oadtjuv:</p>
-    <p>Mån oadtjuv dáv gahperav! <errorlang correct="eng">Shit</errorlang> man buorre ja fijnuk dat lij. Suohtas adnet gahperav mij la <errormorphsyn correct="&quot;sámegahpera&quot; muoduk" errorinfo="case">"sámegahper"-muoduk</errormorphsyn>. Dav máhtáv adnet <errorlex correct="bæjválattjat" errorinfo="w">dábálattjat</errorlex>. tjállám: Naima <errorort correct="kloahkka" errorinfo="vowlat,á-a">kloahkká</errorort> 06:05</p>
+    <p>Mån oadtjuv dáv gahperav! <errorlang correct="eng">Shit</errorlang> man buorre ja fijnuk dat lij. Suohtas adnet gahperav mij la <errormorphsyn correct="&quot;sámegahpera&quot; muoduk" errorinfo="case"><span type="quote">"sámegahper"</span>-muoduk</errormorphsyn>. Dav máhtáv adnet <errorlex correct="bæjválattjat" errorinfo="w">dábálattjat</errorlex>. tjállám: Naima <errorort correct="kloahkka" errorinfo="vowlat,á-a">kloahkká</errorort> 06:05</p>
     <p>Majt aná dán birra? muv bässásj Buoris vas!</p>
     <p>Dálla l bässásj ja loahpe <errorsyn correct="0">l</errorsyn> vássám, ja <errorsyn correct="17. vahkko" errorinfo="wo">vahkko 17</errorsyn> la jur <errorort correct="álggám" errorinfo="vowc,a-á">alggám</errorort>. Muv loahpe le lähkám hávsske. <errorortreal correct="Manniv" errorinfo="vowc,á-a">Mánniv</errorortreal> <errorortreal correct="máj" errorinfo="vowc,a-á">maj</errorortreal> Guovddagäjnnuj ja danna suohtastalliv Marenijn dajt vuostasj biejvijt. Måj Marenijn årojma sämmi bále Råmsån ja <errorort correct="Bådådjon" errorinfo="coninit,dd-d;conc,j-dj">Båddåjon</errorort> gå lijma unna nejtsutja. Munji dat lij riek suohtas, oadtjuv vuojnnet ja studerit <errorlex correct="nuortagij" errorinfo="w">dajt nuorta</errorlex> gáptijt, ja gåk mån lav studerim dajt. Iejvvijiv aj ållo ådå ulmutjijt ja lidjiv <errorort correct="Juhlsav" errorinfo="prop,suf">Juhl´sav</errorort> guossidime.</p>
     <p>Ållijma sijddaj mánnodagá, ja dijstagá mån ja muv vehka <errorort correct="Ruoktuj" errorinfo="vowlat,o-u">Ruoktoj</errorort> vuoddjájma. Ruokton lij riek hávsske ja vuogas. Mån lidjiv ienemusát muv <errorsyn correct="unnaoappátjij siegen" errorinfo="missing">unnaoappátjij</errorsyn> , stågajma ålggon muohttagin ja tjuojgajma Stuorjulevin. Manniv vas sijddaj duorastagá danen <errorlex correct="gå" errorinfo="w">de</errorlex> muohtá ja suv <errorlex correct="boaddnje" errorinfo="w">boadnjásj</errorlex> ja áhkko ja <errorort correct="áddjá" errorinfo="vowlat,a-á">áddja</errorort> båhtin mijá lusi Bårjjåsij. Dat lij suohtas, lij hávsske lagámus fuolkev iejvvit vas. Mån dahkiv <errorort correct="oreogáhkov" errorinfo="cmp">oreo-gáhkov</errorort> ja dav lip bårråm desik någåj!</p>
     <p>Dajt <errorort correct="maŋemus" errorinfo="vowc,á-a;ascii">mángemus</errorort> biejvijt lidjiv dåssju sijdan. Lev gårrum ådå <errorort correct="gardijnav" errorinfo="vowc,á-a">gárdijnav</errorort> <errorlex correct="ietjam" errorinfo="w,pers.refl">muv</errorlex> <errorort correct="ladnjaj" errorinfo="conc,dn-dnj">ladnaj</errorort>, biktasijt bassam, tjuojggam ja <errorort correct="vuojŋastallam" errorinfo="conc,jn-jŋ;vowc,á-a">vuojnastállam</errorort>. Ja dálla tjåhkkåhav Karina lunna tjállemin dáv. Galggiv skåvlån <errorsyn correct="tjåhkkåhit ja tjállet" errorinfo="missing"><errorort correct="tjåhkkåhit" errorinfo="vowlat,a-å">tjåhkkahit</errorort> tjállet</errorsyn>, valla sån muv <errorort correct="låkkij" errorinfo="vowc,uo-å;conc,gg-kk">luoggij</errorort> ietjas lusi.</p>
     <p>Hivás, tjáláv ienep gå sijddaj ålliv!</p>
-    <p></p>
+    <p/>
   </body>
 </document>

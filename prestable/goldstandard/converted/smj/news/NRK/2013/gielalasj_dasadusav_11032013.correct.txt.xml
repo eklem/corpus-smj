@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title/>
@@ -6,6 +5,7 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>109</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -28,6 +28,6 @@
     <p xml:lang="nno">
       <errormorphsyn correct="GULLDALA OASEV INGRID KINTELA HÅLAS DÁNNA" errorinfo="x">GULLDAL OASEV INGRID KINTELA HÅLAS DÁNNA</errormorphsyn>
     </p>
-    <p></p>
+    <p/>
   </body>
 </document>

@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title>Giellarádnastallam</title>
@@ -12,6 +11,7 @@
         <publisher>NRK Sápmi</publisher>
       </publication>
     </publChannel>
+    <wordcount>478</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -26,7 +26,7 @@
     <p>Giellarádnastallam</p>
     <p><errorort correct="Gåvådibme: Máná" errorinfo="x">Gåvådibme:Máná</errorort> sjiejssiji Ájluovta jávren.</p>
     <p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira/NRK Giellarádnastallam la ådå sámegielak fálaldahka mánájda Ájluovtan, Divtasvuonan.</p>
-    <p>Divtasvuona ASVO la álgadam prosjevtav "Mij sámástip aktan - buolvaj gaskan" ja la giellaprosjækta mij galggá njálmálasj sámegielav nannit ja åvdedit.</p>
+    <p>Divtasvuona ASVO la álgadam prosjevtav <span type="quote">"Mij sámástip aktan - buolvaj gaskan"</span> ja la giellaprosjækta mij galggá njálmálasj sámegielav nannit ja åvdedit.</p>
     <p>Sámedigge la ruhtadam prosjevtav ja gålmmå julevsámegielak nuora, Ingrid Kintel, Inga Mikkelsen ja Mathias Mikkelsen, Ájluovtas Divtasvuonan fálli mánájda sámegielak arenav gånnå sámástit rádnastallama ja suohttasij baktu la oajvvedoajmma. Sámegielak máná ja nuora æjvvali</p>
     <p>Akti vahkkuj tjoahkkiji nuora skåvllåmánájt sámegielak rádnastallamdåjmajda.</p>
     <p>Ingrid Kintel</p>
@@ -41,7 +41,7 @@
     <p>– Dájn æjvvalimijn la dåssju akta njuolgadus ja dat la sámástit. Dát la fálaldahka mánájda, sij bessi ietja válljit jus sihti fáron jali jus e sidá fáron. Ja gå mánná iesj bæssá válljit, “<errorsyn correct="0" errorinfo="redun">já</errorsyn> dáv de mån sidáv”, de sån juo diehtá vuordeduvvá sujsta sámegiella jus galggá oassálasstet. Ja navti mij jåksåp nubbe nuppev, máná ja midja nuora, subtsas Kintel.</p>
     <p>Fálaldahka la skåvllåmánájda gejn la sámegiella <errorortreal correct="vuostasjgiellan" errorinfo="cmp,X-1">vuostasj giellan</errorortreal> vuostasj klássas giehttjit klássaj, ja la akti vahkkuj.</p>
     <p>Ja máná li diededam dási sij sihti sæbrrat.</p>
-    <p>– Gå mánájt iejvviv oassásin de tjuorvvu “Håj, Ingrid, mån ávvudaláv rádnastallamij”, så dájda iehkedijda de máná ávvudalli. Miján ælla ga makkirik diededime. Da gudi båhti, båhti, subtsas Ingrid.</p>
+    <p>– Gå mánájt iejvviv oassásin de tjuorvvu <span type="quote">“Håj, Ingrid, mån ávvudaláv rádnastallamij”</span>, så dájda iehkedijda de máná ávvudalli. Miján ælla ga makkirik diededime. Da gudi båhti, båhti, subtsas Ingrid.</p>
     <p>Sihti sámástimev privatiserit</p>
     <p>Ja gånnå máná ja dá gålmmå nuora galggi æjvvalit ij la ga mierreduvvam álgos.</p>
     <p>–Miján ij la sierra sadje gånnå æjvvalip, subtsas Ingrid.</p>

@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title>Hellmocuhppa</title>
@@ -12,6 +11,7 @@
         <publisher>Lokalavisa Nordsalten</publisher>
       </publication>
     </publChannel>
+    <wordcount>381</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -24,7 +24,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
-    <p>Hellmocuhppa Divtasvuona stuorámus dáhpádus dán giese lij Måsken, tjáppa Hellmåvvån, <errorlex correct="Oarjjevuonan" errorinfo="cmp,hyph-0">Oarjje-vuonan</errorlex>. Måsskåj tjåhkanaddi ulmutja mierredittjat dán jagásj «rámpon ja guddnen».</p>
+    <p>Hellmocuhppa Divtasvuona stuorámus dáhpádus dán giese lij Måsken, tjáppa Hellmåvvån, <errorlex correct="Oarjjevuonan" errorinfo="cmp,hyph-0">Oarjje-vuonan</errorlex>. Måsskåj tjåhkanaddi ulmutja mierredittjat dán jagásj <span type="quote">«rámpon ja guddnen»</span>.</p>
     <p>Báhtjajn li guhtta tjiektjamjuohkusa; Måsske, Sisgiehtje, Tjieloabme, Davvegiehtje/Gállá, Bjørkvijkka ja Rudnávuodna. Næjttsotjiektjijs ællim nav moattes, ja siján lidjin <errorort correct="niellja" errorinfo="coninit,nj-n">njiellja</errorort> juohkusa: Måsske, Sisgiehtje, Bjørkvijkka ja Davvegiehtje/Tjieloabme. Divna tjiektje tjiektjin juohkusin masi <errorortreal correct="ietja" errorinfo="conc,htj-tj">iehtja</errorortreal> gullujin.</p>
     <p>Bierjjedagá sjnjilltjamáno 20. biejve álgij cuhppa, ja hiejtij lávvodak iehkeda. Unnemusájn lidjin iehtjasa tjiektjamjuohkusa. Gålmmå sierra juohkusa; 0 – 8 jagágijda, 9 – 12 jagágijda ja 12 – 15 jagágijda. Dajn tjiektji báhtja ja næjtso aktan, ja juogaduvvin Sisgiehtje- ja Davvegiehtjejuohkusijda. Dálkke ij lim nav buorre, rássjudaláj. Berustiddje tjuodtjun danen dæhkko vuolen, ja ettjin tjuorvuda nav ålov dán jage <errorsyn correct="gå majt åvdep" errorinfo="missing">gå åvdep</errorsyn> jagijt li dahkam. Valla Tjieloabme-juohkusa bælostiddje galla tjuorvudin, ja sij lidjin dahkam sierra ”bannerav” nissunfinála aktijvuodan.</p>
     <p>Kafean oattjojma biebmojt oasstet. Dasi aj ulmutja mannin jus goallujin. Gå iehkeduváj dållijin stuorra <errorort correct="låvdagoaden" errorinfo="vowlat,å-a">låvdågoaden</errorort>, ja ulmutja dåhku tjåhkanin. Lars Andreassenin lij gitára <errorort correct="maŋen" errorinfo="ascii">ma?en</errorort>, ja lávloj lávllagav ”Dålusj giessesijdda” ja ”Biegga”. Bieggalávllagin lij aj tjåttålávla, mij lij riek ”<errorlang correct="nor">tøffa</errorlang>”. Le oalle hávsske stuorlåvdagoaden tjåhkudallat. Nav hávsske le tjåhkudallat danna ja gehtjadit gå dållå gærssul, gehtjadit ulmutjijda, ja gulldalit gå lávludi ja subtsastalli. Gullu dagu sijdan. Oattjojma aj káfav ja sáftav juhkat ja sáme gáhkov ja berunlastajt bårråt.</p>

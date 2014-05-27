@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title/>
@@ -6,6 +5,7 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>306</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -28,7 +28,7 @@
     <p xml:lang="nno">Nominasjåvnnåtjåhkanibme Bådåddjon</p>
     <p>Oalgesbelludagá nominasjåvnnåtjåhkanibme Viestarmera válggabijran la <errorortreal correct="Bådådjon" errorinfo="conc,ddj-dj">Bådåddjon</errorortreal>, bierjjedagá ådåjakmáno 18. biejve. <errorsyn correct="Dála l oajvvaduvvam lissta" errorinfo="missing">Dála oajvvaduvvam lissta</errorsyn>:</p>
     <p xml:lang="nno">1. Lars Filip Paulsen, 33 jagák, Divtasvuodna 2. Aili Kirste Solheim Strømeng, 18 jagák, Vestvågøy  3. Nils Ante Eira, 37 jagák, Loabát</p>
-    <p xml:lang="dan">4. Åshild Jessen, 25 jagák, Divtasvuodna 5. Frank-­‐Håvard Storvik, 43 jagák, Bådåddjo 6. Lars Roger Hansen, 32 jagák, Lådik 7. Birgit Ellen Sara M Skum, 51 jagák, Sálatvuobme 8. Line Maria Berglund, 37 jagák, Ándá</p>
+    <p xml:lang="dan">4. Åshild Jessen, 25 jagák, Divtasvuodna 5. Frank-<hyph/>‐Håvard Storvik, 43 jagák, Bådåddjo 6. Lars Roger Hansen, 32 jagák, Lådik 7. Birgit Ellen Sara M Skum, 51 jagák, Sálatvuobme 8. Line Maria Berglund, 37 jagák, Ándá</p>
     <p xml:lang="dan">9. Arnhild Lindback, 26 jagák, Hábmer 10. Andreas Mikkelsen, 28 jagák, Divtasvuodna</p>
     <p xml:lang="dan">Filip Mikkelsen ij sebra</p>
     <p>Divtasvuona suohkanpolitihkkár ja sadjásasj jådediddje Oalgesbelludagá sámepolitihkalasj juohkusin , Filip Mikkelsen <errormorphsyn correct="ij la oajvvaduvvam gånnåk sadjáj" errorinfo="case,ine-ill">ij la oajvvaduvvam <errorort correct="gånnåk" errorinfo="fin,n-k">gånnån</errorort> sajen</errormorphsyn> dán listan.</p>

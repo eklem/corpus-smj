@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title> SANKS-hiejttem la vájvve</title>
@@ -22,6 +21,7 @@
         <publisher>NRK Sápmi</publisher>
       </publication>
     </publChannel>
+    <wordcount>383</wordcount>
     <availability>
       <license type="standard"/>
     </availability>

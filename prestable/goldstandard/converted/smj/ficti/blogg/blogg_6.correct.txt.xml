@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title>Lisásj</title>
@@ -7,6 +6,7 @@
       <person firstname="Lisa Lucia" lastname="Lyngman Gælok" sex="f" born="" nationality="nor"/>
     </author>
     <year>2012</year>
+    <wordcount>589</wordcount>
     <availability>
       <license type="standard"/>
     </availability>

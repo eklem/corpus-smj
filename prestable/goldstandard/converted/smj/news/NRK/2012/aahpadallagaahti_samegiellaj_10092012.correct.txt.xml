@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title>Åhpadallagåhti sámegiellaj</title>
@@ -12,6 +11,7 @@
         <publisher>NRK Sápmi</publisher>
       </publication>
     </publChannel>
+    <wordcount>248</wordcount>
     <availability>
       <license type="standard"/>
     </availability>

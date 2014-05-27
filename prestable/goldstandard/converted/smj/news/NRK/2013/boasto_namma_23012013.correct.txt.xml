@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title/>
@@ -6,6 +5,7 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>210</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
@@ -21,7 +21,7 @@
     <p><errorlang correct="nor">Foto</errorlang>: Tom Edvindsen/NRK Javlaj åvddål ásaduváj ådå miehttseguovllo bidumsámeguovlluj Nordlándan, valla miehttseguovlo namma la nuorttasámegiellaj tjáleduvvam.</p>
     <p xml:lang="nno">Harrieth Aira <errorlang correct="url">harrieth.aira@nrk.no</errorlang></p>
     <p xml:lang="sme">Ådå miehttseguovllo mij gåbttjå Oarjjelij Bájddára, Melødjo ja Bájddára suohkanijt, <errorortreal correct="bidumsámeguovlon" errorinfo="cmp,X-1">bidumsáme guovlon</errorortreal> Nordlándan, oattjoj namáv Láhku miehttseguovllo.</p>
-    <p xml:lang="fkv">Valla bájke ulmutja murkesti nammaj.</p>
+    <p xml:lang="fin">Valla bájke ulmutja murkesti nammaj.</p>
     <p>Sijá mielas viertti namma liehket bidumsámegiellaj gå dat la ásaduvvam <errorortreal correct="bidumsámeguovlluj" errorinfo="cmp,X-1">bidumsáme guovlluj</errorortreal>.</p>
     <p xml:lang="sme">Láhku miehttseguovllo</p>
     <p>Ásaduváj <errorort correct="javllamánpn" errorinfo="vowlat,á-a">javllámánon</errorort> 2012. Gåbttjå oasev Oarjjelij Bájddára, Melødjo ja Bájddára suohkanijs. Gåbttjå areálav mij la suláj 188 km2. Láhku miehttseguovllo la ráddnáguovllo Sálltoduoddara-Tjáhppisjieŋa <errorort correct="miehttseguovlluj" errorinfo="conc,htt-htts">miehtteguovlluj</errorort>. Gálldo: www.dirnat.no/multimedia/54728/Faktaark-des-2012.pdf&amp;contentdisposition=attachment – Láhku miehttseguovllo la mierreduvvam nuorttasámegiela tjállemvuoge milta ja muv mielas ij tjuovo bájkkenammalága vuodoprinsihpajt, javllá sábme ja kultuvrrahistorihkkár, Elin Anita Sivertsen, Bájddáris gut imájdallá manen Sámedigge ij la gåtsedam ássjev vaj riekta namma miehttseguovlluj mierreduvvá. Láhku vaj Láhko miehttseguovllo?</p>

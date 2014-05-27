@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="smj" id="no_id">
   <header>
     <title/>
@@ -7,6 +6,7 @@
       <person firstname="Naima" lastname="K. Nergård" sex="f" born="" nationality="nor/swe"/>
     </author>
     <year>2011/2012</year>
+    <wordcount>858</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
