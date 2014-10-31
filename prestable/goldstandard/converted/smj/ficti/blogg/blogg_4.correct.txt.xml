@@ -42,7 +42,7 @@
     <p>Mikkel</p>
     <p>Ålles <errorlex correct="doajmmaoassálasste" errorinfo="foreign"><errorort correct="basecampoassálasste" errorinfo="cmp,hyph-0">basecamp-oassálasste</errorort></errorlex> vehka! </p>
     <p><errorlex correct="Bagádiddje" errorinfo="foreign">Instruktörra</errorlex> vuoset gåktu daj <errorort correct="diŋgaj" errorinfo="conc,ng-ŋg">dingaj</errorort> dahká. </p>
-    <p>Måj Mikkelijn <span type="quote">"cirkusav&amp;(coninit,c-s|sirkusav)"</span> <errorlex correct="ásadin" errorinfo="foreign,sme">doallin</errorlex> ;-) </p>
+    <p>Måj Mikkelijn "<errorort correct="sirkusav" errorinfo="coninit,c-s">cirkusav</errorort>" <errorlex correct="ásadin" errorinfo="foreign,sme">doallin</errorlex> ;-) </p>
     <p><errorlang correct="sla">Mmm</errorlang>, ållu varás gáhkko dålå nanna <errorort correct="basedum" errorinfo="vowc,á-a">básedum</errorort>. </p>
     <p><errorlang correct="nor">Rapellering</errorlang> </p>
     <p>Ole</p>
