@@ -95,8 +95,8 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'291-millioner-til-ekstrakostnader-i-regj.html_id=659567'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_sma" select="'291-miljovnna-raehuskoartila-lassigoluid.html_id=659567'"/>
+<xsl:variable name="para_sme" select="'291-miljovnna-raehuskoartila-lassigoluid.html_id=659567'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

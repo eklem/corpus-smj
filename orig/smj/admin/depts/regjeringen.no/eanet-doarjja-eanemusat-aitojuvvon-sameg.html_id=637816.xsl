@@ -91,8 +91,8 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'okt-stotte-til-de-mest-utsatte-samiske-s.html_id=637816'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_sma" select="'eanet-doarjja-eanemusat-aitojuvvon-sameg.html_id=637816'"/>
+<xsl:variable name="para_sme" select="'eanet-doarjja-eanemusat-aitojuvvon-sameg.html_id=637816'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

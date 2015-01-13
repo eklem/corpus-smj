@@ -53,7 +53,7 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'sme'"/>
+<xsl:variable name="mainlang" select="'smj'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -90,8 +90,8 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'regjeringen-styrker-satsingen-pa-samiske.html_id=619003'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_sma" select="'raehus-nanne.html_id=619003'"/>
+<xsl:variable name="para_sme" select="'raehus-nanne.html_id=619003'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
