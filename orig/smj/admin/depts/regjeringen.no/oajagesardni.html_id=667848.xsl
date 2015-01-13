@@ -6,9 +6,9 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/fad/pressesenter/preassadieahusat/2011/eanet-ruat-vaidalusaiid-meannudeapmai.html?id=659579'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/se/dep/smk/aigeguovdil/sartnit-ja-artihkkalat/statsministeren/statsminister_jens_stoltenberg/2012/oajagesardni.html?id=667848'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Eanet ruđat váidalusáššiid meannudeapmái - regjeringen.no'"/>
+<xsl:variable name="title" select="'Stáhtaministara ođđajagesárdni 2012 - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -31,7 +31,7 @@
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="'2011'"/>
+<xsl:variable name="year" select="'2012'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
@@ -47,7 +47,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'415'"/>
+<xsl:variable name="wordcount" select="'3366'"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="ocr" select="''"/>
@@ -58,7 +58,7 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'smj'"/>
+<xsl:variable name="mainlang" select="'sma'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -76,8 +76,8 @@
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
-<xsl:variable name="mlang_nob" select="''"/>
-<xsl:variable name="mlang_sma" select="''"/>
+<xsl:variable name="mlang_nob" select="'1'"/>
+<xsl:variable name="mlang_sma" select="'1'"/>
 <xsl:variable name="mlang_sme" select="'1'"/>
 <xsl:variable name="mlang_smj" select="'1'"/>
 <xsl:variable name="mlang_swe" select="''"/>
@@ -87,16 +87,16 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
+<xsl:variable name="para_eng" select="'prime-minister-jens-stoltenbergs-new-yea.html_id=667848'"/>
 <xsl:variable name="para_fin" select="''"/>
 <xsl:variable name="para_fkv" select="''"/>
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'mer-penger-til-behandling-av-klagesaker.html_id=659579'"/>
-<xsl:variable name="para_sma" select="'eanet-ruat-vaidalusaiid-meannudeapmai.html_id=659579'"/>
-<xsl:variable name="para_sme" select="'eanet-ruat-vaidalusaiid-meannudeapmai.html_id=659579'"/>
+<xsl:variable name="para_nob" select="'statsministerens-nyttarstale-2012.html_id=667848'"/>
+<xsl:variable name="para_sma" select="'oajagesardni.html_id=667848'"/>
+<xsl:variable name="para_sme" select="'oajagesardni.html_id=667848'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
