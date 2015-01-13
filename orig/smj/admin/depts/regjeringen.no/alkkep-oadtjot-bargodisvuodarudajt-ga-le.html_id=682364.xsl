@@ -58,7 +58,7 @@
 <xsl:variable name="note" select="''"/>
 
 <!-- The main language of the document -->
-<xsl:variable name="mainlang" select="'sme'"/>
+<xsl:variable name="mainlang" select="'smj'"/>
 
 <!-- Other languages, in case of multilingual document. -->
 <!-- Select "1" for the variable multilingual -->
@@ -75,8 +75,8 @@
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
-<xsl:variable name="mlang_nno" select="'1'"/>
-<xsl:variable name="mlang_nob" select="'1'"/>
+<xsl:variable name="mlang_nno" select="''"/>
+<xsl:variable name="mlang_nob" select="''"/>
 <xsl:variable name="mlang_sma" select="'1'"/>
 <xsl:variable name="mlang_sme" select="'1'"/>
 <xsl:variable name="mlang_smj" select="'1'"/>
@@ -95,8 +95,8 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="'lettere-a-fa-dagpenger-for-delvis-permit.html_id=682364'"/>
 <xsl:variable name="para_nob" select="'lettere-a-fa-dagpenger-for-delvis-permit.html_id=682364'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_sma" select="'alkkep-oadtjot-bargodisvuodarudajt-ga-le.html_id=682364'"/>
+<xsl:variable name="para_sme" select="'alkkep-oadtjot-bargodisvuodarudajt-ga-le.html_id=682364'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
