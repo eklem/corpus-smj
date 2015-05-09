@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style type="text/css">
+.limitdisplay-user { display: none; }.limitdisplay-user-10 { display: inline; }.limitdisplay-user-block-10 { display: block; }</style>                                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Duodje / Æládus / Sámedigge - Sametinget</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="smj-no" />
+
+                    <meta name="author" content="Making Waves" />
+    
+                <meta name="copyright" content="Sametinget" />
+    
+                <meta name="description" content="" />
+    
+                <meta name="keywords" content="Sametinget" />
+    
+    
+    
+    <!--[if lt IE 9 ]>
+        <meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
+    <![endif]-->
+
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+        
+<link rel="Home" href="/" title="Sametinget front page" />
+<link rel="Index" href="/" />
+<link rel="Top"  href="/" title="Duodje / Æládus / Sámedigge - Sametinget" />
+<link rel="Search" href="/content/advancedsearch" title="Search Sametinget" />
+<link rel="Shortcut icon" href="/extension/sametinget/design/sametinget/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/ezinfo/copyright" />
+<link rel="Author" href="/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/rss/feed/my_feed" /><link rel="Alternate" href="/layout/set/print/AEladus/Duodje" media="print" title="Printable version" />
+    	
+	<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/reset.css" />
+<link rel="stylesheet" type="text/css" href="/extension/ezwt/design/standard/stylesheets/websitetoolbar.css" />
+<link rel="stylesheet" type="text/css" href="/design/standard/stylesheets/debug.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/layout.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/elements.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/responsive.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/accordion.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/lightbox.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/jquery-ui-1.8.14.custom.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/bx_styles.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/tools/style.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/slider.css" />
+
+                      
+                      
+                      	
+  	
+<link rel="stylesheet" type="text/css" href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/sametinget/design/sametinget/stylesheets/browsers/ie7lte.css); </style> <![endif]-->        <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-29277764-1']);
+
+      (function() {        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/ezwebin/design/ezwebin/javascript/insertmedia.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/jquery-ui-1.8.4.custom.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/jquery.address-1.4.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/samediggi.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/slider.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/plugins/jquery.bxSlider.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/plugins/jquery.lightbox.js" charset="utf-8"></script>
+<script type="text/javascript">
+
+(function($) {
+    var _rootUrl = '/', _serverUrl = _rootUrl + 'ezjscore/', _seperator = '@SEPERATOR$',
+        _prefUrl = _rootUrl + 'user/preferences';
+
+    // FIX: Ajax is broken on IE8 / IE7 on jQuery 1.4.x as it's trying to use the broken window.XMLHttpRequest object
+    if ( window.XMLHttpRequest && window.ActiveXObject )
+        $.ajaxSettings.xhr = function() { try { return new window.ActiveXObject('Microsoft.XMLHTTP'); } catch(e) {} };
+
+    // (static) jQuery.ez() uses jQuery.post() (Or jQuery.get() if post paramer is false)
+    //
+    // @param string callArgs
+    // @param object|array|string|false post Optional post values, uses get request if false or undefined
+    // @param function Optional callBack
+    function _ez( callArgs, post, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            var _token = '', _tokenNode = document.getElementById('ezxform_token_js');
+            if ( _tokenNode ) _token = _tokenNode.getAttribute('title');
+            if ( post.join !== undefined )// support serializeArray() format
+            {
+                post.push( { 'name': 'ezjscServer_function_arguments', 'value': callArgs } );
+                post.push( { 'name': 'ezxform_token', 'value': _token } );
+            }
+            else if ( typeof(post) === 'string' )// string
+            {
+                post += ( post ? '&' : '' ) + 'ezjscServer_function_arguments=' + callArgs + '&ezxform_token=' + _token;
+            }
+            else // object
+            {
+                post['ezjscServer_function_arguments'] = callArgs;
+                post['ezxform_token'] = _token;
+            }
+            return $.post( url, post, callBack, 'json' );
+        }
+        return $.get( url + encodeURIComponent( callArgs ), {}, callBack, 'json' );
+    };
+    _ez.url = _serverUrl;
+    _ez.root_url = _rootUrl;
+    _ez.seperator = _seperator;
+    $.ez = _ez;
+
+    $.ez.setPreference = function( name, value )
+    {
+        var param = {'Function': 'set_and_exit', 'Key': name, 'Value': value};
+            _tokenNode = document.getElementById( 'ezxform_token_js' );
+        if ( _tokenNode )
+            param.ezxform_token = _tokenNode.getAttribute( 'title' );
+
+        return $.post( _prefUrl, param );
+    };
+
+    // Method version, for loading response into elements
+    // NB: Does not use json (not possible with .load), so ezjscore/call will return string
+    function _ezLoad( callArgs, post, selector, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            post['ezjscServer_function_arguments'] = callArgs;
+            post['ezxform_token'] = jQuery('#ezxform_token_js').attr('title');
+        }
+        else
+            url += encodeURIComponent( callArgs );
+
+        return this.load( url + ( selector ? ' ' + selector : '' ), post, callBack );
+    };
+    $.fn.ez = _ezLoad;
+})(jQuery);
+        
+</script>
+
+
+<script src="http://cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+        <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-29277764-1']);
+
+      (function() {        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+</head>
+
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]>   <body class="ie7"><![endif]-->
+<!--[if IE 8 ]>   <body class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
+<!-- Complete page area: START -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/nb_NO/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="header-position">
+    <div id="header">
+        <div class="fontSizeBox">
+            <a id="font_size_small" onclick="changeSize('fontSmall')">a</a>
+            <a id="font_size_normal" onclick="changeSize('fontNormal')">a</a>
+            <a id="font_size_large" onclick="changeSize('fontLarge')">a</a>
+        </div>
+
+        <div id="usermenu">
+            
+<div id="languages">
+    <span id="languageSwitcher" class="smj"><span class="hidden-on-small">Julevsámegiellaj</span><span class="arrowdown"></span></span>
+    
+    <ul id="languageList">
+                                    <li class="nor" ><a href="/switchlanguage/to/nor/AEladus/Duodje">Norsk</a></li>
+                                                <li class="nordsamisk" ><a href="/switchlanguage/to/nordsamisk/AEladus/Duodje">Davvisámegillii</a></li>
+                                                <li class="sorsamisk" ><a href="/switchlanguage/to/sorsamisk/AEladus/Duodje">Åarjelsaemiengïelese</a></li>
+                                            </ul>
+</div>
+
+
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+	    $('#languageSwitcher').toggle(function(){
+			$("#languageList").show();
+			$("#languages").addClass("open");
+		}, function() {
+			$('#languageList').hide();
+			$("#languages").removeClass("open");
+		});
+	});
+	</script>
+        </div>
+
+                    <div id="searchbox">
+  <form action="/content/search">
+  <div id="searchbox-inner">
+    <label for="searchtext" class="hide">Åtså</label>
+        <input id="searchtext" name="SearchText" type="text" value="" size="12" placeholder="Åtså .."/>
+    <input id="searchbutton" class="button" type="submit" value="Søk" title="Søk" /><span class="search_btn_right"></span>
+              </div>
+  </form>
+</div>            </div>
+</div>
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<div id="page" class="sidemenu noextrainfo section_id_1 subtree_level_0_node_id_2 subtree_level_1_node_id_130 subtree_level_2_node_id_172">
+  
+
+  		  <!-- Top menu area: END -->
+	  <!-- Path area: START -->
+  	
+  	<!-- Path area: END -->
+
+	<!-- Toolbar area: START -->
+  	  	<!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns" class="top-spacing ">
+  	                              <div id="path">
+        <div id="path_road" style="position: relative; display: block; width: 695px; float: left">
+        
+        <div><a href="/">Sámedigge</a>
+                                        <span class="path-separator"></span>
+                                        </div>
+    
+  
+        <div><a href="/AEladus">Æládus</a>
+                                        <span class="path-separator"></span>
+                                        </div>
+    
+  
+        <div class="path-text">Duodje
+    	
+    </div><span class="path-separator-last"></span>
+    
+  
+  
+        </div>
+  </div>                        <!-- Side menu area: START -->
+
+    	    <div id="leftcol" class="w240">
+	    				<div>
+	<a href="http://www.samedigge.no"><img alt="Sametinget" src="/extension/sametinget/design/sametinget/images/graphics/logo_luleSamisk.png"></a>
+</div>
+
+<div id="leftnav">
+	    	        
+   <div class="nav-container menu-blue">
+   <div class="nav-decorator decor-light blue "></div><!-- end main navsection -->
+            <ul class="menu-list">
+                    
+                                                    <li class="firstli"><a href="/Giella">Giella</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/AAhpadus">Åhpadus</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Kultuvrraiellem">Kultuvrraiellem</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/AEladus" class="selected off-blue">Æládus</a>
+            
+                                                            <ul class="submenu-list">
+                                                                                                                               <li class="firstli"><a href="/AEladus/Boatsojaeladus">Boatsojæládus</a></li>
+                                                                                                                                                   <li><a href="/AEladus/Marijna-aeladusa">Marijna æládusá </a></li>
+                                                                                                                                                   <li><a href="/AEladus/Ednambarggo">Ednambarggo </a></li>
+                                                                                                                                                                                               <li><a href="/AEladus/Duodje" class="selected off-blue current">Duodje</a></li>
+                                                                                                                                                   <li><a href="/AEladus/Moattelagasj-aeladusiellem">Moattelágásj æládusiellem </a></li>
+                                                                                                                                                   <li><a href="/AEladus/Kulturaeladus">Kulturæládus </a></li>
+                                                                                                                                                                                               <li class="lastli"><a href="/AEladus/Arvvodahko-programma">Árvvodahko prográmma</a></li>
+                                                        </ul>
+                                                    </li>
+                    
+                                                    <li><a href="/Biras-arealla-ja-kultursuodjalus">Birás, areálla ja kultursuodjalus </a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Varresvuohta-ja-sosialla">Varresvuohta ja sosiálla</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Rijkajgasskasasj-barggo">Rijkajgasskasasj barggo </a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Ednam-ja-resurssarievtesvuodaj">Ednam- ja resurssarievtesvuodaj</a>
+            
+                        </li>
+                    
+                                                                                <li class="lastli"><a href="/Suohkanodastus">Suohkanođastus</a>
+            
+                        </li>
+                </ul>
+        <div class="nav-decorator decor-heavy blue"></div><!-- end main navsection -->
+           </div>	    	        
+   <div class="nav-container menu-yellow">
+   <div class="nav-decorator decor-light yellow "></div><!-- end main navsection -->
+            <ul class="menu-list">
+                    
+                                                    <li class="firstli"><a href="/Sammedikke-birra">Sámmedikke birra </a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Girjeradju">Girjerádju</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Stipeanda-ja-doarjja">Stipeanda ja doarjja</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Dahpahusat">Dáhpáhusat </a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Dokumeantta">Dokumeantta</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Praessadiedadus">Præssadiedádus</a>
+            
+                        </li>
+                    
+                                                                                <li class="lastli"><a href="/Arkiv">Arkiv </a>
+            
+                        </li>
+                </ul>
+        <div class="nav-decorator decor-heavy yellow"></div><!-- end main navsection -->
+           </div></div>			    	<!-- Side menu area: END -->
+	    </div>
+    
+    <!-- Main area: START -->
+
+           		 	   
+    <div id="maincol" class="w720">
+    	<div id="content_wrapper">
+
+  
+            <!-- Main area content: START -->
+          <div class="folderimage ">
+					
+    
+        
+    
+                                                                                                                                            <img src="/var/ezwebin_site/storage/images/media/images/main-images/temabilder/duodji-c-kenneth-haetta/3595-1-nor-NO/Duodji-C-Kenneth-Haetta_mainimage.jpg" width="720" height="405"  alt="Duodji ©Kenneth Hætta" title="Duodji ©Kenneth Hætta" />
+            
+    
+    
+    		</div>
+    <div class="funding_button_container">
+        <span class="btn_start"></span><a href="/AEladus/Duodje/Stipeanda-ja-doarjja" class="btn">Åtså biednikdårjav<span></span></a>
+</div>
+<h1>Duodje</h1>
+
+<div class="intro">
+    
+<p>Duodje la ájnas identitehta dahkkedoajmma manna le stuor merkadus sáme kultuvrraj ja giellaj. Ållo nissun adni duojev oajvveæládussan jali duodden ietjá dåjmajda.</p><p>Sámedigge ulmme la badjeloajve le åvddånahttet duodje æládusáv alep vuojtojn ja lasijn jådojn iesjdagádum gálvojs.</p></div>
+<div class="intro_right">
+        	<div class="politician">
+	<span class="header">Politihkalasj åvdåsvásstediddje</span>
+
+	<div class="person_info_border">
+        <div class="img_person">
+    
+        
+    
+                                                                                                                                            <img src="/var/ezwebin_site/storage/images/om-sametinget/representanter/silje-karine-muotka/38838-3-nor-NO/Silje-Karine-Muotka_portrait_small_height.jpg" width="53" height="80"  alt="Silje Karine Muotka ©Kenneth Hætta/Sámediggi" title="Silje Karine Muotka ©Kenneth Hætta/Sámediggi" />
+            
+    
+    
+    </div>
+        <div class="info_person">
+            <span class="role">Rådsmedlem </span>
+            <span>NSR</span>            <span class="valgkrets">Nordre</span>
+        </div>
+
+	</div>
+
+    <div class="person_info">
+        <p><a href="/Sammedikke-birra/Ajrrasa/Silje-Karine-Muotka" class="name">Silje Karine Muotka</a></p>
+		<span>Phone: 
++47 984 87 576</span>
+					<span><a href="mailto:silje.karine.muotka@samediggi.no" class="email">silje.karine.muotka@samediggi.no</a></span>
+		    </div>
+</div>
+    </div>
+    <div id="strories_wrapper">
+        <div id="success_stories">
+            <span>Jur dálla</span>
+
+                                        <div class="related_article">
+            
+    
+        
+    
+                                                                                                                                            <img src="/var/ezwebin_site/storage/images/media/bilder/sametingsraadet-2013-2017/silje-karine-muotka/silje-karine-muotka-3-foto-kenneth-haetta/52637-1-nor-NO/Silje-Karine-Muotka-3-Foto-Kenneth-Haetta_article_small.jpg" width="200" height="127"  alt="Silje Karine Muotka 3 (Foto: Kenneth Hætta)" title="Silje Karine Muotka 3 (Foto: Kenneth Hætta)" />
+            
+    
+    
+            <div class="article_name">
+        <a href="/AEladus/Duodje/Doarjju-duodjeoassasijt-Inka-AS-ja-Manndalen-Husflidlag">Doarjju duodjeoassásijt Inka AS ja Manndalen Husflidlag</a></b>
+    </div>
+    <div class="article_intro">
+        Sámediggerade le juollodam dårjav duodjeoassásijda Inka AS i Kárásjjågån ja...
+    </div>
+    <a href="/AEladus/Duodje/Doarjju-duodjeoassasijt-Inka-AS-ja-Manndalen-Husflidlag" class="arrow_thin">Lågå ienebuv</a>
+</div>            
+                                        <div class="related_article">
+            
+    
+        
+    
+                                                                                                                                            <img src="/var/ezwebin_site/storage/images/media/bilder/silje-karine-muotka/silje-karine-muokta_sametinget_naert/52311-1-nor-NO/Silje-Karine-Muokta_Sametinget_Naert_article_small.jpg" width="200" height="133"  alt="Silje Karine Muokta_Sametinget_Nært" title="Silje Karine Muokta_Sametinget_Nært" />
+            
+    
+    
+            <div class="article_name">
+        <a href="/AEladus/Duodje/Duodjesaabadus-gergas">Duodjesåbadus gergas </a></b>
+    </div>
+    <div class="article_intro">
+        Duodjesjiehtadallamij oassálasste li boahtám ájgás, ja 2015-jage såbadusán l...
+    </div>
+    <a href="/AEladus/Duodje/Duodjesaabadus-gergas" class="arrow_thin">Lågå ienebuv</a>
+</div>            
+        </div>
+
+        <div id="see_all">
+            <a href="/story/all/172" class="arrow">Vuoseda divna ássjijt</a>
+        </div>
+    </div>
+<div id="content_main">
+	<div class="topic">
+
+		
+<p><b>Sámedigge barggá dán åvdås :</b></p>
+<ul>
+
+<li>Lasedit jådov iesjdagádum gálvojs</li>
+
+<li>Åttjudit nuorajt ådåálggen duodjeæládussaj&nbsp;</li>
+
+</ul>
+<p>Nav vaj mij galggap åledit mijá ulmmelijt la Sámedigge viehkken fágalasj bagádusáj duodjárijda, tjadádit æládussjiehtadusájt duodjáj ja ruhtadårjav dåjmajda ma li viehkken åvddånahttet njuolgga duodje æládussaj.</p><p>Sámedigge jahkásattjat sjiehtadallá æládussjiehtadusáv duodjeæládussaj. Sámedigge aj háldat rudájt dåjmajda duodjeæládusán. <a href="http://www.innovasjonnorge.no/" target="_self">Innovasjon Norge</a> háldat viddnudakájgodum rudájt duodjeæládussaj.</p><p>
+Suohkana æládusfoannda máhttá ruhtadit unnep dåjmajt ja prosjevtajt. <br />Æládussjiehtadusá milta duojen juohká Sámedigge dájt ruhtadoarjjagijt:</p>
+<ul>
+
+<li>Doajmmaruhtadårja</li>
+
+<li>Investerim- ja åvddånahttem ruhtadårja</li>
+
+<li>Álkkádusårniga</li>
+
+<li>Fága – ja økonomalasj juogos</li>
+
+<li>Vuobddemálkkudak dåjma (åhttse baseridum)</li>
+
+</ul>
+<p><b>Fássta Juollodime</b></p>
+<ul>
+
+<li><a href="http://duodjeinstituhtta.com/duodjeinstituhtta/index.php" target="_self">Duodjeinstituhtta</a> oadtju juohkka jage gålmmå milijåvnå suv dåjmajda. Siján la ulmme jådedit åvddånahttemav duodjeæládusán</li>
+
+<li><a href="http://www.reindriftsopplaering.no/" target="_self">Åhpaduskåntåvrrå boatsojæládussaj ja duodjáj</a> oadtju 1,5 milijåvnå kråvnå doarjjan jahkásattjat viddnooahppeårnigij duojen. Da galggi bajás 10 viddnooahppe nav vaj da máhtti válldet fáhkagirjev duojen</li>
+
+<li>Duodje sebrudagá Sámij Duodje ja Duodjárij æládussiebrre oadtju jahkásattjat doarjjagav gåtsedit duodjárij berustimev</li>
+
+<li>Duodjevuobdde máhtti åhtsåt prosjæktadoarjjagav ja dan láhkáj nannit manov duojes dagádum ietjá duodjárijs</li>
+
+</ul>
+															
+						<div class="related_files">
+			<ul class="file_list">
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/689/5708/version/2/file/S%C3%A1mediggedie%C4%91ahus+eal%C3%A1husovddideami+birra+%282011%29.pdf>Sámediggedieđahus ealáhusovddideami birra (2011)</a>
+			<span>(9.616,88 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/688/5704/version/2/file/Sametingsmelding+om+n%C3%A6ringsutviking+%282011%29.pdf>Sametingmelding om næringsutvikling (2011)</a>
+			<span>(9.628,59 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/867/7987/version/2/file/Rapport+om+n%C3%A6ringsutvikling+2011.pdf>Næringsutvikling og attraktivitet i samiske området (2011) </a>
+			<span>(8.621,58 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/869/7999/version/1/file/Eal%C3%A1hus%C5%A1iehtadus+2012.pdf>Ealáhusšiehtadus 2012</a>
+			<span>(87,48 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/870/8003/version/1/file/Hovedavtale+for+duodji+norsk+s%C3%A1megiella.pdf>Hovedavtale for duodji norsk sámegiella</a>
+			<span>(85,10 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/871/8007/version/1/file/N%C3%A6ringsavtale+for+duodji+2012+no.pdf>Næringsavtale for duodji 2012 no</a>
+			<span>(2.154,50 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/1686/15685/version/1/file/N%C3%A6ringsutvikling%2C+innovasjon+og+attraktivitet+i+Samisk+omr%C3%A5de+%282012%29.pdf>Næringsutvikling, innovasjon og attraktivitet i Samisk område (2012)</a>
+			<span>(3.779,07 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/3636/32627/version/1/file/Duodjin%C3%A6ringens+%C3%B8konomiske+situasjon+-+rapport.pdf>Duodjinæringens økonomiske situasjon - rapport</a>
+			<span>(813,96 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/3637/32631/version/1/file/Duodjeeal%C3%A1husa+ekonom%C3%A1las+raporta.pdf>Duodjeealáhusa ekonomálas raporta</a>
+			<span>(762,27 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/4148/37746/version/1/file/Duodjeeal%C3%A1hus%C5%A1iehtadus+2014+-+N%C3%A6ringsavtale+for+duodji+2014.pdf>Duodjeealáhusšiehtadus 2014 - Næringsavtale for duodji 2014</a>
+			<span>(5.851,37 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/word.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/6378/58728/version/2/file/540202_1_P%28L%29_O.doc>Duodjeealáhusšiehtadus 2015 - Næringsavtale for duodji 2015</a>
+			<span>(88,06 kB)</span>
+		
+		</div>				</li>
+						</ul>
+		</div>
+		
+	</div>
+</div>
+
+<div id="content_right">
+    
+    <div class="quote">
+        <blockquote>Duodje la ájnas identitehta dahkkedoajmma manna le stuor merkadus sáme kultuvrraj ja giellaj.</blockquote>
+    </div>		
+						
+		
+				
+
+  		
+	</div>
+          <!-- Main area content: END -->
+
+        <!-- Main area: END -->
+	        	</div>
+    </div><!-- end #columns -->
+
+  <!-- Columns area: END -->
+
+  <!-- Footer area: START -->
+  
+    
+<div id="footer">
+    <address>
+            
+<p>
+<b>Rahpamájge</b>:<br />
+Mánnodagás - Bierjjedahkaj,<br />kl. 08.00-15.30</p><p>
+Telefåvnnå: +47 78 47 40 00<br />
+Telefaksa: +47 78 47 40 90<br /><a href="mailto:samediggi@samediggi.no" target="_self">samediggi@samediggi.no</a></p>        </address>
+    <address>
+    	
+<p>
+<b>Poasstaadressa:</b><br />
+Sámedigge - Sametinget<br />
+Ávjovárgeaidnu 50 <br />9730 Karasjok/Kárášjohka</p><p><b><a href="/Sammedikke-birra/Valde-aktijvuodav-mijajn/Aktijvuodadiehto-Samedikke-barggijda-gavna-danna" target="_self">Aktijvuodadiehto Sámedikke barggija gávna dánna.</a></b></p>    </address>
+    <div class="facebook">
+    	<a href="http://www.facebook.com/samediggi">Sámedigge </a>    	<p>
+På Facebook kan du diskutere med oss og foreslå saker vi kan jobbe med</p>
+        <div class="rss" >
+            <p><a href="/rss/feed/main">Rss feed</a></p>
+        </div>
+    </div>
+    <div class="footer_right">
+	    <ul>
+	    		    		    		<li><a href="/Sammedikke-birra/Rabas-virggit">Rabas virggit</a></li>
+	    		    		<li><a href="/Praessadiedadus">Præssadiedádus</a></li>
+	    		    		<li><a href="/Dokumeantta/Oza-poastajournalas">Oza poastajournálas</a></li>
+	    		    		<li><a href="/Dokumeantta">Dokumeantta</a></li>
+	    		    		<li><a href="/Sammedikke-birra/Ajrrasa/Sjiema-ajrrasida">Sjiemá ájrrasida</a></li>
+	    		    					<a href="/user/login">Logg inn</a>
+			
+	    </ul>
+    </div>
+</div>    <!-- Footer area: END -->
+
+</div>
+<!-- Complete page area: END --><!-- Footer script area: START --><!-- Footer script area: END -->
+
+
+
+
+</div>
+
+</body>
+</html>

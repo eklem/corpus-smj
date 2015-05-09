@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style type="text/css">
+.limitdisplay-user { display: none; }.limitdisplay-user-10 { display: inline; }.limitdisplay-user-block-10 { display: block; }</style>                                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Diedo sámegielaj birra / Giella / Sámedigge - Sametinget</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="smj-no" />
+
+                    <meta name="author" content="Making Waves" />
+    
+                <meta name="copyright" content="Sametinget" />
+    
+                <meta name="description" content="" />
+    
+                <meta name="keywords" content="Sametinget" />
+    
+    
+    
+    <!--[if lt IE 9 ]>
+        <meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
+    <![endif]-->
+
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+        
+<link rel="Home" href="/" title="Sametinget front page" />
+<link rel="Index" href="/" />
+<link rel="Top"  href="/" title="Diedo sámegielaj birra / Giella / Sámedigge - Sametinget" />
+<link rel="Search" href="/content/advancedsearch" title="Search Sametinget" />
+<link rel="Shortcut icon" href="/extension/sametinget/design/sametinget/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/ezinfo/copyright" />
+<link rel="Author" href="/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/rss/feed/my_feed" /><link rel="Alternate" href="/layout/set/print/Giella/Diedo-samegielaj-birra" media="print" title="Printable version" />
+    	
+	<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/reset.css" />
+<link rel="stylesheet" type="text/css" href="/extension/ezwt/design/standard/stylesheets/websitetoolbar.css" />
+<link rel="stylesheet" type="text/css" href="/design/standard/stylesheets/debug.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/layout.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/elements.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/responsive.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/accordion.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/lightbox.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/jquery-ui-1.8.14.custom.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/bx_styles.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/tools/style.css" />
+<link rel="stylesheet" type="text/css" href="/extension/sametinget/design/sametinget/stylesheets/plugins/slider.css" />
+
+                      
+                      
+                      	
+  	
+<link rel="stylesheet" type="text/css" href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/sametinget/design/sametinget/stylesheets/browsers/ie7lte.css); </style> <![endif]-->        <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-29277764-1']);
+
+      (function() {        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/ezwebin/design/ezwebin/javascript/insertmedia.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/jquery-ui-1.8.4.custom.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/jquery.address-1.4.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/samediggi.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/slider.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/plugins/jquery.bxSlider.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/extension/sametinget/design/sametinget/javascript/plugins/jquery.lightbox.js" charset="utf-8"></script>
+<script type="text/javascript">
+
+(function($) {
+    var _rootUrl = '/', _serverUrl = _rootUrl + 'ezjscore/', _seperator = '@SEPERATOR$',
+        _prefUrl = _rootUrl + 'user/preferences';
+
+    // FIX: Ajax is broken on IE8 / IE7 on jQuery 1.4.x as it's trying to use the broken window.XMLHttpRequest object
+    if ( window.XMLHttpRequest && window.ActiveXObject )
+        $.ajaxSettings.xhr = function() { try { return new window.ActiveXObject('Microsoft.XMLHTTP'); } catch(e) {} };
+
+    // (static) jQuery.ez() uses jQuery.post() (Or jQuery.get() if post paramer is false)
+    //
+    // @param string callArgs
+    // @param object|array|string|false post Optional post values, uses get request if false or undefined
+    // @param function Optional callBack
+    function _ez( callArgs, post, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            var _token = '', _tokenNode = document.getElementById('ezxform_token_js');
+            if ( _tokenNode ) _token = _tokenNode.getAttribute('title');
+            if ( post.join !== undefined )// support serializeArray() format
+            {
+                post.push( { 'name': 'ezjscServer_function_arguments', 'value': callArgs } );
+                post.push( { 'name': 'ezxform_token', 'value': _token } );
+            }
+            else if ( typeof(post) === 'string' )// string
+            {
+                post += ( post ? '&' : '' ) + 'ezjscServer_function_arguments=' + callArgs + '&ezxform_token=' + _token;
+            }
+            else // object
+            {
+                post['ezjscServer_function_arguments'] = callArgs;
+                post['ezxform_token'] = _token;
+            }
+            return $.post( url, post, callBack, 'json' );
+        }
+        return $.get( url + encodeURIComponent( callArgs ), {}, callBack, 'json' );
+    };
+    _ez.url = _serverUrl;
+    _ez.root_url = _rootUrl;
+    _ez.seperator = _seperator;
+    $.ez = _ez;
+
+    $.ez.setPreference = function( name, value )
+    {
+        var param = {'Function': 'set_and_exit', 'Key': name, 'Value': value};
+            _tokenNode = document.getElementById( 'ezxform_token_js' );
+        if ( _tokenNode )
+            param.ezxform_token = _tokenNode.getAttribute( 'title' );
+
+        return $.post( _prefUrl, param );
+    };
+
+    // Method version, for loading response into elements
+    // NB: Does not use json (not possible with .load), so ezjscore/call will return string
+    function _ezLoad( callArgs, post, selector, callBack )
+    {
+        callArgs = callArgs.join !== undefined ? callArgs.join( _seperator ) : callArgs;
+        var url = _serverUrl + 'call/';
+        if ( post )
+        {
+            post['ezjscServer_function_arguments'] = callArgs;
+            post['ezxform_token'] = jQuery('#ezxform_token_js').attr('title');
+        }
+        else
+            url += encodeURIComponent( callArgs );
+
+        return this.load( url + ( selector ? ' ' + selector : '' ), post, callBack );
+    };
+    $.fn.ez = _ezLoad;
+})(jQuery);
+        
+</script>
+
+
+<script src="http://cdnjs.cloudflare.com/ajax/libs/fitvids/1.0.1/jquery.fitvids.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
+        <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-29277764-1']);
+
+      (function() {        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+</head>
+
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]>   <body class="ie7"><![endif]-->
+<!--[if IE 8 ]>   <body class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
+<!-- Complete page area: START -->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/nb_NO/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="header-position">
+    <div id="header">
+        <div class="fontSizeBox">
+            <a id="font_size_small" onclick="changeSize('fontSmall')">a</a>
+            <a id="font_size_normal" onclick="changeSize('fontNormal')">a</a>
+            <a id="font_size_large" onclick="changeSize('fontLarge')">a</a>
+        </div>
+
+        <div id="usermenu">
+            
+<div id="languages">
+    <span id="languageSwitcher" class="smj"><span class="hidden-on-small">Julevsámegiellaj</span><span class="arrowdown"></span></span>
+    
+    <ul id="languageList">
+                                    <li class="nor" ><a href="/switchlanguage/to/nor/Giella/Diedo-samegielaj-birra">Norsk</a></li>
+                                                <li class="nordsamisk" ><a href="/switchlanguage/to/nordsamisk/Giella/Diedo-samegielaj-birra">Davvisámegillii</a></li>
+                                                <li class="sorsamisk" ><a href="/switchlanguage/to/sorsamisk/Giella/Diedo-samegielaj-birra">Åarjelsaemiengïelese</a></li>
+                                            </ul>
+</div>
+
+
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+	    $('#languageSwitcher').toggle(function(){
+			$("#languageList").show();
+			$("#languages").addClass("open");
+		}, function() {
+			$('#languageList').hide();
+			$("#languages").removeClass("open");
+		});
+	});
+	</script>
+        </div>
+
+                    <div id="searchbox">
+  <form action="/content/search">
+  <div id="searchbox-inner">
+    <label for="searchtext" class="hide">Åtså</label>
+        <input id="searchtext" name="SearchText" type="text" value="" size="12" placeholder="Åtså .."/>
+    <input id="searchbutton" class="button" type="submit" value="Søk" title="Søk" /><span class="search_btn_right"></span>
+              </div>
+  </form>
+</div>            </div>
+</div>
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<div id="page" class="sidemenu noextrainfo section_id_1 subtree_level_0_node_id_2 subtree_level_1_node_id_134 subtree_level_2_node_id_150">
+  
+
+  		  <!-- Top menu area: END -->
+	  <!-- Path area: START -->
+  	
+  	<!-- Path area: END -->
+
+	<!-- Toolbar area: START -->
+  	  	<!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns" class="top-spacing ">
+  	                              <div id="path">
+        <div id="path_road" style="position: relative; display: block; width: 695px; float: left">
+        
+        <div><a href="/">Sámedigge</a>
+                                        <span class="path-separator"></span>
+                                        </div>
+    
+  
+        <div><a href="/Giella">Giella</a>
+                                        <span class="path-separator"></span>
+                                        </div>
+    
+  
+        <div class="path-text">Diedo sámegielaj birra
+    	
+    </div><span class="path-separator-last"></span>
+    
+  
+  
+        </div>
+  </div>                        <!-- Side menu area: START -->
+
+    	    <div id="leftcol" class="w240">
+	    				<div>
+	<a href="http://www.samedigge.no"><img alt="Sametinget" src="/extension/sametinget/design/sametinget/images/graphics/logo_luleSamisk.png"></a>
+</div>
+
+<div id="leftnav">
+	    	        
+   <div class="nav-container menu-blue">
+   <div class="nav-decorator decor-light blue "></div><!-- end main navsection -->
+            <ul class="menu-list">
+                    
+                                                    <li class="firstli"><a href="/Giella" class="selected off-blue">Giella</a>
+            
+                                                            <ul class="submenu-list">
+                                                                                                                                                                           <li class="firstli"><a href="/Giella/Diedo-samegielaj-birra" class="selected off-blue current">Diedo sámegielaj birra</a></li>
+                                                                                                                                                   <li><a href="/Giella/Same-giellahaldadimguovllo">Sáme giellaháldadimguovllo</a></li>
+                                                                                                                                                   <li><a href="/Giella/Same-bajkkenama">Sáme bájkkenamá </a></li>
+                                                                                                                                                   <li><a href="/Giella/Samasta-mujna">Sámásta mujna</a></li>
+                                                                                                                                                   <li><a href="/Giella/Spraakteknologi">Språkteknologi</a></li>
+                                                                                                                                                                                               <li class="lastli"><a href="/Giella/Laga-ja-njuolgadustjallaga">Lága ja njuolgadustjállaga</a></li>
+                                                        </ul>
+                                                    </li>
+                    
+                                                    <li><a href="/AAhpadus">Åhpadus</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Kultuvrraiellem">Kultuvrraiellem</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/AEladus">Æládus</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Biras-arealla-ja-kultursuodjalus">Birás, areálla ja kultursuodjalus </a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Varresvuohta-ja-sosialla">Varresvuohta ja sosiálla</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Rijkajgasskasasj-barggo">Rijkajgasskasasj barggo </a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Ednam-ja-resurssarievtesvuodaj">Ednam- ja resurssarievtesvuodaj</a>
+            
+                        </li>
+                    
+                                                                                <li class="lastli"><a href="/Suohkanodastus">Suohkanođastus</a>
+            
+                        </li>
+                </ul>
+        <div class="nav-decorator decor-heavy blue"></div><!-- end main navsection -->
+           </div>	    	        
+   <div class="nav-container menu-yellow">
+   <div class="nav-decorator decor-light yellow "></div><!-- end main navsection -->
+            <ul class="menu-list">
+                    
+                                                    <li class="firstli"><a href="/Sammedikke-birra">Sámmedikke birra </a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Girjeradju">Girjerádju</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Stipeanda-ja-doarjja">Stipeanda ja doarjja</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Dahpahusat">Dáhpáhusat </a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Dokumeantta">Dokumeantta</a>
+            
+                        </li>
+                    
+                                                    <li><a href="/Praessadiedadus">Præssadiedádus</a>
+            
+                        </li>
+                    
+                                                                                <li class="lastli"><a href="/Arkiv">Arkiv </a>
+            
+                        </li>
+                </ul>
+        <div class="nav-decorator decor-heavy yellow"></div><!-- end main navsection -->
+           </div></div>			    	<!-- Side menu area: END -->
+	    </div>
+    
+    <!-- Main area: START -->
+
+           		 	   
+    <div id="maincol" class="w720">
+    	<div id="content_wrapper">
+
+  
+            <!-- Main area content: START -->
+          <div class="folderimage ">
+					
+    
+        
+    
+                                                                                                                                            <img src="/var/ezwebin_site/storage/images/media/images/main-images/temabilder/bokstaver-c-kenneth-haetta/3599-1-nor-NO/Bokstaver-C-Kenneth-Haetta_mainimage.jpg" width="720" height="405"  alt="Bokstaver ©Kenneth Hætta" title="Bokstaver ©Kenneth Hætta" />
+            
+    
+    
+    		</div>
+
+<h1>Diedo sámegielaj birra</h1>
+
+<div class="intro">
+    
+<p>Ájgij tjadá li ájádallam sámegielav oassen suoma-ugralasj giellajuohkusis urála giellafámiljan, ja læhkám sirádum ietjasa lagámus fuolkijs (balto-suoma) badjel 3.000 jage. Ådå dutkam vuoset sáme giellajuogos le gåjt dal sæmmi boares dagu germána giellajuogos ja gåjt dal guovte gierde boarrásabbo gå romána giellajuogos.</p></div>
+<div class="intro_right">
+        	<div class="politician">
+	<span class="header">Politihkalasj åvdåsvásstediddje</span>
+
+	<div class="person_info_border">
+        <div class="img_person">
+    
+        
+    
+                                                                                                                                            <img src="/var/ezwebin_site/storage/images/om-sametinget/representanter/aili-keskitalo/38582-8-nor-NO/Aili-Keskitalo_portrait_small_height.jpg" width="52" height="80"  alt="Aili Keskitalo ©Kenneth Hætta/Sámediggi" title="Aili Keskitalo ©Kenneth Hætta/Sámediggi" />
+            
+    
+    
+    </div>
+        <div class="info_person">
+            <span class="role">President</span>
+            <span>NSR</span>            <span class="valgkrets">Ávjovárri</span>
+        </div>
+
+	</div>
+
+    <div class="person_info">
+        <p><a href="/Sammedikke-birra/Ajrrasa/Aili-Keskitalo" class="name">Aili Keskitalo</a></p>
+		<span>Phone: 
++47 971 29 305</span>
+					<span><a href="mailto:aili.keskitalo@samediggi.no" class="email">aili.keskitalo@samediggi.no</a></span>
+		    </div>
+</div>
+    </div>
+    <div id="strories_wrapper">
+        <div id="success_stories">
+            <span>Jur dálla</span>
+
+                                        <div class="related_article">
+            
+    
+        
+    
+                                                                                                                                            <img src="/var/ezwebin_site/storage/images/media/bilder/artikkelbilder/spraakutvalget/64785-1-nor-NO/Spraakutvalget_article_small.jpg" width="200" height="148"  alt="Språkutvalget" title="Språkutvalget" />
+            
+    
+    
+            <div class="article_name">
+        <a href="/Giella/Diedo-samegielaj-birra/Stuorra-berustibme-Giellanammadusa-bargguj">Stuorra berustibme Giellanammadusá bargguj</a></b>
+    </div>
+    <div class="article_intro">
+        Giellanammadusá njunnjusj , Bård Magne Pedersen, vuojnná stuorra berustimev...
+    </div>
+    <a href="/Giella/Diedo-samegielaj-birra/Stuorra-berustibme-Giellanammadusa-bargguj" class="arrow_thin">Lågå ienebuv</a>
+</div>            
+                                        <div class="related_article">
+            
+    
+        
+    
+                                                                                                                                            <img src="/var/ezwebin_site/storage/images/media/bilder/artikkelbilder/tre-vinnere-gollegiella-2014-foto-anne-britt-k.haetta/59371-1-nor-NO/Tre-vinnere-Gollegiella-2014-Foto-Anne-Britt-K.Haetta_article_small.jpg" width="200" height="153"  alt="Tre vinnere Gollegiella 2014 (Foto Anne Britt K.Hætta)" title="Tre vinnere Gollegiella 2014 (Foto Anne Britt K.Hætta)" />
+            
+    
+    
+            <div class="article_name">
+        <a href="/Giella/Diedo-samegielaj-birra/Gaalmaas-Gaallegiella-balkav-vuojtti">Gålmås Gållegiella bálkáv vuojtti</a></b>
+    </div>
+    <div class="article_intro">
+        Sámegielåhpadiddje ja dutke Mikael Svonni, tjálle Kerttu Vuolab ja lullesáme...
+    </div>
+    <a href="/Giella/Diedo-samegielaj-birra/Gaalmaas-Gaallegiella-balkav-vuojtti" class="arrow_thin">Lågå ienebuv</a>
+</div>            
+        </div>
+
+        <div id="see_all">
+            <a href="/story/all/150" class="arrow">Vuoseda divna ássjijt</a>
+        </div>
+    </div>
+<div id="content_main">
+	<div class="topic">
+
+		
+<p>Sáme giellaguovllo gåbttjå åsijt Vuonas, Svierigis, Suomas ja Gárjjelis. Gielaj rájá e rijkarájájt tjuovo. Julevsámegiella ja oarjjelsámegiella ságastuvvi Vuonan ja Svierigin. Bihtámsámegiella ja ubbmemsámegiella dåssju Svierigin, gáhtum Vuonan. Nuorttasámegiella Vuonan, Svierigin ja Suoman ságastuvvá. Ánarsámegiella ságastuvvá dåssju Suoman. Áhkkilsámegiella, gielldasámegiella ja dárjjesámegiella ságastuvvá dåssju Gárjjelin, ja gålldåsámegiella sihke Suoman ja Gárjjelin (ja åvddåla Vuonan aj). Áhkkilsámegielan, majt åvddålå jáhkkin lij gáhtum,&nbsp;gávnnu huoman uddni. Ájnegis vuoras ulmusj sáhkat vilá áhkkilsámegielav aktijvalattjat&nbsp;ságastallamijn gielldasámegielagij.&nbsp;Muhtem ájnegattja&nbsp;ságasti áhkkilsámegielav passijvva giellan, iesjgeŋga dásen.</p><p>Dá lågev giela li juogedum guovte oajvvejuohkusijda: allesáme ja lullesáme. Allesáme ja lullesáme oajvvejuohkusijn li tjoahkkáj niellja vuolep juohkusa: oarjep, nuortap, sisednam ja suoloj (guoládak).</p><p>
+Rijkajgasskasasj aktijvuodan li gájka sámegiela ájtedum, duodaj ájtedum jali vargga gáhtomin. Ájtedum giella le giella man låhko mánájs gudi gielav bukti binnu, duodaj ájtedum giella le giella mav vargga dåssju ållessjattuga bukti, ja vargga gáhtum giella le giella mav dåssju muhtem gallegasj vuorrasappo hålli.<br />
+Sámegiela li Vuonan suoddjidum duola dagu 169. ILO-konvensjåvnås, Vuonarijka Vuodolágas, Bájkkenammalágas, Sámelága giellanjuolgadusájs ja Åhpaduslága baktu.<br />
+Rijkajgasskasattjat li sámegiela suoddjidum duola dagu nuorttarijkaj gielladeklarasjåvnå ja European Charter for Regional and Minority Languages baktu.<br />Ienemus håladum sámegiela Vuonan uddni li oarjjelsámegiella, julevsámegiella og nuorttasámegiella.</p><p><b>Ienemus håladum sámegiela Vuonan uddni li oarjjelsámegiella, julevsámegiella og nuorttasámegiella.</b></p>
+<ul>
+
+<li><b>Oarjjelsámegiella:</b></li>
+
+</ul>
+<p>Oarjjelsáme årromguovllo Vuonan le Sáltoduoddaris nuorttan gitta Elgåaj Hedmárkon oarjján. Ulmutja årru duoggu dággu miehtáj dan vijdes geográfalasj guovlo. Jáhkedahtte e ienebu gå lahkke oarjjelsámijs gielav buvti. Oarjjelsámegielan li guokta oajvvegiellasuorge:</p><p><b><i>Nuorttap oarjjelsámegiella</i></b>, aj gåhtjodum Åsele (Vapsten, Gaala, Aarborte, Bindal, Nååmesjevuemie Vuonan, Vapsten Tärnan, Vueltjere, Frostviken Svierigin)</p><p><b><i>Oarjep oarjjelsámegiella</i></b>, aj gåhtjodum Jämtland (guovllo Snåasa ja Verdala gaskan, Muoráhkka Vuonan, Jinjevaerie, Offerdal, Njaarke, Gálpe, Skalstugan, Såahka ja Härjedálen Svierigin).</p><p>UNESCO listan mij guosská ájtedum gielajda le oarjjelsámegiella tjáledum duodaj ájtedum giellan. Binná addne ja stuorra vijddudagá dahká gássjelin oarjjelsámegielajn barggat. Sebrudahka dárbaj ållo ulmutjijt oarjjelsámegiela máhtudagájn. Ållagasj guosská dát åhpadiddjevirgijda, oahpponævoj åvddånibmáj ja almulasj háldadibmáj ja dievnastusfálaldagájda.</p>
+<ul>
+
+<li><b>Ubbmemsámegiella:</b></li>
+
+</ul>
+<p>
+Ubbmemsámegiella håladuváj Ruovatvuonan, Hemnesan ja Korgenin vuona bielen. Ságastuvvá Maskauren, Ståkken, Alep Kikkejauren, Lulep Kikkejauren Árjepluoven ja Arviesjávren, Málágin, Granan ja Umbyn Tärnan Svierigin.<br />
+Svierigin li dåssju muhtem gallegasj hoalle vil, ja giella aneduvvá vargga gáhtum giellan. Vuona bielen aneduvvá gáhtum giellan. <br />UNESCO listan mij guosská ájtedum gielajda le ubbmemsámegiella tjáledum duodaj ájtedum giellan jali vargga gáhtum giellan.</p>
+<ul>
+
+<li><b>Bihtámsámegiella:</b></li>
+
+</ul>
+<p>
+Bihtámsáme giellaguovllo ráddjiduvvá vuona bielen Sáltovuonas nuorttan ja Ranvuonas oarjján, ja dasi gullu Bájddar, Sálát, Oarjjelij Bájddar, Meløy, Rødøy, oase Bådådjo ja Fuosko suohkanijs. Svieriga bielen manná rádjá nuorttalap Arviesjávres ja Árjapluoves gitta Bihtáma ædnuj Norrbottena länan Svierigin. Bihtámsámegiella gålmå oajvvegiellasuorggáj juogeduvvá:<br />
+<i><b>Nuortap bihtámsámegiella</b></i> (Luokta-Mavas, Ståkke).<br />
+<i><b>Guovdásj bihtámsámegiella</b></i> (Semisjaur-Njarg).<br />
+<b><i>Oarjep bihtámsámegiella</i></b> (Svaipa).<br />UNESCO listan mij guosská ájtedum gielajda le bihtámsámegiella tjáledum duodaj ájtedum giellan jali vargga gáhtum. Svieriga bielen li muhtem gallegasj giellaguodde aktan dutkij ja muhtem rahtjalis ulmutjij Vuona bieles aktan barggagoahtám gæhttjalit gielav gádjot. Moadda tuvsán bágo li juo tjoahkkidum ja dássta galggá báhkogirjje sjaddat.</p>
+<ul>
+
+<li><b>Julevsámegiella:</b></li>
+
+</ul>
+<p>
+Julevsáme giellaguovllo Vuonan le Bálágis nuorttat gitta Sáltoduoddarij oarjján, ja dasi gullu duola dagu Divtasvuodna, Hábmer ja Fuolldá ja oase Fuosko suohkanis Sálton. Svierigin håladuvvá julevsámegiella Bihtámænos oarjján gitta Gájddumædnuj nuorttan Jåhkåmåhke ja&nbsp; Váhtjera suohkanijn Norrbottena länan Svierigin. Julevsámegiella nielje oajvvegiellasuorggáj juogeduvvá:<br />
+<i><b>Nuortap julevsámegiella</b></i> (Unna tjerusj).<br />
+<i><b>Guovdásj julevsámegiella</b></i> (Sirges ja Jåhkågasska Jåhkåmåhken Svierigin, Bálák, Divtasvuodna, Hábmer ja Fuolldá ja oase Fuosko suohkanis Vuonan).<br />
+<i><b>Miehttse julevsámegiella</b></i> (Gällivare, Serri ja Udtja Svierigin).<br />
+<i><b>Oarjep julevsámegiella</b></i> (Duorbun Svierigin).<br />UNESCO listan mij guosská ájtedum gielajda le julevsámegiella tjáledum duodaj ájtedum giellan. Sæmmi láhkáj dagu oarjjelsáme giela hárráj, de sebrudahka dárbaj ållo ulmutjijt julevsáme giellamáhtudagáj.</p>
+<ul>
+
+<li><b>Nuorttasámegiella:</b></li>
+
+</ul>
+<p>
+Nuorttasámegiella le stuorámus giellajuogos sáme gielaj gaskan, birrusij 90 % sámegielagijs nuortagahtti. Nuorttasámegiella ságastuvvá ienemusát Finnmárko ja Råmså fylkajn ja suohkanijn Dielldasuollu ja Evenássje Nordlándan vuona bielen. Nuorttasámegiella nielje oajvvegiellasuorggáj juogeduvvá:&nbsp; <br />
+<i><b>Merrasámegiella&nbsp;</b></i> <br />
+- Lulle merrasáme (Várjatvuodna ja Lágesvuodna).<br />
+- Guovdásj merrasáme (Riehppovuodna ja Sválesnuorre).<br />
+- Alle merrasáme (Áltávuodna ja Návuodna).<br />
+<i><b>Finnmárkkosámegiella</b></i><br />
+- Lullefinnmárkko: Uhtsajåhkå, oase Ánaris Suoman, Kárásjåhkå, Porsáŋŋgo, Dætno Vuonan. <br />
+- Allefinnmárkko: Ænodahka, Soahtegiellda, oase Ánaris Suoman, Guovddagæjnno, Áltá Vuonan) <br />
+<i><b>Duornossámegiella</b></i><br />
+-Girjjis: Gällivares nuortta-luksa, Nuorttagájddom Svierigin<br />
+- Allelij oasse Ænodagás Suoman, Ufuohtás gittu Ivgguj, Ivggovuodnabadá ja Rájsá gaskan Vuonan. <br />
+- Gárasávvun: Könkämävuoma ja Lainiovuoma, Ivggo ja Báhccavuodna Vuonan.<br />- Jukkasjávrre: Saarivuoma, Dálmma, GabnáLeavnas-Kaalasvuoma, Kalix ja Haparanda Svierigin.</p><p>UNESCO listan mij guosská ájtedum gielajda le nuorttasámegiella tjáledum ájtedum giellan. Moatten sajen sáme giellaháldadimguovlo ålggolin le nuorttasámgiella ájn gássjelis dilen. Dát ållagasj guosská moatte merrasáme dáfojda Råmsån ja Finnmárkon ja markasáme guovlojda Oarjjelij-Råmsån ja Nuorttalij-Nordlándan.</p>
+<ul>
+
+<li><b>Ánarsámegiella</b></li>
+
+</ul>
+<p>Ánarsámegiella håladuvvá Ánara suohkanin Suoman (Ánarjávre birra). UNESCO listan mij guosská ájtedum gielajda le ánarsámegiella tjáledum duodaj ájtedum giellan.</p>
+<ul>
+
+<li><b>Gålldåsámegiella (”lullesáme”)</b></li>
+
+</ul>
+<p>Gålldåsámegiella guovte oajvvegiellasuorggáj juogeduvvá:</p><p>
+<b>Nuortap gålldåsámegiella</b> (Muotka, Paatsjoki, Petsamonkylä)<br /><b>Oarjep gålldåsámegiella</b> (Suonikylä, Notozero-Girvasozero)</p><p>
+Vuonan gålldåsáme Oarjje-Várjjak suohkanin årru, åvdemusát Njájddamin, valla aj Girkkonjárgan ja Báhtsakvákken. Juogos le viehka unne ja sij li ájnna gudi lullesáme kultuvrav guoddi Vuona bielen. <br />
+Suomabielen årru gålldåsáme Tjievetjávren ja Njiellimin Ánarjávrgátten. Gárjjelin le gålldåsámegiella gáhtum ja Vuonan dåssju muhtem gallegattja gielav bukti uddni. <br />UNESCO listan mij guosská ájtedum gielajda le gålldåsámegiella tjáledum duodaj ájtedum giellan.</p>
+<ul>
+
+<li><b>Áhkkilsámegiella, gielldasámegiella ja dárjjesámegiella</b></li>
+
+</ul>
+<p>
+Dá giela Guoládagán Ruossjan håladuvvi. Muhtem dutke tjuottjodi maŋemus áhkkilsámegiella hoalle jámij jagen 2003, madi&nbsp;ådå giellaguoradallam&nbsp;javllá gávnnuji vil hoalle ja navti le giella ienemus ájtedum sámegiella Ruossjan.<br />UNESCO listan mij guosská ájtedum gielajda le guoládaksámegiela juogos tjáledum duodaj ájtedum jali vargga gáhtum giela.</p><p><b>Girjjegiella:</b></p><p>
+Sáme giellajuohkusin le guhka jali oanes tjállemgielahiståvrrå gielas giellaj. Vuostasj girje sámegiellaj båhtin 1600-lågon. 1600-1700-lågon tjállin sæmmi bokstávaj sámegiellaj dagu dárogiellaj. 1800-lågon båhtin muhtem ådå bokstáva sámegielajda ma ælla anon ietjá gielajn daj sæmmi guovlojn (duola dagu dáro-, suoma- ja gárjjelgielan).<br />
+Gudán sámegielan le standardiseridum tjállemgiella: oarjjel-, julev-, nuortta-, ánar- ja gålldåsámegiella adni vijdedum versjåvnåjt latijna alfabehtas. Giellda- ja dárjjesámegiellaj tjálli hiebadum kyrillalasj alfabehtajn. Duodde bokstáva ma vijdedum latijna alfabehtajn tjáleduvvi li dá: <br />Gålldåsámegiella:&nbsp;&nbsp;&nbsp; Áá Ââ Čč Ʒʒ Ǯǯ Đđ Ǧǧ Ǥǥ Ǩǩ Ŋŋ Õõ Šš Žž Åå Ää</p><p>Ánarsámegiella:&nbsp;&nbsp; &nbsp; &nbsp; Áá Ââ Ää Čč Đđ Šš Žž</p><p>Nuorttasámegiella:&nbsp;&nbsp; Áá Čč Đđ Ŋŋ Šš Ŧŧ Žž</p><p>Julevsámegiella:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Áá Ŋŋ</p><p>Oarjjelsámegiella:&nbsp;&nbsp; &nbsp; Ïï</p><p>
+<b>Gálldo</b>:&nbsp; <br />
+- <a href="http://www.oulu.fi/giellagas/en/staff/sammallahti_pekka.html" target="_blank">Pekka Sammallahti</a><br />
+- <a href="http://castl.uit.no/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=68&amp;Itemid=116" target="_blank">Bruce Morén-Duolljá</a><br />- <a href="http://uit.no/ansatte/organisasjon/ansatte/person?p_document_id=81074&amp;p_dimension_id=88149" target="_blank">Elisbath Scheller</a></p>															
+						<div class="related_files">
+			<ul class="file_list">
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/1901/18078/version/3/file/Norutrapport_2012_6r.pdf>Evaluering av samiske språksentre (2012)</a>
+			<span>(1.016,60 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/1936/18493/version/1/file/Samisk+spr%C3%A5kunders%C3%B8kelse+2012.pdf>Samisk språkundersøkelse 2012</a>
+			<span>(4.032,66 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/2028/19265/version/1/file/Norutrapport_2012_6_samisk.pdf>Sámi giellaguovddážiid árvvoštallan (2012)</a>
+			<span>(1.078,60 kB)</span>
+		
+		</div>				</li>
+							<li>
+					<div class="file">
+			<img src="/share/icons/crystal/16x16/mimetypes/pdf.png" width="16" height="16" alt="" title="" />
+	<a href=/content/download/2167/20669/version/1/file/S%C3%A1mi+giellaiskkadeapmi+2012.pdf>Sámi giellaiskkadeapmi 2012</a>
+			<span>(7.369,31 kB)</span>
+		
+		</div>				</li>
+						</ul>
+		</div>
+		
+	</div>
+</div>
+
+<div id="content_right">
+    
+    <div class="quote">
+        <blockquote>Rijkajgasskasasj aktijvuodan li gájka sámegiela ájtedum, duodaj ájtedum jali vargga gáhtomin. </blockquote>
+    </div>		
+						
+		
+				
+
+  		
+	</div>
+          <!-- Main area content: END -->
+
+        <!-- Main area: END -->
+	        	</div>
+    </div><!-- end #columns -->
+
+  <!-- Columns area: END -->
+
+  <!-- Footer area: START -->
+  
+    
+<div id="footer">
+    <address>
+            
+<p>
+<b>Rahpamájge</b>:<br />
+Mánnodagás - Bierjjedahkaj,<br />kl. 08.00-15.30</p><p>
+Telefåvnnå: +47 78 47 40 00<br />
+Telefaksa: +47 78 47 40 90<br /><a href="mailto:samediggi@samediggi.no" target="_self">samediggi@samediggi.no</a></p>        </address>
+    <address>
+    	
+<p>
+<b>Poasstaadressa:</b><br />
+Sámedigge - Sametinget<br />
+Ávjovárgeaidnu 50 <br />9730 Karasjok/Kárášjohka</p><p><b><a href="/Sammedikke-birra/Valde-aktijvuodav-mijajn/Aktijvuodadiehto-Samedikke-barggijda-gavna-danna" target="_self">Aktijvuodadiehto Sámedikke barggija gávna dánna.</a></b></p>    </address>
+    <div class="facebook">
+    	<a href="http://www.facebook.com/samediggi">Sámedigge </a>    	<p>
+På Facebook kan du diskutere med oss og foreslå saker vi kan jobbe med</p>
+        <div class="rss" >
+            <p><a href="/rss/feed/main">Rss feed</a></p>
+        </div>
+    </div>
+    <div class="footer_right">
+	    <ul>
+	    		    		    		<li><a href="/Sammedikke-birra/Rabas-virggit">Rabas virggit</a></li>
+	    		    		<li><a href="/Praessadiedadus">Præssadiedádus</a></li>
+	    		    		<li><a href="/Dokumeantta/Oza-poastajournalas">Oza poastajournálas</a></li>
+	    		    		<li><a href="/Dokumeantta">Dokumeantta</a></li>
+	    		    		<li><a href="/Sammedikke-birra/Ajrrasa/Sjiema-ajrrasida">Sjiemá ájrrasida</a></li>
+	    		    					<a href="/user/login">Logg inn</a>
+			
+	    </ul>
+    </div>
+</div>    <!-- Footer area: END -->
+
+</div>
+<!-- Complete page area: END --><!-- Footer script area: START --><!-- Footer script area: END -->
+
+
+
+
+</div>
+
+</body>
+</html>
