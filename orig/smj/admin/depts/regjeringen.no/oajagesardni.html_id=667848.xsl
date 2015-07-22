@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Format query results for display -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -92,7 +91,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="prime-minister-jens-stoltenbergs-new-yea.html_id=667848" xml:lang="eng"/>
+	<parallel_text location="prime-minister-jens-stoltenbergs-new-yea_id_667848.html" xml:lang="eng"/>
 	<parallel_text location="statsministerens-nyttarstale-2012.html_id=667848" xml:lang="nob"/>
 	<parallel_text location="oajagesardni.html_id=667848" xml:lang="sma"/>
 	<parallel_text location="oajagesardni.html_id=667848" xml:lang="sme"/>
