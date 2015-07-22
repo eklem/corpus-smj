@@ -89,7 +89,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="first-load-of-chemical-weapons-has-left-.html_id=748879" xml:lang="eng"/>
 	<parallel_text location="endringar-i-privatskolelova_id_749098.html" xml:lang="nno"/>
-	<parallel_text location="ekspertutvalg.html_id=748785" xml:lang="nob"/>
+	<parallel_text location="ekspertutvalg_id_748785.html" xml:lang="nob"/>
 	<parallel_text location="olahusjahki-norgga-mearraborramua-olgori.html_id=748798" xml:lang="sme"/>
 </xsl:variable>
 

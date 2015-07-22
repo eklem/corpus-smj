@@ -88,7 +88,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="per-edgar-kokkvold-ny-leiar-for-kringkas_id_751233.html" xml:lang="nno"/>
-	<parallel_text location="oppnevner-bredt-sammensatt-referansegrup.html_id=750286" xml:lang="nob"/>
+	<parallel_text location="oppnevner-bredt-sammensatt-referansegrup_id_750286.html" xml:lang="nob"/>
 	<parallel_text location="raehus-dahttu-joatkit-investerendoarjagi.html_id=750382" xml:lang="sme"/>
 </xsl:variable>
 

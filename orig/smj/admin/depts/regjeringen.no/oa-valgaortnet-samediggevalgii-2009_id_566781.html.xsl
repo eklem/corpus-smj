@@ -86,7 +86,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="ny-valgordning-til-sametingsvalget-2009.html_id=566781" xml:lang="nob"/>
+	<parallel_text location="ny-valgordning-til-sametingsvalget-2009_id_566781.html" xml:lang="nob"/>
 	<parallel_text location="oa-valgaortnet-samediggevalgii-2009_id_566781.html" xml:lang="sma"/>
 	<parallel_text location="oa-valgaortnet-samediggevalgii-2009.html_id=566781" xml:lang="sme"/>
 </xsl:variable>
