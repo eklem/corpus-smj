@@ -90,7 +90,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="det-beste-kulturbudsjettet-nokosinne-kul.html_id=701357" xml:lang="nno"/>
+	<parallel_text location="det-beste-kulturbudsjettet-nokosinne-kul_id_701357.html" xml:lang="nno"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
