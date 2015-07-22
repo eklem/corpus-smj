@@ -92,7 +92,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="urfolk-trenger-var-anerkjennelse_id_733357.html" xml:lang="nob"/>
 	<parallel_text location="algoalbmogat-darbbait-min-dohkkeheami_id_733357.html" xml:lang="sma"/>
-	<parallel_text location="algoalbmogat-darbbait-min-dohkkeheami.html_id=733357" xml:lang="sme"/>
+	<parallel_text location="algoalbmogat-darbbait-min-dohkkeheami_id_733357.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

@@ -93,7 +93,7 @@
 	<parallel_text location="fylkesmannsembete-gis-en-styrket-rolle-o_id_682371.html" xml:lang="nno"/>
 	<parallel_text location="fylkesmannsembete-gis-en-styrket-rolle-o_id_682371.html" xml:lang="nob"/>
 	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n_id_682371.html" xml:lang="sma"/>
-	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n.html_id=682371" xml:lang="sme"/>
+	<parallel_text location="fylkamannaj-vatteduvva-nannusap-roalla-n_id_682371.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

@@ -94,7 +94,7 @@
 	<parallel_text location="prime-minister-jens-stoltenbergs-new-yea_id_667848.html" xml:lang="eng"/>
 	<parallel_text location="statsministerens-nyttarstale-2012_id_667848.html" xml:lang="nob"/>
 	<parallel_text location="oajagesardni_id_667848.html" xml:lang="sma"/>
-	<parallel_text location="oajagesardni.html_id=667848" xml:lang="sme"/>
+	<parallel_text location="oajagesardni_id_667848.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
