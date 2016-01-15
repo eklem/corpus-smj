@@ -13,11 +13,11 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
   </header>
   <body>
     <p>Åhtsål gielalasj <errorort correct="dássádusáv" errorinfo="conc,s-ss">dásádusáv</errorort> </p>
-    <p xml:lang="nob">Ingrid Kintel.</p>
+    <p>Ingrid Kintel.</p>
     <p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira/NRK Nissunbiejve snjuktjamáno gávtsát biejve hålaj Ingrid Kintel, Divtasvuonas gielalasj <errorort correct="dássádusá" errorinfo="conc,s-ss">dásádusá</errorort> birra majt sån åhtsål <errorlex correct="ietjas" errorinfo="w,pers-refl">suv</errorlex> bájkálasj sebrudagán. </p>
     <p xml:lang="nno">Harrieth Aira <errorlang correct="url">harrieth.aira@nrk.no</errorlang> </p>
     <p>– Ij gus galga dåhkkit jut ieneplåhko oasev válldá guovtegielak birrusis, oahppá vehi sámegielav ja gierddá gullat iehtjádijt sámástime, aj láttij siegen, gatját Ingrid Kintel.</p>
@@ -25,6 +25,6 @@
     <p>Ålos oassálasstin nissunbiejve mujttádahttemij.</p>
     <p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira/NRK Lågå aj: Mujttádahtti nissunbiejvev Åtsådaláj moattegielakvuodav Afrikan </p>
     <p>Gå åhpadiddjáj lågåj de Ingrid Kintel åtsådaláj gielalasj moattebelakvuodajt mij vájkkudij gåktu sån dálla gæhttjá ietjas giellasebrudagáv Divtasvuonan. Gåktu - <errormorphsyn correct="gulldala dánna vuollelin" errorinfo="x">gulldal dánna vuollelin</errormorphsyn> . </p>
-    <p xml:lang="nno"><errormorphsyn correct="GULLDALA OASEV INGRID KINTELA HÅLAS DÁNNA" errorinfo="x">GULLDAL OASEV INGRID KINTELA HÅLAS DÁNNA</errormorphsyn> </p>
+    <p><errormorphsyn correct="GULLDALA OASEV INGRID KINTELA HÅLAS DÁNNA" errorinfo="x">GULLDAL OASEV INGRID KINTELA HÅLAS DÁNNA</errormorphsyn> </p>
   </body>
 </document>

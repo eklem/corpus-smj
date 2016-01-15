@@ -13,18 +13,18 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
   </header>
   <body>
-    <p xml:lang="sme">Ájluovta/Ájlátte girkko, Divtasvuonan.</p>
-    <p xml:lang="nno"><errorlang correct="nor">Foto</errorlang>: Sander Andersen / NRK Ådå girkkohærrá Divtasvuodnaj </p>
+    <p>Ájluovta/Ájlátte girkko, Divtasvuonan.</p>
+    <p><errorlang correct="nor">Foto</errorlang>: Sander Andersen / NRK Ådå girkkohærrá Divtasvuodnaj </p>
     <p>Divtasvuodna oadtju ådå girkkohærráv. Magne Kolvik gut 18 jage la girkkohærrán Divtasvuonan doajmmam la diededam sån Divtasvuonav guodá gæssáj gå pensjonisstan sjaddá.</p>
-    <p xml:lang="dan">Biskoahppa Tor B. Jørgensen.</p>
+    <p xml:lang="nob">Biskoahppa Tor B. Jørgensen.</p>
     <p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira / NRK Vuona girkko l almodam virgev rahpusin ja Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen ij dal jáhke oadtju avtak sámegielak åhttsijt dán virggáj. </p>
     <p>– Majdis galga ælla miján avtak julevsámegielak girkkohærrákandidáhta jur dálla. <errorlang correct="nor">Så</errorlang> danen vierttip oadtjot náginav gut hálijt julevsámegielav oahppagoahtet, javllá Oarjje-Hålogalátte biskoahppa Tor B. Jørgensen.  </p>
     <p>Julevsámegiellaj almulasj giellan girkkon</p>
-    <p xml:lang="dan">Udnásj girkkohærrá Magne Kolvik la doajmmam Divtasvuona girkkohærrán 18 jage.</p>
-    <p xml:lang="dan">Divtasvuona udnásj girkkohærrá, Magne Kolvik.</p>
+    <p>Udnásj girkkohærrá Magne Kolvik la doajmmam Divtasvuona girkkohærrán 18 jage.</p>
+    <p>Divtasvuona udnásj girkkohærrá, Magne Kolvik.</p>
     <p><errorlang correct="nor">Foto</errorlang>: Harrieth Aira / NRK Dájn jagijn sjattaj julevsámegiella almulasj giellan girkkon Divtasvuonan. </p>
     <p>Ådå testamænnta julevsámegiellaj jårggåluváj ja Julevsáme sálmmagirjje almoduváj.</p>
     <p>Duodden aj adnuj váldeduváj julevsáme liturgija mij aneduvvá mæssojn Divtasvuonan.</p>
