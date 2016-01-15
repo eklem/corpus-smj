@@ -21,7 +21,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
   </header>
   <body>
     <p>Hellmocuhppa Divtasvuona stuorámus dáhpádus dán giese lij Måsken, tjáppa Hellmåvvån, <errorlex correct="Oarjjevuonan" errorinfo="cmp,hyph-0">Oarjje-vuonan</errorlex>. Måsskåj tjåhkanaddi ulmutja mierredittjat dán jagásj <span type="quote">«rámpon ja guddnen»</span>. </p>
@@ -30,10 +30,10 @@
     <p>Kafean oattjojma biebmojt oasstet. Dasi aj ulmutja mannin jus goallujin. Gå iehkeduváj dållijin stuorra <errorort correct="låvdagoaden" errorinfo="vowlat,å-a">låvdågoaden</errorort>, ja ulmutja dåhku tjåhkanin. Lars Andreassenin lij gitára <errorort correct="maŋen" errorinfo="ascii">ma?en</errorort>, ja lávloj lávllagav ”Dålusj giessesijdda” ja ”Biegga”. Bieggalávllagin lij aj tjåttålávla, mij lij riek ”<errorlang correct="nor">tøffa</errorlang>”. Le oalle hávsske stuorlåvdagoaden tjåhkudallat. Nav hávsske le tjåhkudallat danna ja gehtjadit gå dållå gærssul, gehtjadit ulmutjijda, ja gulldalit gå lávludi ja subtsastalli. Gullu dagu sijdan. Oattjojma aj káfav ja sáftav juhkat ja sáme gáhkov ja berunlastajt bårråt. </p>
     <p>Finála tjadáduvvin lávvodagá gietja bájken iehkedis. Vuostasj <errormorphsyn correct="nissunfinálla Tjieloame/Davvegietje ja Måske gaskan" errorinfo="x">nissunfinála Tjieloame/Davvegietje ja Måske gaskan</errormorphsyn>. Tjieloabme/Davvegiehtje vuojtij 6-1 Måske badjel. Tjieloamegij/Davvegietjegij Aina Olsen <errorort correct="niellji" errorinfo="coninit,nj-n">njiellji</errorort> viermev dejvaj, Maila Viljakainen akti ja Rachel Nergård akti. Måskegij åvdås gis Therese Mikkelsen akti. </p>
     <p><errorortreal correct="Ålmåjfinálan" errorinfo="cmp, X-1;conc,lmm-lm">Ålmmåj finálan</errorortreal> tjiektjin Bjørkvijkagij ja Rudnávuonagij tjiektjamjuohkusa. Rudnávuonaga vuojttin 3-1, guovtijn målajn Tommy Solstrømas ja avtajn målajn Jahn Sigve Andersenis. Lars Filip Paulsen Bjørkvijka åvdås akti viermev dejvaj, valla ettjin galla vuojtov oattjo. </p>
-    <p xml:lang="dan">Aina Olsen dejvaj viermev ienemusát nissunijs, 11 bále, ja ålmmåjs Jack Eivind Paulsen, 7 bále.</p>
+    <p>Aina Olsen dejvaj viermev ienemusát nissunijs, 11 bále, ja ålmmåjs Jack Eivind Paulsen, 7 bále.</p>
     <p>Dán jage <errormorphsyn correct="guddneduváj Aina Olsen buoremus tjiektjen, ja Jahn Sigve Andersen" errorinfo="case">guddneduváj Aina Olsenav nissunij buoremus tjiektjen, ja Jahn Sigve Andersenav</errormorphsyn> ålmmåj buoremus tjiektjen. Tjiektjamjuohkusa lidjin <errorortreal correct="ietja" errorinfo="conc,htj-tj">iehtja</errorortreal> oajvvadam avtav tjiektjev, gå de galggin merustallat dán jagásj tjiektjijt. <errorlang correct="eng">Fair Play-vuojtov</errorlang> <errorort correct="oadtjun" errorinfo="typo">oadjun</errorort> nissunjuogos Bjørkvijkas ja ålmåjjuogos Davvegietjes/ Gállás. Guddneduvvin dán jagásj åvddågåvvån. </p>
     <p><errormorphsyn correct="Duodden tjiektjamijda ja hávsskudallamij" errorinfo="x">Duodden tjiektjamijda ja hávsskudallam</errormorphsyn> dållågátten <errorort correct="lidjin" errorinfo="typo">lijdin</errorort> ásadiddje luojkkam ståhkusav, ”<errorort correct="gahppamladdnev" errorinfo="conc,n-ddn">gahppamlanev</errorort>” mánájda. Dasi máná lijkkujin, ja álu lidjin dåppe. </p>
-    <p xml:lang="sme">Båhtusa dán jagásj Hellmocuhpas sjaddin náv:</p>
+    <p>Båhtusa dán jagásj Hellmocuhpas sjaddin náv:</p>
     <p xml:lang="kal">Nissuna:</p>
     <p>1. Tjieloabme/Davvegiehtje 2. Måsske 3. Sisgiehtje 4. Bjørkvijkka Ålmmå:</p>
     <p>1. Rudnávuodna 2. Bjørkvijkka 3. Davvegiehtje/Gállá 4. Sisgiehtje 5. Måsske 6. Tjieloabme Vuorbbe dán jagásj vuojttijda!</p>
