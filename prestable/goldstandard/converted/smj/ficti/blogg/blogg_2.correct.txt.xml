@@ -15,7 +15,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
     <note>Blogg tekstene er publiser mellom 09.05-14.02.12</note>
   </header>
   <body>
@@ -41,7 +41,7 @@
     <p>Dála båhti gåjt nágin gåvå <errormorphsyn correct="ájllegis mij lij" errorinfo="case">ájllegijs mij lij</errormorphsyn>. Lidjiv máj Jieggeluovtan. Iv la <errorortreal correct="gåvvim" errorinfo="fin,n-m">gåvvin</errorortreal> ålov, degu álu. </p>
     <p><errorort correct="Mijá" errorinfo="vowlat,a-á">Mija</errorort> årudak. </p>
     <p>Muv suohtas rádna!</p>
-    <p>Mån&lt;<errorort correct="njálga" errorinfo="vowc,a-á;vowlat,á-a;conc,lgg-lg">3njalggá</errorort> hamburger </p>
+    <p>Mån&lt;<errorort correct="njálga" errorinfo="vowc,a-á;conc,lgg-lg;vowlat,á-a">3njalggá</errorort> hamburger </p>
     <p><errorort correct="Ståhkamin" errorinfo="vowlat,å-a">Ståhkåmin</errorort> ja spellamin, Ingrid lij "<errorort correct="åhpadiddje" errorinfo="vowlat,å-a">åhpådiddje</errorort>" ;) </p>
     <p><errormorphsyn correct="Dát juogos vuojtij" errorinfo="kongr">Dat <errorort correct="juogos" errorinfo="infl">joavkko</errorort> <errorsyn correct="0">gudi</errorsyn> vuojttin</errormorphsyn> "<errorort correct="alemus" errorinfo="vowc,á-a">álemus</errorort> <errorlang correct="swe">torn</errorlang> <errorort correct="páhppáris" errorinfo="vowlat,a-á">páhpparis</errorort>"-<errorort correct="gilppusav" errorinfo="vowlat,o-u">gilpposav</errorort>... </p>
     <p>Silja</p>
