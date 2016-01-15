@@ -21,10 +21,10 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
   </header>
   <body>
-    <p xml:lang="sme">Ávos sihtá ietjas kultuvra birra subtsastit</p>
+    <p>Ávos sihtá ietjas kultuvra birra subtsastit</p>
     <p>Guokta jage dás åvddål lij Anne Silja <errorort correct="Turijin" errorinfo="vowm,ii-iji">Turiin</errorort>(19) giessebarggo <errorort correct="journalisstan" errorinfo="loan,vowlat,á-a">journálisstan</errorort>  NRK <errorort correct="Sámerádion" errorinfo="prop,suf">Sámerádioan</errorort>. Boahtte skåvllåjage la virgen oahpestiddjen, ja ávos sihtá ietjas kultuvra birra <errorlex correct="ietjá" errorinfo="w">nuppij</errorlex> nuorajda subtsastit. Vuorkkágåvvå. </p>
     <p><errorsyn correct="Oanegis versjåvnnå">Oanegis</errorsyn> dárogiellaj  </p>
     <p>-Mån lav ávon gå besav ietjam duogátja ja ietjam kultuvra birra <errormorphsyn correct="ietjá nuorajda subtsastit" errorinfo="x"><errorlex correct="ietjá" errorinfo="w">nuppij</errorlex> nuorajda subtsastittjat</errormorphsyn>. Dasi diedáv la dárbbo, javllá Anne Silja Turi(19) Divtasvuonas. Anne Silja la aktan Mats Pavvalijn <errorort correct="Fuoskos" errorinfo="prop,conc,ssk-sk">Fuosskos</errorort> ja Elle Sofe <errorort correct="Henriksenijn" errorinfo="prop,suf">Henriksenajn</errorort> <errorort correct="Guovddagæjons" errorinfo="conc,vd-vdd">Guovdagæjnos</errorort> válljidum sáme oahpestiddjen boahtte skåvllåjage. Jus ij departemænnta dav guhkeda, <errorlex correct="de" errorinfo="w">da</errorlex> la <errorort correct="maŋemus" errorinfo="ascii">mañemus</errorort> jahke gå dát gålmåjahkásasj prosjækta l <errorort correct="jådon" errorinfo="vowlat,e-o">jåden</errorort>. Prosjevta ulmme l <errormorphsyn correct="oablodit sáme kultuvrav" errorinfo="x">oabllot sáme kultuvrav</errormorphsyn>, ja sebrudakdilij birra subtsastit ietjá nuorajda Vuonan. Anne Silja Turi la riek ávon gå la bessam oahpestiddjen, ja sujna l oalle miella dájna prosjevtajn barggat. Ja manen <errormorphsyn correct="sån jur dasi besaj ij iesj rat diede" errorinfo="kongr">sån jur dasi besaj i iesj rat diede</errormorphsyn>. -Jáhkáv hiebav dasi. Ietján dal iv lim åhtsåt, ja iv lim ga virggáj biejaduvvat. Ja mån lav nav dudálasj ja ávon gå besav dájna prosjevtajn barggat, giehttu Anne Silja. </p>
