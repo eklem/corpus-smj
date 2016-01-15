@@ -21,7 +21,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
   </header>
   <body>
     <p>Gåsi <errormorphsyn correct="barggosaje ja rahte gáhtun" errorinfo="kongr">barggosaje ja rahte gádoj</errormorphsyn>? Peder Pedersen soapptsu Måsken juska dal nav ålos e danna åro. –Måsken la <errorort correct="hávsske" errorinfo="conc,vskk-vssk">hávskke</errorort>, ja dánna sidáv årrot, juska dal ulmusjlåhko l binnum <errormorphsyn correct="dájt maŋemus jagijt" errorinfo="kongr">dáj <errorort correct="maŋemus" errorinfo="ascii">mañemus</errorort> jagijt</errormorphsyn>, javllá sån, ja vuoset berunáhkkarav majt iesj la sáddjim. </p>
@@ -36,15 +36,15 @@
     <p>”<errorort correct="Måsske-aksjåvnnå" errorinfo="conc-sk-ssk">Måske-aksjåvnnå</errorort>” åtsåj rudájt, ja biedjin <errormorphsyn correct="ulmutjav virggáj gut" errorinfo="x">ulmutjav virggáj mij</errormorphsyn> galgaj Måsskåj barggosajijt åttjudit. </p>
     <p>Galla sjaddin soames ådå barggosaje gå luossabiebmadak Måsskåj ásaduváj, valla ælla dal huoman Måsken dálla ienep barggosaje gå lågev jage dás åvddål. Farra binnep.</p>
     <p>Hámnnaj la dåssju akta guollárvanntsa báhtsám, valla dåbbelin gårvvu luossabiebmadahka mij Måsskåj ásaduváj gålmmå jage dás åvddål, ja mij le ájnna boados ”<errorort correct="Måsske-aksjåvnås" errorinfo="conc-sk-ssk">Måske-aksjåvnås</errorort>”. </p>
-    <p xml:lang="fin">Håjen</p>
+    <p>Håjen</p>
     <p>Peder Pedersen(88), <errorsyn correct="0">jali</errorsyn> <errormorphsyn correct="oahppásamos" errorinfo="x">ienemusát oahpes</errormorphsyn> Mihkkila-Petterin, manáj jagen 1996 Gånågisá lunna subtsastittjat dán aksjåvnå birra, ja juoga dal hæhttu dáhpáduvvat jus Måsske ij galga <errorortreal correct="ávttasin" errorinfo="conc,vd-vt;nom-ess">ávdas</errorortreal> sjaddat. Sån aj dan sæmmi manon nammadij rádjálåvsåj <errorort correct="vidjurijt" errorinfo="conc,ddj-dj">viddjurijt</errorort>. </p>
     <p>Petter lij dalloj måvtuk. Vuojnij Måsken dåhkki årrot nuorra ulmutjijda aj, ja dåhkki aj <errorort correct="barggosajijt" errorinfo="conc,rg-rgg">bargosajijt</errorort> ásadit. Sån vuojnij moadda tjoavddusa, ja doajvoj juoga dal aj Måsskåj vierttij ásaduvvat. Valla ittjij dal åvvå sjatta gåktu Petter usjudaláj. </p>
     <p>-Jáhkkiv dal mån galgajma dalloj barggosajijt Måsskåj oadtjot nav vaj nuorap ulmutja máhtti dánna årrot. Valla ij la gåjt dálátjij <errorsyn correct="mige dassta" errorinfo="missing">mige</errorsyn> sjaddam, ietján gå dåt luossabiebbmam. Ja gåsi rahte gádoj? Sjávvunin gåjt dajna, javllá Petter ja <errorort correct="gæhttjá" errorinfo="vowlat,a-á">gæhttja</errorort> vuonav davás. </p>
-    <p xml:lang="nno">Låssåt</p>
+    <p>Låssåt</p>
     <p>Petter ájn háhkaviermij málesguolev bivddá, berunijt iesj sáddji ja vat dåhpu, ja harvuk la ájn muorritjit. Valla <errorort correct="sávtsajt" errorinfo="typo">sávstajt</errorort> la de njuovadam soames jage dás åvddåla. </p>
     <p>Vájku ij la rahte, jali ettjin nav ållo barggosaje sjatta <errorlex correct="dagu" errorinfo="w">gåktu</errorlex> Petter <errorortreal correct="doajvoj" errorinfo="fin,v-j">doajvov</errorortreal>, <errorortreal correct="de" errorinfo="typo">da</errorortreal> la huoman sunji <errorort correct="hávsske" errorinfo="conc,vskk-vssk">hávskke</errorort> Måsken årrot. </p>
     <p>Petter la vilá måvtuk. Ij sån vuojne Måske håhkkånimev vájku dal ulmutja lij manádam, ja juska dal dåssju avta galla <errorort correct="barggosaje" errorinfo="conc,rg-rgg">bargosaje</errorort>  lij luosas sjaddam. </p>
-    <p xml:lang="nob">Petter aj <errorlex correct="rámbuvdav" errorinfo="w">boargálav</errorlex> åhtsål. </p>
+    <p>Petter aj <errorlex correct="rámbuvdav" errorinfo="w">boargálav</errorlex> åhtsål. </p>
     <p>-Mån lav juo 88 jage vuoras, ja lav bajássjaddam dánna. Dáppe sidáv årrot, ja jáhkáv aj iehtjáda dánna sihti årrot vájk gåktu sjaddá. Iv de Måskes jåde. Valla låssåt la gal gå hæhttu davven biebmojt oasestit, ja vantsa <errorort correct="maŋen" errorinfo="ascii">mañen</errorort> suvdatjit, javllá sån. </p>
     <p>Petter årru ietjas riek tjáppa ja stuorra dåben Måsken, ja sihtá årrot dánna nav guhkev gå viessu. Doajvvu buorep ájge Måsskåj båhti, ja ulmutja vat sisi jåhtåli – gå dal ájn.</p>
     <p>-<errormorphsyn correct="Ij la val buorep sadje dán væráldin gå Måsske" errorinfo="case">Ij la val buorep sadje dán væráldin gå Måsken</errormorphsyn> - ij la, javllá Petter <errorort correct="maŋutjissaj" errorinfo="ascii">mañutjissaj</errorort> ja tsåggå snuvsajt baksima vuolláj.</p>
