@@ -25,9 +25,9 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
   </header>
   <body>
-    <p>Boahttsu <errorlex correct="turisstafálaldahkan" errorinfo="w"><errorort correct="turisstaattraksjåvnnån" errorinfo="conc,stt-sst;conc,tr-ttr">turisttaatraksjåvnnån</errorort></errorlex> Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje Moattes sihti mannoæládusáv Hábmerin vuorodit. Dálla oajvvaduvvá ájádus boatsojsaljujn <errorort correct="Ulvsvågskárddáj" errorinfo="cmp,hyhp-0">Ulvsvåg-skárddáj</errorort>. Dánna álgadiddje sihti fállat turistajda lahkavuodav boahttsuj, hierggevuodjemav gierrisijn, sáme árbbedábálasj biebmov, <errorlex correct="mannomujtulvisájt" errorinfo="foreign">souvernija</errorlex>/duodje vuobddemav ja <span type="quote">«ruohttaáddjáaktivitehtajt»</span> mánájda.</p>
+    <p>Boahttsu <errorlex correct="turisstafálaldahkan" errorinfo="w"><errorort correct="turisstaattraksjåvnnån" errorinfo="conc,stt-sst;conc,tr-ttr">turisttaatraksjåvnnån</errorort></errorlex> Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje Moattes sihti mannoæládusáv Hábmerin vuorodit. Dálla oajvvaduvvá ájádus boatsojsaljujn <errorort correct="Ulvsvågskárddáj" errorinfo="cmp,hyhp-0">Ulvsvåg-skárddáj</errorort>. Dánna álgadiddje sihti fállat turistajda lahkavuodav boahttsuj, hierggevuodjemav gierrisijn, sáme árbbedábálasj biebmov, <errorlex correct="mannomujtulvisájt" errorinfo="foreign">souvernija</errorlex>/duodje vuobddemav ja «ruohttaáddjáaktivitehtajt» mánájda.</p>
   </body>
 </document>
