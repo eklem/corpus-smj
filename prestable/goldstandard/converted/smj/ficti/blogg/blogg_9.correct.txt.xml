@@ -15,7 +15,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
     <note>Tekstene er postet på bloggen mellom 27.09.11 og 25.05.11</note>
   </header>
   <body>
@@ -51,7 +51,7 @@
     <p>Iv la asstam <errorort correct="bloaggit" errorinfo="vowc,o-oa">bloggit</errorort>, valla soajttá tjálláv nágin bágojt gå ierijt lav. </p>
     <p>Lávkkot ja bäjvádagá <errorlex correct="åvdån" errorinfo="w">åvddåla</errorlex> vällahit, de boahtep!! </p>
     <p>Buoris uddni <errorort correct="Håhåj" errorinfo="vowc,åå-å">Håhååj</errorort>! </p>
-    <p>Galgav páhkkigoahtet, gå idet manáv Tjiehtelij <errorlang correct="swe">Kittelfjällaj</errorlang> Sáminuorra <errorort correct="jahketjåhkanibmáj" errorinfo="infl,sme-smj">jahketjoahkkimij</errorort>. Danna oattjov moadda ietjá sáme nuorajt iejvvit ja <errorsyn correct="oahpástuvvat sijájn" errorinfo="missing">oahpástuvvat</errorsyn>, ja aj gulldalit <errorlex correct="lågådallamijt" errorinfo="w">guládallamijt</errorlex> ja <errorlang correct="eng">workshopaj</errorlang> barggat. Doajvov ja jáhkáv dát ájllek huj buorre sjaddá! Ávvudaláv. Ietján de lav uddni <errorort correct="IRF:n" errorinfo="acro,suf">IRF’an</errorort> læhkám. IRF= <errorlang correct="swe">Institutet för Rymdfysik</errorlang>. Danna lip <errorlang correct="swe">astronautkunskap-ássjen</errorlang> smáv rakehtajt biggim, ja uddni gæhttjalijma duokkár <errorlang correct="eng">Space Ball’av</errorlang>. <errorort correct="Biejav" errorinfo="vowc,i-ie">Bijav</errorort> filmav gånnå muv klássaráddna Lucas gæhttjal dav. </p>
+    <p>Galgav páhkkigoahtet, gå idet manáv Tjiehtelij <errorlang correct="swe">Kittelfjällaj</errorlang> Sáminuorra <errorortreal correct="jahketjåhkanibmáj" errorinfo="infl,sme-smj">jahketjoahkkimij</errorortreal>. Danna oattjov moadda ietjá sáme nuorajt iejvvit ja <errorsyn correct="oahpástuvvat sijájn" errorinfo="missing">oahpástuvvat</errorsyn>, ja aj gulldalit <errorlex correct="lågådallamijt" errorinfo="w">guládallamijt</errorlex> ja <errorlang correct="eng">workshopaj</errorlang> barggat. Doajvov ja jáhkáv dát ájllek huj buorre sjaddá! Ávvudaláv. Ietján de lav uddni <errorort correct="IRF:n" errorinfo="acro,suf">IRF’an</errorort> læhkám. IRF= <errorlang correct="swe">Institutet för Rymdfysik</errorlang>. Danna lip <errorlang correct="swe">astronautkunskap-ássjen</errorlang> smáv rakehtajt biggim, ja uddni gæhttjalijma duokkár <errorlang correct="eng">Space Ball’av</errorlang>. <errorort correct="Biejav" errorinfo="vowc,i-ie">Bijav</errorort> filmav gånnå muv klássaráddna Lucas gæhttjal dav. </p>
     <p>Dánna l aj gåvvå munnu Magnusa rakehtas:</p>
     <p><errorlang correct="eng">Space-Master</errorlang> la namma, ja mij galggap vuohtjet dav boahtte <errorortreal correct="gasskavahko" errorinfo="conc,hkk-hk">gasskavahkko</errorortreal> (valla mån iv la Gierunin dalloj). </p>
   </body>
