@@ -20,7 +20,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 93954 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
   </header>
   <body>
     <p>Hiebadahtti varresvuodafálaldagájt</p>
@@ -53,7 +53,7 @@
     <p><errorlang correct="nor">Foto: Privat</errorlang> – Álgon gå båhtiv Valnesvuodnaj de mån ja báhttja bådijma dasi, de gæhttjiv gámáv danna. De usjudalliv le gus vuojnnám, sáme aj máhtti dánna årrot ja sámegielav hållat. Ja gå mån båhtiv sisi de vuojnniv sáme barggev, prosjæktajådediddjev Erling Urheim lij danna, ja mån ságastiv sujna. Ja dat lij buorre, subtsas pasiænnta, Svenn Johnsen. Ávkken aj dáttjajda </p>
     <p>Svenn Johnsen ij dåssju vuojne ávkev dássta dåssju sámij diehti.</p>
     <p>Sån aj dættot man ávkálasj la dáttjasebrudahkaj <errorlex correct="oahpásmuvvat" errorinfo="w">oahpástuvvat</errorlex> sámegiellaj ja kultuvrraj. </p>
-    <p>– Gå mån sáhkadahttjájiv sámegiellaj daj láttij ja rivggoj guoran de sidja midjij gæhttjin ja gatjádin makkir gielav midja ságastijma. Ja de subtsastijma mij lip sáme ja oahppása Divtasvuonas. Vuojná sáme kultuvrra dakkir stuor sajen ij la læhkám åvddål, esski gå dálla Erling Urheim danna barggagådij. Ja dat la buorre, gå dán mijá væráldin vilák ulmutja gatjádi hájn mij la sábme, <errormorphsyn correct="mij la sábme" errorinfo="case">majt la sábme</errormorphsyn> ja gånnå sábme årru. <span type="quote">“Sáme årru gámájn”</span>, javlli, ja mån de hæhttujiv tjajmmat ja javllat ulmutjijda ma dav jáhkki, <span type="quote">"Jubmelam, midja lip ham jagen 2012. Makkir diedojt lihpit oadtjum mijá birra,"</span> subtsas Johnsen. </p>
+    <p>– Gå mån sáhkadahttjájiv sámegiellaj daj láttij ja rivggoj guoran de sidja midjij gæhttjin ja gatjádin makkir gielav midja ságastijma. Ja de subtsastijma mij lip sáme ja oahppása Divtasvuonas. Vuojná sáme kultuvrra dakkir stuor sajen ij la læhkám åvddål, esski gå dálla Erling Urheim danna barggagådij. Ja dat la buorre, gå dán mijá væráldin vilák ulmutja gatjádi hájn mij la sábme, <errormorphsyn correct="mij la sábme" errorinfo="case">majt la sábme</errormorphsyn> ja gånnå sábme årru. “Sáme årru gámájn”, javlli, ja mån de hæhttujiv tjajmmat ja javllat ulmutjijda ma dav jáhkki, "Jubmelam, midja lip ham jagen 2012. Makkir diedojt lihpit oadtjum mijá birra," subtsas Johnsen. </p>
     <p><errorlang correct="nor">Så</errorlang> le gus duv mielas dát buorre prosjækta mij la tjadáduvvam Valnesvuonan? </p>
     <p>– Buorak la dat divnajda, aj midjij sámijda gudi sámegielav sáhkadip látte ja rivggo væráldin. Navti vuojn de aj látte ja rivggo oadtju gullat mijá vidjurijt, javllá Johnsen.</p>
     <p>Ij la tjielgas jus ja gåktu prosjevtajn joarkki</p>
