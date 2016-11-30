@@ -11,9 +11,9 @@
         <publisher>Lokalavisa Nordsalten</publisher>
       </publication>
     </publChannel>
-    <wordcount>86</wordcount>
+    <conversion_status type="correct"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
     <multilingual/>
@@ -21,12 +21,12 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
-    <p>Bájkálasj <errorort correct="avijssa" errorinfo="loan,vowc,á-a">ávijssa</errorort> la nuppen vuoron mediafåndan </p>
-    <p>Vuona sáme rijkasiebrre – NSR oajvvat sáme mediafåndav Sámedikken vuododit mij galggá barggat vaj oadtju sáme bæjválasj <errorort correct="avijsav" errorinfo="loan,vowc,á-a">ávijsav</errorort> jåhtuj. <errorort correct="Avijsan" errorinfo="loan,vowc,á-a">Ávijsan</errorort> galggá aj julevsáme- ja <errorort correct="oarjjelsámegiellaj" errorinfo="typos">oarjjelsámgiellaj</errorort> tjáleduvvat. </p>
-    <p>Dáv subtsas VSR – <errorortreal correct="NSR-jådediddje" errorinfo="cmp,hyph">NSR jådediddje</errorortreal> Martin Urheim. –Akta gájbbádusájs la julev- ja oarjjelsámegiella aj galggá dán bæjválasj <errorort correct="avijsan" errorinfo="loan,vowc,á-a">ávijsan</errorort> vuojnnut. Hæhttup vieledit unnep giellasuorgijt, subtsas Martin Urheim. </p>
+    <p>Bájkálasj <errorort correct="avijssa" errorinfo="loan,vowc,á-a">ávijssa</errorort> la nuppen vuoron mediafåndan</p>
+    <p>Vuona sáme rijkasiebrre – NSR oajvvat sáme mediafåndav Sámedikken vuododit mij galggá barggat vaj oadtju sáme bæjválasj <errorort correct="avijsav" errorinfo="loan,vowc,á-a">ávijsav</errorort> jåhtuj. <errorort correct="Avijsan" errorinfo="loan,vowc,á-a">Ávijsan</errorort> galggá aj julevsáme- ja <errorort correct="oarjjelsámegiellaj" errorinfo="typos">oarjjelsámgiellaj</errorort> tjáleduvvat.</p>
+    <p>Dáv subtsas VSR – <errorortreal correct="NSR-jådediddje" errorinfo="cmp,hyph">NSR jådediddje</errorortreal> Martin Urheim. –Akta gájbbádusájs la julev- ja oarjjelsámegiella aj galggá dán bæjválasj <errorort correct="avijsan" errorinfo="loan,vowc,á-a">ávijsan</errorort> vuojnnut. Hæhttup vieledit unnep giellasuorgijt, subtsas Martin Urheim.</p>
     <p>Urheim ij rat sidá doarjjat dálásj <errorort correct="avijsajt" errorinfo="loan,vowc,á-a">ávijsajt</errorort>ma juo julevsábmáj tjálli. –Vuostak galggap sáme bæjválasj <errorort correct="avijsav" errorinfo="loan,vowc,á-a">ávijsav</errorort> vuododit, ja de esski galggap árvustallat dårjav degu Bájkálasj <errorort correct="avijssaj" errorinfo="loan,vowc,á-a">ávijssaj</errorort>, javllá sån.</p>
   </body>
 </document>

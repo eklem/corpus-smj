@@ -11,9 +11,9 @@
         <publisher>Lokalavisa Nordsalten</publisher>
       </publication>
     </publChannel>
-    <wordcount>67</wordcount>
+    <conversion_status type="correct"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
     <multilingual/>
@@ -21,7 +21,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
     <p>Divtasvuona geologija ávkken sjaddá Luonndo ja kultuvrravásádusá aktan geologijajn, sáme kultuvrajn, histåvråjn ja dábij galggá liehket vuodon gå Tysfjord Vertshus åvddånahttá sierra åtsådallamturismav.</p>

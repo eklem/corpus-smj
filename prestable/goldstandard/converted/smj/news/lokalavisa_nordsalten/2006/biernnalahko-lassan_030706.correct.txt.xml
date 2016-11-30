@@ -11,9 +11,9 @@
         <publisher>Lokalavisa Nordsalten</publisher>
       </publication>
     </publChannel>
-    <wordcount>29</wordcount>
+    <conversion_status type="correct"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
     <multilingual/>
@@ -21,7 +21,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
     <p>Biernnalåhko lassán <errorlex correct="Láddimmuddo" errorinfo="w">Láttakmuddo</errorlex> l dal ruvva, ja biernnalåhko Svieriga bielen lassán, ”mijá” <errorort correct="Svierik-dáfojn" errorinfo="cmp,1-hyhp">Svierikdáfojn</errorort> aj. <errormorphsyn correct="Dav vuosedi ådå guoradallama" errorinfo="kongr">Dav vuoset ådå guoradallama</errormorphsyn> <errorort correct="skandinávalasj" errorinfo="vowc,a-á">skandinavalasj</errorort> biernnaprosjevtan. Länastivrra l loabedam 43 bierna vuohtjet Norrbottenin dán jage.</p>

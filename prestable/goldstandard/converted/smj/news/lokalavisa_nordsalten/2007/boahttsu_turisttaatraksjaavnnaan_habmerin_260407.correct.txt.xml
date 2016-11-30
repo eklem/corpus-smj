@@ -15,9 +15,9 @@
         <publisher>Lokalavisa Nordsalten</publisher>
       </publication>
     </publChannel>
-    <wordcount>36</wordcount>
+    <conversion_status type="correct"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
     <multilingual/>
@@ -25,7 +25,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
     <p>Boahttsu <errorlex correct="turisstafálaldahkan" errorinfo="w"><errorort correct="turisstaattraksjåvnnån" errorinfo="conc,stt-sst;conc,tr-ttr">turisttaatraksjåvnnån</errorort></errorlex> Hábmerin: Boatsojsalljo, hierggevuodjem, sáme árbbedábe ja duodje Moattes sihti mannoæládusáv Hábmerin vuorodit. Dálla oajvvaduvvá ájádus boatsojsaljujn <errorort correct="Ulvsvågskárddáj" errorinfo="cmp,hyhp-0">Ulvsvåg-skárddáj</errorort>. Dánna álgadiddje sihti fállat turistajda lahkavuodav boahttsuj, hierggevuodjemav gierrisijn, sáme árbbedábálasj biebmov, <errorlex correct="mannomujtulvisájt" errorinfo="foreign">souvernija</errorlex>/duodje vuobddemav ja «ruohttaáddjáaktivitehtajt» mánájda.</p>

@@ -11,9 +11,9 @@
         <publisher>Lokalavisa Nordsalten</publisher>
       </publication>
     </publChannel>
-    <wordcount>39</wordcount>
+    <conversion_status type="correct"/>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
     <submitter name="Inga Mikkelsen" email="inga.l.mikkelsen@uit.no"/>
     <multilingual/>
@@ -21,7 +21,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 105912 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
   </header>
   <body>
     <p>Lars Monsen Jåhkåmåhkkåj årru Vuona oahpes miehttseulmusj ja luonndoiehttse Lars Monsen, la goadev Jåhkåmåhken oasstám. Suv ådå sijdda sjaddá bájkke gåsstå vuolggá gå boahtte giese galggá ålles Nuortta <errorort correct="Kalottenav" errorinfo="loan,vowc,á-a">Kálottenav</errorort> manádit ådå vásádusáj <errorort correct="maŋen" errorinfo="ascii">mañen</errorort> aktan nissunijn gen siegen årromav juohká.</p>
