@@ -1,0 +1,36 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>76</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=56&amp;art_id=128</origFileName>
+    <parallel_text location="index.php_kat_id=56_art_id=128.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=56_art_id=128.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=56_art_id=128.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="fin">Kristuskránssa</p>
+    <p type="title">Kristuse-værjoe</p>
+    <p xml:lang="sma">Jeesuse lååvkesovvi aaj. Laavkoje Jååha, dïhte Jeesusem laavkoeji. Gosse lååvkesovvi, gïele elmeste govli: Daate lea mov iehtseles Baernie. Numhtie Jupmele almetjidie vuesiehti Jeesuse altese Baernie lea, guktie Jeesuse såårneme. Jïjnjh almetjh daam govlin. Jupmelen Voejkene elmeste goh duvvege Jeesusen aatsolen vualani. Juktie Jupmelen maana lïj, Jeesuse deejri satne Jupmelen åelesne lïj. Deejri gosse rohkele, dellie Jupmele satnem gåvla jïh vaestede.</p>
+    <p xml:lang="sma">Jeesusen laavkomen bïjre maahtah lohkedh Lukasen vaentjielisnie: 3, 21-22 jïh mubpine vaentjielinie.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>
