@@ -1,0 +1,88 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>225</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/AAllestjaahkanibme</origFileName>
+    <parallel_text xml:lang="sma" location="stoerretjaaanghkoe.html"/>
+    <parallel_text xml:lang="nob" location="plenum.html"/>
+    <parallel_text xml:lang="sme" location="dievascoahkkin.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Ållestjåhkanibme / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Ållestjåhkanibme</p>
+    <p>Sámedigge ållestjåhkanimen le Sámedikke alemus orgádna ja oajválasj.</p>
+    <p>Digge hiebat dåjmajdis daj mierij milta ma li vattedum lágan " Lov om Sametinget og andre samiske rettsforhold (sameloven) (Láhka Sámedikke ja ietjá sáme riektávidjurij birra (sámeláhka)). Ållestjåhkanibme mierret dikke barggoårnigav, aktan njuolgadusáj ja bagádusáj gájkka ietjá dåjmajda majt Sámedigge dåjmat.</p>
+    <p>Ållestjåhkanime li dábálattjat niellji jahkáj, sæmmi vahko dagu komiteatjåhkanime. Mánnodagá ja dijstagá li komiteatjåhkanime, ållestjåhkanibme le gaskavahkos bierjjedahkaj.</p>
+    <p>Válggagávdan 2013-2017 li dá belludagá ájrastahtedum Sámedikken:</p>
+    <list>
+      <p type="listitem">
+        <em type="bold">Barggijbelludahka </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Vuona sámij rijkasiebrre (NRS) </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Vuona sámij rijkasiebrre(NSR) ja Sámi Albmot Belludagá (SáB) aktisasjlissta </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="bold">Árja </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Åvddånimbelludahka </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Jåhttesámij lissta </em>
+      </p>
+      <p type="listitem">
+        <em type="bold">Oalgesbelludahka </em>
+      </p>
+      <p type="listitem" xml:lang="sme">
+        <em type="bold">Nordkalottfolket </em>
+      </p>
+      <p type="listitem" xml:lang="sma">
+        <em type="bold">Åarjel-Saemiej Giёlh </em>
+      </p>
+      <p type="listitem" xml:lang="nob">
+        <em type="bold">Samer bosatt i sør </em>
+      </p>
+      <p type="listitem" xml:lang="nob">
+        <em type="bold">Fastboende liste </em>
+      </p>
+    </list>
+    <p>
+      <em type="bold">Sámedikke komiteatjåhkanime ja ållestjåhkanime maŋep jahkebiele 2015: </em>
+    </p>
+    <p>Vahkko 39: Ragátmáno 21. – 25. biejve, komiteatjåhkanime ja ållestjåhkanibme</p>
+    <p>Vahkko 47: Basádismáno 16. – 20. biejve, komiteatjåhkanime</p>
+    <p>Vahkko 49: Basádismano 30. – javllamáno 4. biejve, ållestjåhkanibme</p>
+    <p>
+      <em type="bold">Sámedikke komiteatjåhkanime ja ållestjåhkanime vuostasj jahkebielen 2016: </em>
+    </p>
+    <p>Vahkko 9: Guovvamáno 29. biejves - sjnjuktjamáno 4. bæjvváj komitea- ja ållestjåhkanime.</p>
+    <p>Vahkko 21: Moarmesmano 23. - 27. biejvijt, komiteatjåhkanime (mánnodagás – bierjjedahkaj)</p>
+    <p>Vahkko 23: Biehtsemáno 6. - 10. biejvijt, ållestjåhkanibme</p>
+    <p>
+      <em type="bold">Sámedikke komiteatjåhkanime ja ållestjåhkanime maŋep jahkebielen 2016 </em>
+    </p>
+    <p>Vahkko 39: Ragátmáno 26. - 30. biejvijt, komitea- ja ållestjåhkanime</p>
+    <p>Vahkko 47: Basádismáno 21. - 25. biejvijt, komiteatjåhkanime (mánnodagás – bierjjedahkaj)</p>
+    <p>Vahkko 49: Javllamáno 5. - 9. biejvijt, ållestjåhkanibme</p>
+    <p>
+      <em type="italic">Gåvvå: Kenneth Hætta/Sámedigge. </em>
+    </p>
+  </body>
+</document>
