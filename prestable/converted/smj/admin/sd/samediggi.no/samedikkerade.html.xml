@@ -1,0 +1,49 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>177</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/Samedikkerade</origFileName>
+    <parallel_text xml:lang="sma" location="saemiedigkieraerie.html"/>
+    <parallel_text xml:lang="nob" location="sametingsraadet.html"/>
+    <parallel_text xml:lang="sme" location="samediggeraddi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Sámedikkeráde / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Sámedikkeráde</p>
+    <p>Sámedikkeráde ájrrasa nammaduvvi presidentas, guhti jådet rádev. Sámedikkepresidænnta válljiduvvá ieneplågos Sámedikke dievastjåhkanimes. Ráde doajmmá dagu Sámedikke ráddidus, ja tjadát bæjválasj dåjmadimev.</p>
+    <p>Sámedikkeráde åvdet mærrádusárvvalusájt dievastjåhkanibmáj ássjijn ma guosski Sámedikke budsjæhttaj, tjuodtjelij jage dåjma stáhtabudsjæhttaj, Sámedikke jahkediedádussaj, Sámedikke ruhtadoarjjaårnigij oajvvenjuolgadusájda ja ietjá ássjijda ma sierra árvustallama milta Sámedikkeráden bierriji åvdeduvvat. Duodden åvdet Sámedikkeráde diededimijt moatten politihkkasuorgen dárboj milta, ja moatten suorgen máhttá aj låhpalattjat mierredit.</p>
+    <p type="title">Sámediggeráde ájrrasa</p>
+    <p xml:lang="sme">Sámediggepresidænnta Aili Keskitalo , ja rádeájrrasa Henrik Olsen , Ann-Mari Thomassen , Thomas Åhren , Silje Karine Muotka .</p>
+    <p type="title">Sámediggeráde tjåhkanimpládna 2015</p>
+    <p>Vahkko 4: rádetjåhkanibme Kárásjjågån</p>
+    <p>Vahkko 13: rádetjåhkanibme Guovddagæjnon</p>
+    <p>Vahkko 17: rádetjåhkanibme Plássjen</p>
+    <p>Vahkko 26: rádetjåhkanibme Kárásjjågån</p>
+    <p>Vahkko 34: rádetjåhkanibme Sommarøy</p>
+    <p>Vahkko 42: rádetjåhkanibme Kárásjjågån</p>
+    <p>Vahkko 43: rádetjåhkanibme Roandemin</p>
+    <p>Vahkko 50: rádetjåhkanibme Oslon</p>
+    <p type="title" xml:lang="sme">Sámediggeráđi doaibmadieđáhus</p>
+    <p>Lågå ienebuv</p>
+    <p type="title">Politihkalasj vásstádussuorge ráden</p>
+    <p>Sámediggepresidænnta Aili Keskitalo ja Sámediggeráde ietjá ájrrasa li mierredam ja juogatjam politihkalasj vásstádussuorgijt gaskanisá. Dánna gávna guhtimusj politihkalasj suorges la geŋga vásstádus.</p>
+    <p>Lågå ienebuv</p>
+    <p type="title">Håla ja tjállaga</p>
+    <p>Håla, sárnnusa ja tjállaga sámediggepresidentas jali Sámediggeráde ietjá ájrrasijs.</p>
+    <p>Lågå ienebuv</p>
+  </body>
+</document>

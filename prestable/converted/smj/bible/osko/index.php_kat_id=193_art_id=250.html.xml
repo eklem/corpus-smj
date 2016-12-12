@@ -1,0 +1,39 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>86</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=193&amp;art_id=250</origFileName>
+    <parallel_text location="index.php_kat_id=193_art_id=250.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=193_art_id=250.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=193_art_id=250.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Dållå</p>
+    <p type="title">4.	Galga áhtját ja ædnát guddnedit</p>
+    <p>
+      <em type="italic">Galggap jubmelbalulattjan suv iehttset, vaj æjgádijt ja oajvemusájt ep álbeda ja suhttada, ájnat árvvon sijáv adnep, dievnnup, jegadip ja iehttsep. </em>
+    </p>
+    <p>Iehtjádav guddnedit le sæmmi degu jegadit, iehttset, dievnnut ja viehkedit. Guddne åvdet ráfev ja såbaduvvamav sebrudagán ja sijdajn. Gå ietjat æjgádijt guddneda de sijáv vieleda. I agev dárbaha sidjij guorrasit jalik sijáv doarjjot vájk mav dahki.</p>
+    <p>Jus muhtemav iehttsep de lip sidjij ávon, hálijdip viehkedit ja sijáv ávvudahttet. Majt dån máhtá dahkat váj duv æjgáda ávvusi?</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

@@ -1,0 +1,57 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>185</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=168&amp;art_id=197</origFileName>
+    <parallel_text location="index.php_kat_id=168_art_id=197.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=168_art_id=197.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=168_art_id=197.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Tjáhtje</p>
+    <p type="title">Javllamus Mariaj</p>
+    <p>Usjudalá vuostak dán birra:</p>
+    <p>Ž Gåktu jáhká le æjgádin sjaddat lågenanjagágin?</p>
+    <p>Ž Mij jáhká soajttá ienemus hásstalussan sjaddat gå galggá nuorran æjgádin sjaddat?</p>
+    <p>Ž Gåktu jáhká le iesselissan sjaddat stuoves gasskavuoda ålggolin?</p>
+    <p>
+      <em type="bold">Lågå subttsasav Maria birra Lukasin 1, 26-38.  </em>
+    </p>
+    <p>Ž Mij le dán tevsta sisadno?</p>
+    <p>Ž Makkir tiemá li fáddan tevstan?</p>
+    <p>Ž Majt usjudalá gå tevstav lågå?</p>
+    <p>Ž Gejt iejvvip subttsasin?</p>
+    <p>Ž Majt oadtjop diehtet Maria birra? Majt oadtjop diehtet ieŋŋgila Gabriela birra?</p>
+    <p>Ž Majt Maria dahká gå oadtju ieŋŋgilav guossáj?</p>
+    <p>Ž Majt ieŋŋgil Mariaj javllá?</p>
+    <p>Ž Mij le Maria måråj dasi majt ieŋŋgil subtsas?</p>
+    <p>Ž Majt ieŋŋgil Jubmela birra javllá?</p>
+    <p>Ž Gej soajttá sæmmi lágásj åtsådallama dagu Maria ja Josef uddni?</p>
+    <p>Ž Gåktu nuora gudi uddni iesselissan sjaddi vuosstáj váldeduvvi?</p>
+    <p>Ž Majt usjudalá dan birra gå muhtem nuora hasoduvvi tsuovkkanittjat?</p>
+    <p>ŽGåktu beras lulujin nuorra næjtso ja báhtja gudi æjgádin sjaddaba, vuosstáj váldeduvvat?</p>
+    <p>Lågå subttsasav ájn akti ja usjudalá dán birra:</p>
+    <p>Ž Majt máhttep dahkat nuoraj åvdås gudi æjgádin sjaddaba?</p>
+    <p>Ž Gåktu máhtti nuora gudi æjgádin sjaddi vásedit Jubmel le sijá siegen, dagu Jubmel lij Maria ja Josefa siegen?</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

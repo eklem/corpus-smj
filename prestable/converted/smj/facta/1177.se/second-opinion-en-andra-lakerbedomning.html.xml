@@ -1,0 +1,89 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>385</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Second-opinion-en-andra-lakerbedomning</origFileName>
+    <parallel_text xml:lang="eng" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="fin" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="fit" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="rmf" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="rmn" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="rmu" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="rmy-rka" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="sma" location="second-opinion.html"/>
+    <parallel_text xml:lang="sme" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="swe" location="second-opinion-en-andra-lakarbedomning.html"/>
+    <parallel_text xml:lang="yid" location="second-opinion-en-andra-lakerbedomning.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Second opinion, nubbe dåktårárvvalibme / Second opinion, en andra läkerbedömning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe">Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p xml:lang="swe">Gå direkt till innehållet</p>
+    <p xml:lang="swe">Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p>Julevusámegiella / Lulesamiska</p>
+    <p type="title">JulevusámegiellaLulesamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="eng">Second opinion, nubbe dåktårárvvalibmeSecond opinion, en andra läkerbedömning</p>
+    <p xml:lang="nno">Skriv ut (ca 1 sida)</p>
+    <p type="title">Mij la fámon</p>
+    <p type="title">Mij la fámon</p>
+    <p type="title">Riektá nuppe vuojnnuj</p>
+    <p>Jus la dåktåra lunna manádam ja oadtjum dávddádiededimev mij javllá la gássjelis medisijnak märrádusá de máhttá rievtesvuohta ådå medisijnak árvvalibmáj ietjá dåktåris, nåv gåhtjoduvvam nubben vuojnnon/second opinion. Javllá ulmutjin la máhttelisvuohta gehtjduvvat ietjá dåktåris gå gejna vuostak aktavuodav váldij. Ulmme nuppijn vuojnnujn/second opinion la galggá visses oadtju dav sujtov ja dálkudimev mij buoremusát hiehpá allasis.</p>
+    <p>Nuppe vuojnnuj la rievtesvuohta jus</p>
+    <list>
+      <p type="listitem">ulmutjin la hägganihtto jali sierralágásj tjavgga skibádahka jali vahák ja</p>
+      <p type="listitem">diagnåvsså jali oajvvadum dåmajdibme máhttá merkahit sierralágásj vádájt jali ájnasvuodav oadtjot viessomkvalitähttaj boahtteájge.</p>
+    </list>
+    <p>Buojkulvissan la máhttelis nuppe vuojnnuj jus ulmutjin la bårredávdda jali muhtem skibádahka närvvavuogádagán. Máhttá agev ietjas dåktåris gatjádit jus la máhttelisvuohta oadtjot nuppev vuojnov.</p>
+    <p type="title" xml:lang="sme">Häjmmalánndadigge máksá</p>
+    <p>Dábálamos oadtju dåktåråv jali sujttojuohkusav ietjá skihpadåben iejvvit gå masi vuostak mánádij dan lánndadikken gånnå årru. Jus la sávaldahka boahtet muhtem sierralágásj dåktåra lusi jali klinijkkaj Svierigin de l lánndadigge gånnå årru välggogis gähttjalit dåjmadit vaj dåhku oadtju boahtet. Ietjas lánndadikken la välggogisvuohta nuppev medisijnak árvustallamav mákset, vájku merkaj hähttu ietjá lánndadiggáj mannat. Häjmmalánndadigge galggá aj mannogålov mákset.</p>
+    <p type="title">Gejna galggá aktavuodav válldet?</p>
+    <p>Jus sihtá åhtsåt nuppev vuojnov de máhttá ietjas dåktåris gatjádit jali ietjá åvdåsstiddjes dan duostudagán gånnå l vuostasj medisijnak árvvalimev oadtjum gejna galggá aktavuodav válldet ietjas åtsålvisájn.</p>
+    <p>Máhttá aj aktavuodav válldet patiänntasiebrrerádijn jali patiänntaoahttsijn dan lanndadikken gånnå årru oattjotjit diededimev gejna galggá aktavuodav válldet oattjotjit nuppev vuojnov. Lågå ienebuv: Jus ij la dudálasj sujtujn﻿﻿.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p xml:lang="swe">Till:</p>
+    <p xml:lang="swe">Från:</p>
+    <p xml:lang="swe">Ditt namn:</p>
+    <p xml:lang="swe">Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p xml:lang="swe">http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Regler-och-rattigheter/Second-opinion-en-andra-lakerbedomning/</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut (ca 1 sida)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2013-12-19</p>
+    <p xml:lang="swe">Redaktör:</p>
+    <p>
+      <em type="italic">Dåjmadiddje: </em>
+    </p>
+    <p xml:lang="sma">Helena Vogel, 1177 Vårdguiden</p>
+    <p xml:lang="swe">Granskare:</p>
+    <p><em type="italic">Gähttje: </em>Anna Åberg, lihttojurissta, Sveriga Kommuvna ja Lánndadikke, SKL, Stockholm </p>
+    <p>Gájkka sisadno l aj giehtadaládum, gehtjadum ja dåhkkidum redaksjåvnås ja redaksjåvnnårádes 1177 Vårdguiden.</p>
+    <p xml:lang="swe">Synpunkter på innehållet? Tyck till</p>
+    <p xml:lang="swe">1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>

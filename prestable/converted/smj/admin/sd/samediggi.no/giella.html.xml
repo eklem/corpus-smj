@@ -1,0 +1,71 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>278</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.samedigge.no/layout/set/print/Giella</origFileName>
+    <parallel_text xml:lang="sma" location="giele.html"/>
+    <parallel_text xml:lang="nob" location="spraak.html"/>
+    <parallel_text xml:lang="sme" location="giella.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Giella / Sámedigge - Sametinget</p>
+    <p>Åtså biednikdårjav</p>
+    <p type="title">Giella</p>
+    <p>Giella le ájnas kultuvrraguodde ja identitehtavuosediddje. Mahttelisvuoda ietjas gielav hållat la vuodulasj almasjrievtesvuohta, ja sámijn álggoálmmugin li duodden vijdedum riektá gielasa suoddjit. Åvdebut la dát dåjmalattjat vuostelduvvam dárojduhttempolitihka baktu.</p>
+    <p>Sámedikken la ulmme sámegielajt nannit vaj sjaddá luondulasj oassen vuona almulasjvuodas.</p>
+    <p>Politihkalasj åvdåsvásstediddje</p>
+    <p xml:lang="eng">President</p>
+    <p xml:lang="sma">NSR</p>
+    <p xml:lang="sme">Ávjovárri</p>
+    <p xml:lang="sme">Aili Keskitalo</p>
+    <p xml:lang="sma">Phone: +47 971 29 305</p>
+    <p xml:lang="sme">aili.keskitalo@samediggi.no</p>
+    <list>
+      <p type="listitem">Diedo sámegielaj birra</p>
+      <p type="listitem">Sáme giellaháldadimguovllo</p>
+      <p type="listitem">Sáme bájkkenamá</p>
+      <p type="listitem">Sámásta mujna</p>
+      <p type="listitem" xml:lang="nno">Språkteknologi</p>
+      <p type="listitem" xml:lang="sme">Sámi Giellagáldu</p>
+      <p type="listitem" xml:lang="sme">Lága ja njuolgadustjállaga</p>
+    </list>
+    <p type="title">Sámedigge barggá</p>
+    <list>
+      <p type="listitem">Vaj sáme giellaháldadimguovlo vijdeduvvi bagádallamij ja aktisasjbargo baktu suohkana oajválattjaj</p>
+      <p type="listitem">Vaj ienep giellaarena ásaduvvi sáme giellaguovdátjij ásadimij baktu ja dårjaj baktu ájnegis dåjmajda</p>
+      <p type="listitem">Vaj sámegiella galggá bissot viesso giellan aj åvddålijguovlluj vuorodijn mánájt ja nuorajt</p>
+    </list>
+    <p type="title">Rievtesvuoda</p>
+    <list>
+      <p type="listitem">Sáme álmmuk Vuonan galggá oadtjot sihkarasstet ja åvddånahttet ietjas gielav, kultuvrav ja sebrudakiellemav.</p>
+      <p type="listitem">Juohkkahattjan le riektá vásstádusáv oadtjot sámegiellaj gå válldi aktijvuodav bájkálasj almulasj orgánaj sáme giellaháldadimguovlon.</p>
+      <p type="listitem">Divnajn le riektá sámegielav hållat dikken ja riektáásadusájn.</p>
+      <p type="listitem">Divna gudi sihti hållat sámegiellaj giellaháldadimguovlo bájkálasj ja guovlo almulasj varresvuohta- ja sosiálásadusáj, galggi oadtjot sámegiellaj guládallat. (Gehtja aj Varresvuohta ja sosiál)</p>
+      <p type="listitem">Sáme máná mánájsuodjalusá huvson galggi oadtjot ietjasa iednegielav hållat. (Gehtja aj Varresvuohta ja sosiál)</p>
+      <p type="listitem">Divnajn le riektá ájnegis girkkodievnastusájda Vuona girkko tjoaggulvisájn háldadimguovlon.</p>
+      <p type="listitem">Bájkálasj jali guovlo almulasjorgána barggijn háldadimguovlon le riektá permisjåvnnåj bálkájn sámegielav lågåtjit gå orgádna dakkir máhttudagájt dárbaj.</p>
+      <p type="listitem">Divnajn le riektá sámegielak åhpadussaj vuodoskåvlån ja joarkkaskåvlån (Gehtja åhpadibme).</p>
+    </list>
+    <p>
+      <em type="bold">Doajmmapládna sámegielajda </em>
+    </p>
+    <p>Ráddidus le dahkam doajmmaplánav sámegielajda. Doajmmáplána oajvvetjalmostibme le máhttelisvuodajt gárvedit lasedittjat dåjmalasj sáme giellaaddnij lågov. Dát galggá dagáduvvat dåjmaj baktu ma nanniji giellaåhpadimev mánnágárden ja vuodoåhpadusán, máhttelisvuodaj gárvedime baktu vaj ienep arena ásaduvvi gånnå sámegiella aneduvvá ja tjavgáp vuorodime baktu vaj ienebu åhtsi sámegielak åhpadusájda ja åhpadusájda gånnå sámegiella le fáhkabirrasin.</p>
+    <p>Doajmmapládna sámegielajda:</p>
+    <p xml:lang="nob">http://www.regjeringen.no/upload/AID/publikasjoner/rapporter_og_planer/2009/Handlingsplan_2009_samisk_sprak.pdf</p>
+    <p xml:lang="nno">http://www.regjeringen.no/upload/FAD/Vedlegg/SAMI/Handlingsplan_samiskesprak_status2010_BM.pdf</p>
+  </body>
+</document>

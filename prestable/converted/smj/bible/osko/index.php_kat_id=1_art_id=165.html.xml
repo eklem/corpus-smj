@@ -1,0 +1,42 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>152</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=1&amp;art_id=165</origFileName>
+    <parallel_text location="index.php_kat_id=1_art_id=165.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=1_art_id=165.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=1_art_id=165.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Duv ájádusá</p>
+    <p type="title">Gåktu dåbddåt ietjama buorisboahtema girkkuj?</p>
+    <p>Akta girkkodájda ulmijs le Evangeliumav vuojnnusij buktet ja mujttádahttet mij ajtu le risstalasjvuoda sisadno. Girkko galggá aj guossididdjijt sávvat buorisboahtem. Moalgedimvuoge ja symbåvlå soajtti gullevasjvuodav ásadit. Ienep ja ienep tjoaggulvisá li sáme moalgedimvuogijt ja symbåvlåjt adnuj válldám jubmeldievnastusán váj mij sáme galggap dåbddåt dát le mijá girkko. Jubmeldievnastusán li moadda moalgedimvuoge dagu giella, musihkka, liturgalasj giellasymbåvlå ja rumájgiella. Girkkoj ja ájlis bájkij hábbmim álu bájkálasj dábij milta vájkkuduvvá mij guosská materiálaj, hámij, hervaj ja gåsi biedjá gávnijt ma jubmeldievnastusán galggi aneduvvat.</p>
+    <p>Gå oarjjelsáme guovlon li jubmeldievnastusá ålggon de le dábálasj jut boassjo dållågátten sjaddá girkkoboassjo /korbájkke jubmeldievnastusán. Oarjjelsáme báhppa le aj sáme duojev/designav adnuj válldám liturgalasj biktasijda. Gåktu sidá dån girkko galggá liehket váj dåbdå ietjat buorisboahtem girkkon? Dálla besa miejnnit gåktu ietjat jubmeldievnastusáv jali girkkov sáme åsij sidá hábbmit.</p>
+    <p>Majt sidá fárruj iesjguhtik oassáj jubmeldievnastusás?</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+    <p type="title" xml:lang="swe">kommentarer(0):</p>
+    <p type="title" xml:lang="nno">Skriv en kommentar:</p>
+    <p xml:lang="nob">Navn:</p>
+    <p xml:lang="smn">epost:</p>
+    <p xml:lang="ger">Kommentar:</p>
+  </body>
+</document>

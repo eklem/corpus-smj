@@ -1,0 +1,99 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>589</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Egenvard-barn/Ogoninflammation-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/>
+    <parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmf" location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmn" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmu" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmy-rka" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/>
+    <parallel_text xml:lang="yid" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Tjalmmeinflammasjåvnå mánájn - majt máhttá iesj dahkat? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe">Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p xml:lang="swe">Gå direkt till innehållet</p>
+    <p xml:lang="swe">Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p>Julevusámegiella / Lulesamiska</p>
+    <p type="title">JulevusámegiellaLulesamiska</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title">Tjalmmeinflammasjåvnå mánájn - majt máhttá iesj dahkat?Ögoninflammation hos barn - vad kan man göra själv?</p>
+    <p xml:lang="nno">Skriv ut (ca 2 sidor)</p>
+    <list>
+      <p type="listitem">Basá tjalmev kompressajn jali bomulloduokkijn ålgop tjalmmetjiegas sisŋebuj.</p>
+    </list>
+    <p type="title">Álu vahkon vássá</p>
+    <p>Tjalmmeinflammasjåvnnå l dábálasj mánájn, álu virusinfeksjåvnås snuohpav la oadtjum. Tjalmmevielggat ruopsut ja vájveduvvá ja låsjkos gålggå tjalmes, mij álu l visskásiehke. Álu tjalmme vuojnnu båden. Ienemusát buorrán váhkon váni dálkudime dagi. Tjalmmeinflammasjåvnnå álkket såhpu.</p>
+    <p>Máná máhtti aj ietjá årijs inflammasjåvnåjt tjalmijda oadtjot. Dan duogen máhttá allergiddja jali mánná l vahágahttám jali oadtjum rugijt tjalmmáj. Inflammasjåvnnå la rubmaha vuohke ietjas suoddjit.</p>
+    <p type="title">Máhttá gus mánná åvddåskåvllåj mannat?</p>
+    <p>Máná gudi li snupohpasa ja gejn la tjalmmeinflammasjåvnnå ruoppsij tjalmij vehik siedjan e dárbaha hejman årrot åvddåskåvlås jus ietján buoragit viedji. Máná gudi li åvddåskåvlån galggi nåv vieddje årrot vaj viedji oassálasstet gájkka dåjmajda. Máná allergiddjavájvij tjalmijn e ga dárbaha hejman årrot.</p>
+    <p type="title">Mánná luluj hejman årrot jus tjalmme l siedjan</p>
+    <p>Jus máná tjalme dednju ja hähttu siejav tjalmijs moaddi bäjvváj sihkkot de l mánán tjavgga infeksjåvnnå. Ienemusát li goappásj tjalme vájvedum ja máhtti siedjut. Mánná de luluj hejman årrot åvddåskåvlås danen gå l såhpulis, ja máná tjalmme hähttu moaddi bäjvváj basáduvvat. Mánná máhttá mánnájuohkusij ruoptus mannat gå tjavgga inflammasjåvnnå l buorránam ja tjalmme ij la des siedjan.</p>
+    <p>Tjalmmeinfeksjåvnnå såhpu giehpemusát smávva mánáj gaskan danen gå nåv lahkalakkoj ståhki. Soahpom oabllu iehtjádij siegen gå mánná tjalmijt ruvvi ja maŋŋela duohttá ståhkamgávnijt jali ietjá mánájt. Skåvllåmánájn älla sämmi lahkaaktavuohta valla jus la tjavgga tjalmmeinfeksjåvnån ja tjalme li vájvedum de soajttá dárbahi hejman årrot.</p>
+    <p type="title">Bassat tjalmev tjátjijn</p>
+    <p>Jus mánán la siedja tjalmijn de l buorre tjalmev rájnnasit bassat nåv dájvvalakkoj gå l dárbulasj tjátjijn. Ane kompressav jali bomullov ja basá ålgop tjalmmetjiegas sisŋebuj.</p>
+    <p type="title">Åro váttuk giehtarájnasvuodajn</p>
+    <p>Hieredittjat tjalmmeinfeksjåvnåjt buorre váttugit giedajt bassat jus ålos birrusin li snuohpasa. Buorre l aj jus goappátjagá hejman ja åvddåskåvlån sigárdagájt álu målssu.</p>
+    <p type="title">Njuorakmáná</p>
+    <p>Dábálasj la njuorakmánájn li visskásiek låsjkos tjalmijn, danen gå siján li baskep ganjálkanála gå vuorrasap máná ja ållessjattuga. Basá tjalmev rájnnasit ålgop tjalmmetjiegas sisŋebuj kompressajn jali bomulloduohpujn mij la suollnodum vuorgas kránatjátjijn jali sálltelåssjkusijn.</p>
+    <p type="title">Márjju dárbaj sujtujn aktavuodav válldet</p>
+    <p>Tjalmmeinflammasjåvnå ma älla buorránam vahkon márjju dárbahi antibiotihkajn dálkuduvvat. Máhttá varresvuohtaguovdátjijn aktavuodav válldet. Guovte biejve dálkudime maŋŋela antibiotihkajn de infeksjåvnnå ij des soahpo ja mánná máhttá åvddåskåvllåj ruoptus mannat.</p>
+    <p>Ij lulu vuorddet varresvuohtaguovdátjn aktavuodav válldet jus mánán la sieldes tjavgga inflammasjåvnnå ja edna siedja sjaddá. Sämmi l aj jus mánná ij rat tjuovgav gierda jali sujna l tjavgap snuohpavájve. Jus mánán li tjavgga vájve val avtan tjalmen ja gáddá mánná l tjalmev vahágahttám de ij lulu ga vuorddet aktavuodav válldet.</p>
+    <p>Jus njuorak manán la tjalmmeinfeksjåvnnå de luluj sujtujn dalága aktavuodav válldet.</p>
+    <p>Máhttá agev skuolkkat skihpasujttorádevaddemij oattjotjit rádev.</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p xml:lang="swe">Till:</p>
+    <p xml:lang="swe">Från:</p>
+    <p xml:lang="swe">Ditt namn:</p>
+    <p xml:lang="swe">Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p xml:lang="swe">http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Lulesamiska/Egenvard-barn/Ogoninflammation-hos-barn---vad-kan-man-gora-sjalv/</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut (ca 2 sidor)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2013-12-27</p>
+    <p xml:lang="ger">Skribent:</p>
+    <p><em type="italic">Tjálle: </em>Elin Åkerblom, skihpasujtár, Stockholm </p>
+    <p xml:lang="swe">Redaktör:</p>
+    <p>
+      <em type="italic">Dåjmadiddje: </em>
+    </p>
+    <p xml:lang="nob">Theresa Larsdotter, 1177 Vårdguiden</p>
+    <p xml:lang="swe">Granskare:</p>
+    <p><em type="italic">Gähttje: </em>Leif Ekholm, mánádåktår, Mánávarresvuohtasujtto, Örebro </p>
+    <p xml:lang="swe">Illustratör:</p>
+    <p xml:lang="sma"><em type="italic">Gåvvår: </em>Lotta Persson, gåvvår, Göteborg </p>
+    <p>Gájkka sisadno l aj giehtadaládum, gehtjadum ja dåhkkidum redaksjåvnås ja redaksjåvnnårádes 1177 Vårdguiden.</p>
+    <p xml:lang="swe">Synpunkter på innehållet? Tyck till</p>
+    <p xml:lang="swe">1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>

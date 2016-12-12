@@ -1,0 +1,40 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>121</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Organisasjaavnaa-struktuvrra/AAllestjaahkanime-jaadedibme</origFileName>
+    <parallel_text xml:lang="sma" location="stoerretjaaanhgkoen-staavroe.html"/>
+    <parallel_text xml:lang="nob" location="plenumsledelsen.html"/>
+    <parallel_text xml:lang="sme" location="dievascoahkkima-jodihangoddi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Ållestjåhkanime jådedibme / Organisasjåvnå struktuvrra / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Ållestjåhkanime jådedibme</p>
+    <p>Ållestjåhkanime jådedibme dahká ássjelistav, gåhttju ja jådet Sámedikke ållestjåhkanimijt Sámedikke barggoårnigij ja njuolgadusáj milta.</p>
+    <p>Ållestjåhkanime jådedime dahkamusá le duola degu permisjåvnnååhtsåmusájt mierredit, mærrádusárvvalusájt ållestjåhkanibmáj åvdedit ássjijn ma guosski Sámedikke barggoårnigijt ja mierredit ássjegárvedime hárráj ållestjåhkanimijda.</p>
+    <p>Jådedibme galggá aj nammadit oassálasstijt ja ájrrasijt parlamentáralasj tjåhkanimijda ja konferánsajda gånnå Sámedigge galggá oassálasstet, ja duodden dåjmadit ássjepáhppárijt rádjat daj njuolgadusáj milta majt Sámedikke barggoårnik mierret.</p>
+    <p>Ållestjåhkanime jådedimen li vidás gudi válljiduvvi ållestjåhkanime ájrrasijs. Válggagávdan 2013-2017 li dá ájrrasa ållestjåhkanime jådedimen:</p>
+    <p xml:lang="sme">Jørn Are Gaski - Njunnjusasj</p>
+    <p xml:lang="sme">Anita Persdatter Ravna - Lijggenjunnjusasj</p>
+    <p xml:lang="sme">Marie Therese Nordsletta Aslaksen</p>
+    <p xml:lang="sme">Mathis Nilsen Eira</p>
+    <p xml:lang="nno">Aud Marthinsen</p>
+    <p type="title">Håla ja tjállaga</p>
+    <p>Håla, tjállusa ja tjállaga ållestjåhkanimjådedime ájrrasijs.</p>
+    <p>Lågå ienebuv</p>
+  </body>
+</document>

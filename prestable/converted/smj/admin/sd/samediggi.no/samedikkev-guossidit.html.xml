@@ -1,0 +1,49 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>135</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.samedigge.no/layout/set/print/Sammedikke-birra/Samediggeviesso/Samedikkev-guossidit</origFileName>
+    <parallel_text xml:lang="sma" location="guessine-minnedh-saemiedigkesne.html"/>
+    <parallel_text xml:lang="nob" location="besoeke-sametinget.html"/>
+    <parallel_text xml:lang="sme" location="samedikki-galledeapmi.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Sámedikkev guossidit / Sámediggeviesso / Sámmedikke birra / Sámedigge - Sametinget</p>
+    <p type="title">Sámedikkev guossidit</p>
+    <p>Vuosádallam Sámedikke huodnahin le bæjválattjat kl. 13.00. Vuosádallamgiella le dárogiella, sámegiella ja ieŋŋilsgiella. Giesen (20.05 - 15.08) li vuosádallama juohkka tijma 8.30, 9.30, 10.30, 12.30, 13.30, 14.30.</p>
+    <p>
+      <em type="bold">Hiebadum fállo juohkusijda </em>
+    </p>
+    <p>Skåvllåoahppijda ja –klássajda nuoraj dásen ja joarkkaskåvlåjda, organisasjåvnåjda, institusjåvnåjda ja mediajda fáladuvvá hiebadum vuosádallam. Fállo hiebaduvvá aktelattjat háldadusá máhtukvuodajda ja politihkalasj dåjmajda huodnahin.</p>
+    <p>
+      <em type="bold">Válde aktijvuodav Guládallamåssudagájn jus dujna li sierra dárbo. </em>
+    </p>
+    <p>
+      <em type="bold">Rabás tjåhkanime </em>
+    </p>
+    <p>Tjåhkanime Sámedikke ållestjåhkanimen ja komiteajn li rahpasa álmmugij. Ållestjåhkanimen ja komiteajn li birrusijn niellja tjåhkanime jahkáj. Tjåhkanimbåttåjn la Sámedikke kantijnna aj rabás álmmugij.</p>
+    <p>
+      <em type="bold">Sámedikke girjjevuorkká </em>
+    </p>
+    <p>Sámedikke girjjevuorkká låhkåmsajij le rabás 09.00 ja 15.30 gassko, ja almmuk máhttá dasi bessat.</p>
+    <p>
+      <em type="bold">Válde aktijvuodav Sámedikkijn </em>
+    </p>
+    <p>Mánnodagá - bierjjedagá 08.00-15.30</p>
+    <p xml:lang="sme">Skuolkan: +47 78 47 40 00 Girjjeskuolkan: +47 78 47 40 90 samediggi@samediggi.no</p>
+  </body>
+</document>

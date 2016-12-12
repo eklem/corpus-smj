@@ -1,0 +1,92 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>569</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.unginordland.no/infonuorra-2/julevsamegiella/barggo/cv.90576.aspx</origFileName>
+    <parallel_text xml:lang="sme" location="cv-ns.90527.aspx.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">CV - Nordland fylkeskommune</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Nfk.no</p>
+      <p type="listitem" xml:lang="swe">Intranett</p>
+      <p type="listitem" xml:lang="nno">Større skrift</p>
+      <p type="listitem" xml:lang="nob">Lytt til tekst</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="nob">Forside</p>
+      <p type="listitem" xml:lang="nob">Norsk <list><p type="listitem" xml:lang="swe">Rettigheter</p><p type="listitem">Duodje</p><p type="listitem" xml:lang="nob">Samisk religion</p><p type="listitem" xml:lang="ger">Kultur</p><p type="listitem" xml:lang="nob">Samisk mat</p><p type="listitem" xml:lang="nob">Samiske klær</p><p type="listitem" xml:lang="nob">Kjente samer</p></list></p>
+      <p type="listitem">Julevsámegiella <list><p type="listitem" xml:lang="sme">Barggo</p><p type="listitem">Julevsámegiella</p><p type="listitem">Kultuvrra &amp; asstoájgge</p><p type="listitem">Riektá</p><p type="listitem" xml:lang="isl">Stipennda</p><p type="listitem">Varresvuohta</p></list></p>
+      <p type="listitem" xml:lang="sma">Åarjelsaemiengïele <list><p type="listitem" xml:lang="sma">Barkoe</p><p type="listitem" xml:lang="sma">Kultuvre &amp; eejehtimmie</p><p type="listitem" xml:lang="sma">Reaktah</p><p type="listitem" xml:lang="kal">Staarne</p><p type="listitem" xml:lang="sma">Ööhpehtimmie</p></list></p>
+      <p type="listitem" xml:lang="sme">Davvisámegiella <list><p type="listitem">Sámigiella</p><p type="listitem" xml:lang="sme">Bargu</p><p type="listitem" xml:lang="sme">Dearvvšvuohta</p><p type="listitem" xml:lang="sme">Stipeanda</p><p type="listitem" xml:lang="sme">Kultuvra &amp; asttuáigi</p><p type="listitem" xml:lang="sme">Oahppu</p><p type="listitem" xml:lang="sme">Vuoigatvođat</p></list></p>
+    </list>
+    <list>
+      <p type="listitem">Infonuorra</p>
+      <p type="listitem">Julevsámegiella</p>
+      <p type="listitem" xml:lang="sme">Barggo</p>
+    </list>
+    <p type="title" xml:lang="sma">CV</p>
+    <p><em type="italic">1. MIJ LA CV? </em>CV (Curriculum Vitae) le oanegis tjálalasj diehto duv birra mij åhpadussaj, barggomáhttudahkaj, kursajda jnv. guosská. CV:a gåhtoduvvá aj resumea jali dáhtalissta. CV:a vaddá alkes diedov barggoåhttse formálalasj duogátja ja tjähppudagá birra. <em type="italic">2. MIJ GALGGÁ TJUODTJOT? </em>CV:a vaddá diedojt: Ž Persåvnalasj died Namma, adrässa, telefåvnnånummar, riegádumbiejvve. Muhtema aj tjálli sivijllastáhtusav. Ž Skåvlå majt la tjádádum ja eksámajt majt la válldám joarkkaslåvlå rájes. Ž Militerra Ž Bargo (ållesájgge/bielleájgge) Ž Kursa Ž Máhtudahka amásgielajn. Ž Guhkep mano Ž Åskeldimdåjma Ž Sebrulasjvuohta siebrijn Ž Dåjma skåvlån ja ásstoájgen Ž Budáldusá, sierralágásj berustime Ž Referensa jus aná. <em type="italic">3. GÅKTU TJÁLLET CV-AV? </em>E gávnnu mierreduvvam njuolgadusá ma vuosedi gåktu CV-av galggá tjállet. Ájnas le CV:a galggá liehket álkke ja gæhppat låhkåt sunji guhti le vuosstájvállde. Dán mijá tjállusin le akta åvddåmerka mij vuoset gåktu le CV:av máhttelis dahkat ja tjállet. Bieja juohkka duoddetjállagij (duodastussaj jnv.) nummarav. Bieja duoddetjállagijda sämmi nummarav. Giehpet dádjadusáv låhkåt duv birra sunji guhti galggá åtsålvisáv låhkå. <em type="italic">4. CV:AJ ÅVDDÅMÄRKKA </em>CV Eva Hansenij <em type="italic">Persåvnnålasj diedo: </em>Namma: Eva Hansen Adressa: Eventyrveien 2 8600 Mo i Rana Telefåvnnå: 80 00 00 00 Mobijlla: 90 00 00 00 Riegádambiejvve: 12.04.80 Sivijlla stáhtus: Iv la válldum  </p>
+    <p><em type="italic">Åhpadus: </em> </p>
+    <p>Ájgge</p>
+    <p>Åhpadus</p>
+    <p>Bájkke</p>
+    <p>Duoddetjála</p>
+    <p xml:lang="sms">1998-2001</p>
+    <p>Dábálasj åhpadiddje</p>
+    <p>Allaskåvllå, Biergunin</p>
+    <p xml:lang="sms">1997</p>
+    <p xml:lang="eng">Examen Philosophicum</p>
+    <p>Universitehtta Tråmsån</p>
+    <p xml:lang="sms">1998-91</p>
+    <p>Joarkkaskåvllå dábálasj fága</p>
+    <p xml:lang="nno">Frydenlunda joatk., Narvijka</p>
+    <p xml:lang="sme"><em type="italic">Barggo: </em> </p>
+    <p>Ájgge</p>
+    <p>Virgge</p>
+    <p>Bájkke</p>
+    <p>Duoddetjála</p>
+    <p xml:lang="isl">2001-u.b.*</p>
+    <p>Åhpadiddje, stuoves barggo,ållesájgge</p>
+    <p>Måffe mánájaskåvllå</p>
+    <p xml:lang="sms">1998-2001</p>
+    <p>Åhpadiddje</p>
+    <p>Aaga mánájskåvllå, Biergunin</p>
+    <p xml:lang="sms">1995-98</p>
+    <p xml:lang="sme">Giessebarggo</p>
+    <p xml:lang="nob">Tybring Gjedde, Harstad</p>
+    <p xml:lang="fin"><em type="italic">Kurssa: </em> </p>
+    <p>Ájgge</p>
+    <p xml:lang="fin">Kurssa</p>
+    <p xml:lang="sme">Guhkkudahka</p>
+    <p>Duoddetjála</p>
+    <p xml:lang="sms">1999</p>
+    <p xml:lang="sme">Ábbjár, NKS, Oslo</p>
+    <p>2 máno</p>
+    <p><em type="italic">Åskeldimbarggogåhttjusa: </em> </p>
+    <p>Duoddetjála</p>
+    <p>Tjuottjodiddje Giehtaroahttosiebren IK Driv, Biergun</p>
+    <p><em type="italic">Duodastusá: </em>Vuodjemkårttå B klássa Dåhkkidum D- hárjidalle giehtaroahtton <em type="italic">Interessa: </em>Aktijvalasj giehtaroahttospielle IK Drivan, Jássaberustime le, tjuojav juohkusin ”Go’foten” Ålggåádjemij lijkkuv, bivdáv ja guolliv. Buoktje lav. *u.b.= udnásj bäjvváj, nabbu gånnå dálla barggá/skåvlåv vádtsá. <em type="italic">5. MUJNA LE ILÁ BINNA CV:AJ TJÁLLET </em>Gå le nuorra ja älla edna barggo- ja skåvllåmáhttudagá CV:aj biedjat, moaddása válljiji åtsålvisáv CV:a dagi tjállet. Valla ienemusá máhtti dievddet CV:av åsij ma máhtti barggovaddáj ájnnasa årrot. Mujte iesmiedogis barggo le árvulasj CV:aj biedjat. Ž Le gus scoutaoajvve jali vuojadimhárjjidalle årrum? Ánoda duodastusáv dasi ja tjále CV:aj/åtsålvissaj. Ž Spieleda gus korpsan jali le gus roattotjiektjamsäbrraj oasálasj? Asstoájgen ij le hieredis aktijvalasj årrot. Ž Le gus oahppijráden sebrulasj, le gus säbrram OD:av ásadit? Les gus aktijvalasj sebrulasj Amnestyn? Vuoset dån berusta ja riek sidá dakkár ássjij barggat. Ž Le gus mánnágähttje sijdaráddnájda/viehkeda áhkov muottagav guoajvvot dálvijt? Ž Makkir berustime li dujna? Le gus dån filmmasiebren jali gåvvimsiebren, várregoarŋŋomin jali buoktjamin sebrulasj? Le gus dån vissjal váttsátjit? Lijkku gus rádnaj bioj mannat? Sluogas le jus ájádalá majt viertti CV:an guodet. Jus giessebargov návddegárten åtså de ij galga giehttot aktivisstan le Noahn (- divrij riektájda) årrum. Duv vuojno e bargguj hieba. Åtsålvisájn ja CV-ajn galggi gájkka diedo duolla årrot ja galggá dajt máhttet duodastit. Gähttjalit májnnot majt ij la barggam, ij le juonalasj - jus boadádalá de ij bargov oattjo!  </p>
+    <list>
+      <p type="listitem">RSS</p>
+      <p type="listitem" xml:lang="nno">Share on print   Skriv ut</p>
+      <p type="listitem" xml:lang="nno">Share on twitter   Del på Twitter</p>
+      <p type="listitem" xml:lang="nno">Share on facebook   Del på Facebook</p>
+    </list>
+    <p xml:lang="nno">Redaktør: Geir Johnsen | Webansvarlig: Håvard Vognild | CMS/Webdesign: ACOS</p>
+  </body>
+</document>

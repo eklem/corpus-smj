@@ -1,0 +1,53 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>69</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=221&amp;art_id=268</origFileName>
+    <parallel_text location="index.php_kat_id=221_art_id=268.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=221_art_id=268.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=221_art_id=268.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Tjáhtje</p>
+    <p type="title">Rájadusgåhttjom</p>
+    <p>Gulldalup mijá Hærrá Jesus Kristusa gåhttjomav ájlis gástadusá birra:</p>
+    <p>
+      <em type="italic">Munji le gájkka fábmo almen ja ednamin vatteduvvam. </em>
+    </p>
+    <p>
+      <em type="italic">Mannit dan diehti gájkajt álmmugijt åhpadisålmmån dagátjit: </em>
+    </p>
+    <p>
+      <em type="italic">gástadattijn sijáv Áhtje ja Bárne ja Ájlis Vuojŋŋanisá namán </em>
+    </p>
+    <p>
+      <em type="italic">ja åhpadihtit sijáv gájkka mujsta vaddem budájt anodit. </em>
+    </p>
+    <p>
+      <em type="italic">Ja mån lev dijá lunna gájkajt biejvijt gitta værálda nåhkåmij.Meg er gitt all makt i himmel og på jord. </em>
+    </p>
+    <p xml:lang="swe">
+      <em type="italic">( Matt 28, 18-20) </em>
+    </p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

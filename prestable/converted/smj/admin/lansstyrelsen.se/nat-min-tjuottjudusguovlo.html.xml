@@ -1,0 +1,103 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>387</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/julevsamegiella/Pages/tjuottjudusguovlo.aspx</origFileName>
+    <parallel_text location="nat-min-hallintoalueet.html" xml:lang="fin"/>
+    <parallel_text location="nat-min-reeremedajvh.html" xml:lang="sma"/>
+    <parallel_text location="nat-min-halddahusguovllut.html" xml:lang="sme"/>
+    <parallel_text location="nat-min-forvaltningsomraden.html" xml:lang="swe"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">Tjuottjudusguovlo - Länsstyrelsen i Stockholm</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Snabblänk till textinnehållet</p>
+      <p type="listitem" xml:lang="swe">om webbplatsen</p>
+      <p type="listitem" xml:lang="sma">startsidan</p>
+      <p type="listitem" xml:lang="nno">nyheter</p>
+      <p type="listitem" xml:lang="eng">webbkarta</p>
+      <p type="listitem" xml:lang="eng">sökfunktion</p>
+      <p type="listitem" xml:lang="swe">kontakta oss</p>
+      <p type="listitem" xml:lang="nob">blanketter</p>
+      <p type="listitem" xml:lang="dan">publikationer</p>
+    </list>
+    <p type="title" xml:lang="swe">Webbplatsen använder kakor</p>
+    <p xml:lang="swe">På Länsstyrelsens webbplats används kakor (cookies) bland annat för anonym statistik. Du hjälper oss att göra en bättre webbplats om du accepterar kakor. Läs om kakor och hur vi använder dem</p>
+    <p xml:lang="swe">Jag accepterar kakor</p>
+    <p xml:lang="sma">Innehåll A till Ö</p>
+    <list/>
+    <list>
+      <p type="listitem" xml:lang="eng">English</p>
+      <p type="listitem" xml:lang="fin">Suomeksi</p>
+      <p type="listitem" xml:lang="fkv">Meänkieli</p>
+      <p type="listitem" xml:lang="sms">Lättläst</p>
+      <p type="listitem" xml:lang="nno">Resanderomani (romani chib)</p>
+      <p type="listitem" xml:lang="sma">Åarjelsaemien</p>
+      <p type="listitem">Sámigiella</p>
+      <p type="listitem" xml:lang="nob">Teckenspråk</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="sma">Lyssna</p>
+      <p type="listitem" xml:lang="nno">Webbkarta</p>
+    </list>
+    <p xml:lang="kal">Startsida</p>
+    <p xml:lang="sms">&gt;</p>
+    <p xml:lang="swe">Människa &amp; samhälle</p>
+    <p xml:lang="sms">&gt;</p>
+    <p xml:lang="swe">Nationella minoriteter</p>
+    <p xml:lang="sms">&gt;</p>
+    <p>Julevsámegiella (lulesamiska)</p>
+    <p xml:lang="sms">&gt;</p>
+    <p>Tjuottjudusguovlo</p>
+    <list>
+      <p type="listitem" xml:lang="isl">Begravningar</p>
+      <p type="listitem" xml:lang="swe">Deponera pengar</p>
+      <p type="listitem" xml:lang="fkv">Folkhälsa</p>
+      <p type="listitem" xml:lang="eng">Integration</p>
+      <p type="listitem" xml:lang="swe">Jämställdhet</p>
+      <p type="listitem" xml:lang="swe">Kameraövervakning</p>
+      <p type="listitem" xml:lang="dan">Krisberedskap</p>
+      <p type="listitem" xml:lang="dan">Livsmedelskontroll</p>
+      <p type="listitem" xml:lang="isl">Lönegaranti</p>
+      <p type="listitem" xml:lang="nno">Medborgarskap</p>
+      <p type="listitem" xml:lang="swe">Mänskliga rättigheter</p>
+      <p type="listitem">Nationella minoriteter <list><p type="listitem" xml:lang="swe">Förvaltningsområden</p><p type="listitem" xml:lang="swe">Lagen om nationella minoriteter</p><p type="listitem" xml:lang="swe">Länsstyrelsens uppdrag</p><p type="listitem" xml:lang="swe">Organisationsbidrag</p><p type="listitem" xml:lang="nob">Statsbidrag</p><p type="listitem" xml:lang="swe">Övriga insatser</p><p type="listitem" xml:lang="fin">Suomeksi</p><p type="listitem">Davvisámigiella (nordsamiska)</p><p type="listitem">Julevsámegiella (lulesamiska) <list><p type="listitem">Tjuottjudusguovlo</p><p type="listitem">Lahka rijkalasj unneplågoj birra</p><p type="listitem">Lenastivra viddno</p><p type="listitem">Organisasjåvnnådoarjja</p><p type="listitem" xml:lang="sme">Stáhtadoarrja</p></list></p><p type="listitem" xml:lang="sma">Åarjelsaemien (sydsamiska)</p><p type="listitem" xml:lang="fkv">Meänkieli</p><p type="listitem" xml:lang="kal">Romani arli</p><p type="listitem" xml:lang="sme">Romani kelderaš</p></list></p>
+      <p type="listitem" xml:lang="romanian">Notarius publicus</p>
+      <p type="listitem" xml:lang="eng">Val</p>
+      <p type="listitem" xml:lang="sma">Vigsel</p>
+      <p type="listitem" xml:lang="swe">Överförmyndare</p>
+    </list>
+    <p xml:lang="swe">Dela informationen</p>
+    <p type="title">Tjuottjudusguovlo</p>
+    <p>
+      <em type="italic">Lahka rijkalasj unneplågoj ja unneplågogielaj birra javllá tjuottjudusguovloj låhko gålmå unneplågogiellaj – suomagiella, sámegiella ja meängiella – laseduvvá gietjat kommuvnas Norrbottena lenan gitta 68 kommuvnajda Svierigin. </em>
+    </p>
+    <p><em type="italic">Suomagiela tjuottjudusguovllo gåbttjå kommuvnajt </em>Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Jiellevárre (Gällivare), Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Giron(Kiruna), Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Bájel (Pajala), Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trosa, Trollhättan, Ubmeje (Umeå), Uddevalla, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar ja Övertorneå. </p>
+    <p xml:lang="sma"><em type="italic">Sámegiela tjuottjudusguovllo gåbttjå kommuvnajt </em>Árjepluovve (Arjeplog), Árviesjávrrie (Arvidsjaur), Berg, Dorotea, Jiellevárre, Härjedalen, Jåhkåmåhkke (Jokkmokk), Giron, Krokom, Liksjuo (Lycksele), Máláge (Malå), Suorssá(Sorsele), Lusspie (Storuman), Straejmie (Strömsund), Ubmeje, Vualtjere (Vilhelmina), Åre, Älvdalen ja Staare(Östersund). </p>
+    <p><em type="italic">Tjuottjudusguovllo meängiellaj gåbttjå kommuvnajt </em>Jiellevárre, Haparanda, Kalix, Giron, Bájel ja Övertorneå. </p>
+    <p>Tjuottjudusguovlojn suomagiellaj, sámegiellaj ja meängiellaj li aj <em type="italic">lánndadikke </em>Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermanland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro, Östergötland ja Västra Götalandsregionen. Ietjá kommuvnajn li aj máhttelisvuohta <em type="italic">iesjmiedogisláhkáj åhtsåt </em><em type="italic">tjuottjudusguovlojda säbrrat </em>. Ráddidus (Regeringen) mierret dakkir säbrrama gáktuj åtsålvisá maŋŋela kommuvnas mij sihtá säbrrat. Åtsålvis galggá sisiboahtám Ráddiduskansliddjaj(Regeringskansliet) maŋemusát vuoratjismáno 1.b. </p>
+    <p xml:lang="swe">Rapportera fel på sidan</p>
+    <p xml:lang="swe">Dölj kommentarsformulär</p>
+    <p type="title" xml:lang="swe">Rapportera fel på sidan</p>
+    <p xml:lang="swe">Vi tar gärna emot dina synpunkter om du hittat något felaktigt på den här sidan. Din kommentar skickas till sidansvarig redaktör.</p>
+    <p xml:lang="sma">Namn</p>
+    <p xml:lang="eng">E-post</p>
+    <p xml:lang="ger">Kommentar</p>
+    <p xml:lang="swe">Skriv in nedanstående kod för att skicka kommentar</p>
+    <p xml:lang="swe">Generera ny bild</p>
+  </body>
+</document>

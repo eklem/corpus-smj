@@ -1,0 +1,57 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>519</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.unginordland.no/infonuorra-2/julevsamegiella/barggo/barggo-gatjadallam.90575.aspx</origFileName>
+    <parallel_text xml:lang="sme" location="bargojearahallan-ns.90525.aspx.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Barggo-gatjádallam - Nordland fylkeskommune</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Nfk.no</p>
+      <p type="listitem" xml:lang="swe">Intranett</p>
+      <p type="listitem" xml:lang="nno">Større skrift</p>
+      <p type="listitem" xml:lang="nob">Lytt til tekst</p>
+    </list>
+    <list>
+      <p type="listitem" xml:lang="nob">Forside</p>
+      <p type="listitem" xml:lang="nob">Norsk <list><p type="listitem" xml:lang="swe">Rettigheter</p><p type="listitem">Duodje</p><p type="listitem" xml:lang="nob">Samisk religion</p><p type="listitem" xml:lang="ger">Kultur</p><p type="listitem" xml:lang="nob">Samisk mat</p><p type="listitem" xml:lang="nob">Samiske klær</p><p type="listitem" xml:lang="nob">Kjente samer</p></list></p>
+      <p type="listitem">Julevsámegiella <list><p type="listitem" xml:lang="sme">Barggo</p><p type="listitem">Julevsámegiella</p><p type="listitem">Kultuvrra &amp; asstoájgge</p><p type="listitem">Riektá</p><p type="listitem" xml:lang="isl">Stipennda</p><p type="listitem">Varresvuohta</p></list></p>
+      <p type="listitem" xml:lang="sma">Åarjelsaemiengïele <list><p type="listitem" xml:lang="sma">Barkoe</p><p type="listitem" xml:lang="sma">Kultuvre &amp; eejehtimmie</p><p type="listitem" xml:lang="sma">Reaktah</p><p type="listitem" xml:lang="kal">Staarne</p><p type="listitem" xml:lang="sma">Ööhpehtimmie</p></list></p>
+      <p type="listitem" xml:lang="sme">Davvisámegiella <list><p type="listitem">Sámigiella</p><p type="listitem" xml:lang="sme">Bargu</p><p type="listitem" xml:lang="sme">Dearvvšvuohta</p><p type="listitem" xml:lang="sme">Stipeanda</p><p type="listitem" xml:lang="sme">Kultuvra &amp; asttuáigi</p><p type="listitem" xml:lang="sme">Oahppu</p><p type="listitem" xml:lang="sme">Vuoigatvođat</p></list></p>
+    </list>
+    <list>
+      <p type="listitem">Infonuorra</p>
+      <p type="listitem">Julevsámegiella</p>
+      <p type="listitem" xml:lang="sme">Barggo</p>
+    </list>
+    <p type="title">Barggo-gatjádallam</p>
+    <p><em type="italic">1. SÁGÁJDAHTTEMIN </em>Ž Vuorde barggovaddes li guovte gitta vihttasa rádjaj ságájdahttemin. Gájkajt lanján giedajn buorástahte. Gehtja gájkajt tjalmijda gå buorástahtá. Ž Árvvedahtte dån le balon, valla gudi bievde nuppe bielen tjåhkkåhi li iemelágásj ulmutja. Ájnas le sidjij diededim bargov ”vuobddet” degu dunji le ájnas ietjat máhttudagájt barggen ”vuobddet”. Buorre diedo: Tjåhkudalá – åro ietjat láhkáj – måreda!  </p>
+    <p><em type="italic">2. IEMELÁGÁSJ GATJÁLVISÁJT MAJT MÁHTÁ OADTJOT </em>Ž Manen bargov åtså? Ž Manen duv galggap bálkkit? Ž Gåktu lulu duv barggovádde/åhpadiddje/duv barggorádna duv gåvvit? Ž Ma li duv buorre biele/nievres biele? Ž Gåktu diertjestimev/lájtov/mierredimájgijt gierda? Ž Majt vidá jage duogen dagá? Ž Goassa máhtá álgget? Ž Majt bálkkán vuordá? Ž Majt ásstoájgen dagá? Ž Giehto majt maŋemus jagijt le dahkam. Ájádalá: Buorre biele, nievres biele, makkir ulmusj/bargge le dån, ájggomusá ja åtsåda åvddåla mij le bargguj vuogas bálkká. (Sáhkada iehtjádij sämmilágásj bargon jali ihkap fágasiebrijn).  </p>
+    <p><em type="italic">3. MAJT VIERTTI VÁSSTEDIT? </em>Ž Åvdemusát; åro ietjatláhkáj ja váges. Ž Gulldala ja ájádalá gatjálvisájt åvddål gå vássteda. Ž Ale nievret åvdep barggovaddij/barggorádnaj jali bargosaje birra sáhkada. Ž Ij dárbaha gatjálvisájt vásstedit jus ájgo iesselissan sjaddat, makkir jáhkkudahka, jali makkir seksuálalasj vuohke dujna le. Dákkár gatjálvisá e ságájdáhttemin hieba. Dát le ságájdahttem, ij le gatjádibme. Ij dárbaha dåbdåstit lågejagágin dujna lij dáhpe gárudijt nisskot – jus ij ságájdahtte sierraláhkáj dan birra gatjáda.  </p>
+    <p><em type="italic">4. MAN BIRRA GALGA GATJÁDIT? </em>Ž Makkár le barggobiros? Ž Galles barggi åssudagán gånnå bargov åtsåv? Ž Le gus diján sisŋásjåhpadus? Ž Álmmudusán tjuottjoj ”muhtem mano vierttiji märostuvvat”. Majt dat javllá práktihkalattjat? Ž Máhttebihtit gus munji binnáv doajmmaháme birra giehttot? Ž Goassa mierredihpit gut bálggiduvvá? Pláni: Gatjálvisájs majt le ájádallam åvddåla moatte li álu ságájdahttemin vássteduvvam- danen ájádalá moadda ietjá gatjálvisájt.  </p>
+    <p><em type="italic">BUORRE DIEDO GESI GALGGÁ BARGGOSÁGÁJDAHTTEMIJ Ságájdahttema åvddåla </em>Ž Ájádalá nåv ålov majt máhtá åtsådum bargo birra ja viddnudagá mij galggá bálkkit. Ságájdahttemij boahtet gárvedum vuoset dån le bargguj oalle mielos. Ž Tjále listav mij vuoset duv sierralágásj tjähppudagáv bargguj. Ájádalá duv ietjat buorre ja nievres bielij birra. <em type="italic">Boahtem </em>Ž Viertti diedon rájnas ja snivva årrot. Ž Gárvvuna åhtsåm bargo milta. Jus bargov åtså bivtasboargálin, máhtá ietjáláhkáj gárvvunit gå jus bargov advokahttakåntåvrån åtså. Vállji biktasijt maj soabtso. Ž Sulásta nuoges ájgev ságájdallamij jåvsådit - ja diededa ietjat mierredum ájge åvddålattjan resepsjåvnån.  </p>
+    <p><em type="italic">Jur åvddåla </em>Ž Sieddoda ietjat nágin minuhta. Ž Maná hivsigin - jasskavuoda diehti. Jus ij ietján gå muodov ja ihkap sminkav gehtjastittjat. Ž Barggovadden le dunji vuodon positijvalasj miella. Dån ham sjaddi ságájdahttemij válljidum! Ságájdahttema maŋŋel Ž Ájádalá gåktu ságájdahttem manáj. Majna le dudálasj, majt máhtá buoredit jus vaden ietjá ságájdahttemij gåhtjoduvá? Ž Gárveda ietjat jus nubbeságájdahttemij gåhtjoduvá.  </p>
+    <list>
+      <p type="listitem">RSS</p>
+      <p type="listitem" xml:lang="nno">Share on print   Skriv ut</p>
+      <p type="listitem" xml:lang="nno">Share on twitter   Del på Twitter</p>
+      <p type="listitem" xml:lang="nno">Share on facebook   Del på Facebook</p>
+    </list>
+    <p xml:lang="nno">Redaktør: Geir Johnsen | Webansvarlig: Håvard Vognild | CMS/Webdesign: ACOS</p>
+  </body>
+</document>

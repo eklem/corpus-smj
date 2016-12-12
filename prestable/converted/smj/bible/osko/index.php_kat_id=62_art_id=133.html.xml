@@ -1,0 +1,39 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>91</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=62&amp;art_id=133</origFileName>
+    <parallel_text location="index.php_kat_id=62_art_id=133.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=62_art_id=133.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=62_art_id=133.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="fin">Kristuskránssa</p>
+    <p type="title">Kristuse-værjoe</p>
+    <p xml:lang="sma">
+      <span type="quote" xml:lang="sma">“Jïjjen gearketje”</span>
+    </p>
+    <p xml:lang="sma">Jeesuse jïjjem jïh jaememem deejri. Gaajhkesh giejtie Jeesuse iehtsieji, satnem biehtiejin. Jeesuse ussjedi Jupmele aaj satnem biehtieji. Jeesuse vaejvien jïjjine åahpeni. Almetjh satnem laarhkoejin jïh kroessese geavnastin, stoerre vaejvine dïsse jaemedh. Minngemes jeemi dam jaememem mestie bïllebe. Dan jïjjen vaejvie-aajmosne lïj: baanhtsan jïh oktegh lïj, satnem haeniehtin jïh laavsin. Gieriesvoeten gielhtie idtji gåajperh. Juktie deejri Jupmele mijjese jieliemisnie jïh jaemiemisnie håksa, dellie gaarsjeli.</p>
+    <p xml:lang="sma">Lohkh amma Bijbelisnie guktie Jeesuse baenhtsesne Jupmielasse rohkeli gosse Getsemanisnie lïj: Maarhkosen vaentjielisnie 14, 32-37. Maahtah aaj teekstem Jeesusen vaejvien bïjre lohkedh.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

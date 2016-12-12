@@ -1,0 +1,39 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>82</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=195&amp;art_id=252</origFileName>
+    <parallel_text location="index.php_kat_id=195_art_id=252.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=195_art_id=252.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=195_art_id=252.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Dållå</p>
+    <p type="title">6.	I galga gállasjvuodav doadjet</p>
+    <p>
+      <em type="italic">Galggap jubmelbalulattjan suv iehttset, vaj rájnnasin ja vigedibmen ájádusájn, bágojn ja bargojn viessop. Gállasjguojmitja galggaba guojmeska iehttset ja guddnedit. </em>
+    </p>
+    <p>Jubmel le gieresvuodav ja seksualitehtav sjivnnjedam; aktisasj iellemav almatja ja nissuna gaskan. Juohkkahasj galggá gállasjvuodav vieledit, ja aktisasj iellemav suoddjit. Gudi guhtik guojmeska iehttseba, libá åskulattja, váj aktijvuodan le hávsske ja duohtavuohta.</p>
+    <p>Majt dat sisadná <span type="quote">”gállasjvuodav doadjet”</span>? Le gus gå gállasjguojmitja nubbe nuppes sirraba? Guovtes gudi aktan årroba sirraba? Jali le gus juoga ienep?</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

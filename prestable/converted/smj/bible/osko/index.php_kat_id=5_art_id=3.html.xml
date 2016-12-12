@@ -1,0 +1,44 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>129</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=5&amp;art_id=3</origFileName>
+    <parallel_text location="index.php_kat_id=5_art_id=3.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=5_art_id=3.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=5_art_id=3.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Mijá birra</p>
+    <p>Sámi girkkoráde</p>
+    <p xml:lang="sms">|</p>
+    <p>Varrudága</p>
+    <p xml:lang="sms">|</p>
+    <p>Doajmma</p>
+    <p xml:lang="sms">|</p>
+    <p xml:lang="fin">Kristuskránssa</p>
+    <p type="title">Mijá birra</p>
+    <p>Dán næhttabájke sisadno le risstalasj jáhkko ja sáme kultuvrra. Vállji tiemáv jus siedá ienebuv diehtet: Låvdagoahte, soahke, tjáhtje, dållå, biejvve, ednam ja girkko. Næhttabájkke gávnnu nielje giellaj: oarjjelsámegiellaj, julevsámegiellaj, nuorttasámegiellaj ja dárogiellaj.</p>
+    <p>Sáme e-jáhkkoåhpadus le åvddånahtedum Sáme girkkorádes Vuona girkkon. Sáme máná ja nuora galggi årrot guovdátjin ietjasa jáhkoåhpadusán. Åhpadus galggá sáme åtsådallamijda ja bájkálasj sáme girkkoiellemij tjanáduvvat. Sáme vuojŋŋalasjvuohta galggá viehkken iellemdádjadussaj.</p>
+    <p>Sáme e-jáhkkoåhpadus le åvddånahtedum dårjajn Størst av alt – prosjevta baktu mij le jáhkkoåhåadus Vuona girkkon. Jáhkkoåhpadus le Vuona girkko ájnnasamos vuorodimij gaskan. Dálla dagáduvvá systemáhtalasj jáhkkoåhpadus gájkajda gaskal 0-18 jage gudi li gástaduvvam, mij galggá vuodov biedjat váj máná ja nuora máhtti åvddånahttet ietjasa jáhko aktijvuodav ja girkkov massta li oassen.</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>

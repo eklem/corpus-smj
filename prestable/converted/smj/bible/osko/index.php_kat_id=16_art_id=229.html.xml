@@ -1,0 +1,37 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title>JAHKKO</title>
+    <genre code="bible"/>
+    <author>
+      <unknown/>
+    </author>
+    <publChannel>
+      <publication>
+        <publisher>Samisk Kirkeråd</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>100</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
+    <multilingual/>
+    <origFileName>http://www.osko.no/index.php?kat_id=16&amp;art_id=229</origFileName>
+    <parallel_text location="index.php_kat_id=16_art_id=229.html" xml:lang="nob"/>
+    <parallel_text location="index.php_kat_id=16_art_id=229.html" xml:lang="sma"/>
+    <parallel_text location="index.php_kat_id=16_art_id=229.html" xml:lang="sme"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 104145 $; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p>Åhpav: Ednam</p>
+    <p type="title">Ednam le vattos sjivnnjádusás</p>
+    <p>Luonndo le almatjijda ávvon ja adnon vatteduvvam dán væráldin. Almasj le ednamis dagádum ja miján le sierralágásj dahkamus ednama gáktuj. Galggap luondov sujttit ja dav háldadit váj juohkkahasj máhttá dassta viessot.</p>
+    <p>Ulmusj muhtem bájkkáj gullu, ij vuosstálakkoj. Åvddåla lidjin sáme organiseridum sijdaj milta. Mierredum sijdajn lidjin riektá guohtomij ja bivdduj sijá guovlon. Jus luondov æhttsá de tjuovvu aj åvdåsvásstádus dav sujttit. Uddni sijddanamma ienemusát boatsojsujton aneduvvá.</p>
+    <p>Åvdebut lidjin almatja nannusit luonnduj tjanádum, valla gåktu le uddni? Gåktu udnásj almatja luondov adni? Gåktu vieledip ja vuosedip vuollegasjvuodav ja iehttsep luondov? Ja makkir vuogijn?</p>
+    <p xml:lang="nob">Utskriftsvennlig versjon</p>
+  </body>
+</document>
