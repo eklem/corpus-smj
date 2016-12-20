@@ -1,0 +1,66 @@
+<document xml:lang="smj" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>405</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.ajtte.com/samiska</origFileName>
+    <parallel_text xml:lang="eng" location="english.html"/>
+    <parallel_text xml:lang="deu" location="deutsch.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Ájtte – Svenskt Fjäll- och Samemuseum š Samiska</p>
+    <p xml:lang="sms">|</p>
+    <p xml:lang="sms">|</p>
+    <list>
+      <p type="listitem" xml:lang="isl">Hem</p>
+      <p type="listitem" xml:lang="swe">Besöka <list><p type="listitem" xml:lang="swe">Öppettider och priser</p><p type="listitem" xml:lang="fkv">Hitta hit</p><p type="listitem" xml:lang="swe">Butik och webbshop</p><p type="listitem" xml:lang="swe">Jokkmokks marknad</p><p type="listitem" xml:lang="swe">För barn och skolgrupper</p><p type="listitem" xml:lang="ger">Konferens</p><p type="listitem" xml:lang="nno">Restaurang Ájtte</p><p type="listitem" xml:lang="nob">Program</p></list></p>
+      <p type="listitem" xml:lang="nob">Utforska <list><p type="listitem" xml:lang="nob">ÁJA – Arkiv &amp; Bibliotek</p><p type="listitem">Jokkmokks Fjällträdgård</p><p type="listitem" xml:lang="isl">Samlingar</p><p type="listitem" xml:lang="swe">Uppdrag och tjänster</p><p type="listitem">Ájtte Musei Vänner</p><p type="listitem" xml:lang="sma">Projekt</p><p type="listitem" xml:lang="swe">Publikationer <list><p type="listitem" xml:lang="nob">Rapporter, mm</p><p type="listitem" xml:lang="ger">Skriftserier</p></list></p></list></p>
+      <p type="listitem" xml:lang="swe">Utställningar</p>
+      <p type="listitem" xml:lang="swe">Om Ájtte <list><p type="listitem" xml:lang="deu">Kontakt</p><p type="listitem" xml:lang="eng">Pressinformation</p></list></p>
+    </list>
+    <p xml:lang="nno"/>
+    <list/>
+    <p>(Lulesamiska) </p>
+    <p type="title">Dánna li váre ja dánna l sáme kultuvrra</p>
+    <p><em type="italic">Ájtte Jåhkåmåhke – sáme guovdásj </em>Jåhkåmåhkke, nuortalattjan Nuorttagievle, diehttelis tjåhkanimsadje márnánbále ja tjåhkanimbále. Ájtte, duottar- ja sámemusea, la degu uksan várijda, Laponiaj ja sámi kultuvrraj. Dánna giehttop Sámeednama ja ulmutjij birra, giehttop viessoma ja bierggima birra dakkár ednamdajvan mij ienebuv ulmutjis rávkká. Dát la giehtto jiekkijn, vuomijn ja várijn. </p>
+    <p><em type="italic">Sábme – sámij ednam </em>– rájadagi nieljen rijkan, ájmodis ednamdajvaj várij, vuomij, duoddarij ja jieggeednamij. Dánna lip moadde tuvsán jage bivddám, dánna lip gietjedis bálggájt duolmmun, várijt ja jågåjt nabddám. Bájedam lip mijá mánájt, tjállám ednama birra ja värrodam jubmelijda buorre bivddovuorbe diehti. Älojt lip tjuovudam, räjnodam ja dålvudam varás guohtomijda. Laponia – väráltárbbe, 9 400 km 2 stuor dajvva Norrbottena várijn ja vuomijn, la dålutjis bivddárijs ja ällobarggijs åroduvvam. Dánna åvdutjis lidjin vihtta nationalpárka ja moadda suoddjidum ednamdajva. Dajna gå 1996 dagáduváj väráltárbben Unescos, de dálla l luonndo- ja kultuvrra-árbben gájkajda almatjijda. Laponiavuosádusán diedojt vaddep ja gåvvistip väráltárbev. </p>
+    <p>
+      <em type="italic">Vuosádusá </em>
+    </p>
+    <list>
+      <p type="listitem"><em type="italic">Suodje </em>. Sváltja ja ruvddagábde. Sámij silba gasskaájge hámij. </p>
+      <p type="listitem"><em type="italic">Goabdesájgge </em>. Religijåvnnå ja dábe. <em type="italic">Ådåårroviessom </em>. Ådåboahtte 1900-lågo álgos. </p>
+      <p type="listitem"><em type="italic">Bierggit </em>. Sámeviessom ja gåktu boahttsujn ja rájdujn bierggim mijá ájggáj. </p>
+      <p type="listitem"><em type="italic">Jåhtet </em>. Gåktu ulmutja rahtedis bájkijn bierggiji ja gåktu juhtusa vájaldi. </p>
+      <p type="listitem"><em type="italic">Ädno </em>. Tjáhtjgierragijs merraj. Äno birás åvdebut ja dálla. </p>
+      <p type="listitem"><em type="italic">Laponia </em>– mijá ednama. Luonndo- ja kultuvrraárbbegájkajda almatjijda. </p>
+    </list>
+    <p>
+      <em type="italic">E dåssjå vuosádusá </em>
+    </p>
+    <list>
+      <p type="listitem">Girjjevuorkká, arkijvva ja åtsådimlanjá.</p>
+      <p type="listitem">Várrediedibme diedet várij, Norrbottena nationalpárkaj ja Laponia birra.</p>
+      <p type="listitem">Ájtte konferänssa, ådåájggásasj konferänssa- ja tjåhkanimlanjá.</p>
+      <p type="listitem">Dávvervuorká boargalin duoje, kárta, girje, musijkka j.n.v.</p>
+      <p type="listitem">Ájte bårråmsajen sámebiebbmoja udnásj biebbmo.</p>
+    </list>
+    <p><em type="italic">Jåhkåmåhke sjattadahka – sjadde oasse Ájten </em>Várresjattadahka l siettos bájkke Dálvvadisjávrátja guoran ja rahpot giesen. Bálggáj milta tjuovvop moattelágasj luonndotjerdav várresjattoj lahka. Akta Axel Hamberga åtsådinhuodnahijs diehki Saregis la jådedum. </p>
+    <p type="title">Ájtte – sámij oajvvedávvervuorkká, sierra dávvervuorkká várijda, diedimguovdásj turissmaj.</p>
+    <p>Åtsådibme, diehtotjoaggem, diehtojuohkem.</p>
+    <p>Guossodihtit: Kyrkogatan 3. Boksa 116, 962 23 Jåhkåmåhkke. info@ajtte.com 0971-170 70. Fáksa 0971-120 57. http://www.ajtte.com/ Jåhkåmåhke sjattadahka, rahppot dåssjå giesen. 0971-101 00. Juohkusa máhtti vuosediddjev åvddåla sihtat. Skåvllåklássajda mijá museapedagoga sierra prográmmav dahká.</p>
+  </body>
+</document>
