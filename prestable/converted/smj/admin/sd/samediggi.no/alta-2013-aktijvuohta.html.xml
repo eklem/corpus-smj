@@ -13,9 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://www.samedigge.no/layout/set/print/Rijkajgasskasasj-barggo/Alta-2013/Alta-2013-aktijvuohta</origFileName>
-    <parallel_text xml:lang="sma" location="govlehtallh-alta-2013.html"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="kontakt-alta-2013.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="govlehtallh-alta-2013.html"/>
     <parallel_text xml:lang="sme" location="oktavuohta-alta-2013.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -39,8 +54,8 @@
     <p type="title">Válde aktijvuodav GCG:ajn</p>
     <p>Álggoálmmugij rijkajgasskasasj koordinerimjuohkusin (GCG) li åvdåstiddje iesj guhtik álggoálmmukguovlojs væráldav miehtáj.</p>
     <list>
-      <p type="listitem">Ž GCG:a næhttabielle</p>
-      <p type="listitem">Ž GCG:a Facebook-bielle</p>
+      <p type="listitem">· GCG:a næhttabielle</p>
+      <p type="listitem">· GCG:a Facebook-bielle</p>
     </list>
     <p>
       <em type="bold">GCG:a præssaulmutja </em>

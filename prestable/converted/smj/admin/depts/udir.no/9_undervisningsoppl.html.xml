@@ -13,9 +13,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
     <multilingual/>
     <origFileName>http://veiledninger.udir.no/Samisk%20andrespr%e5k/www.udir.no/Lareplaner/Veiledninger-til-lareplaner/Revidert-2013/Samisk-som-andrespraak/Samegiella-nubbengiellan-samegiella-2-ja-samegi/template-andre-trinn-i-enkel-tabell/Undervisningsoppl/index-2.html</origFileName>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
     <parallel_text xml:lang="nob" location="9_undervisningsopplegg-niva-6.html"/>
+    <parallel_text xml:lang="rus" location=""/>
     <parallel_text xml:lang="sma" location="9_undervisningsoppleg.html"/>
     <parallel_text xml:lang="sme" location="9_undervisningsoppl.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -76,13 +91,13 @@
     <p>
       <em type="bold">Åhpadusmihttomiere </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Karakterdásse 2 </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Karakterdásse 3 - 4 </em>
     </p>
-    <p xml:lang="ger">
+    <p xml:lang="deu">
       <em type="bold">Karakterdásse 5 - 6 </em>
     </p>
     <p>Oahppe galggá máhttet:</p>
@@ -194,9 +209,9 @@
     <p>Vuodja</p>
     <p xml:lang="sma">Måne</p>
     <p xml:lang="sma">Nijbbe</p>
-    <p xml:lang="ger">Bismer</p>
+    <p xml:lang="deu">Bismer</p>
     <p xml:lang="fkv">Rujtta</p>
-    <p xml:lang="ger">Fierrot</p>
+    <p xml:lang="deu">Fierrot</p>
     <p>Viehkkit</p>
     <p xml:lang="sme">Duolbbit</p>
     <p>Mån galgav...</p>

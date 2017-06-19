@@ -5,6 +5,10 @@
     <author>
       <unknown/>
     </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
     <publChannel>
       <publication>
         <publisher>Samisk Kirkeråd</publisher>
@@ -18,9 +22,24 @@
     <submitter name="Kevin Brubeck Unhammer" email="unhammer+apertium@mm.st"/>
     <multilingual/>
     <origFileName>http://www.osko.no/index.php?kat_id=204&amp;art_id=226</origFileName>
-    <parallel_text location="index.php_kat_id=204_art_id=226.html" xml:lang="nob"/>
-    <parallel_text location="index.php_kat_id=204_art_id=226.html" xml:lang="sma"/>
-    <parallel_text location="index.php_kat_id=204_art_id=226.html" xml:lang="sme"/>
+    <parallel_text xml:lang="dan" location=""/>
+    <parallel_text xml:lang="eng" location=""/>
+    <parallel_text xml:lang="fin" location=""/>
+    <parallel_text xml:lang="fit" location=""/>
+    <parallel_text xml:lang="fkv" location=""/>
+    <parallel_text xml:lang="ger" location=""/>
+    <parallel_text xml:lang="isl" location=""/>
+    <parallel_text xml:lang="kal" location=""/>
+    <parallel_text xml:lang="kpv" location=""/>
+    <parallel_text xml:lang="nno" location=""/>
+    <parallel_text xml:lang="nob" location="index.php_kat_id=204_art_id=226.html"/>
+    <parallel_text xml:lang="rus" location=""/>
+    <parallel_text xml:lang="sma" location="index.php_kat_id=204_art_id=226.html"/>
+    <parallel_text xml:lang="sme" location="index.php_kat_id=204_art_id=226.html"/>
+    <parallel_text xml:lang="smj" location=""/>
+    <parallel_text xml:lang="smn" location=""/>
+    <parallel_text xml:lang="sms" location=""/>
+    <parallel_text xml:lang="swe" location=""/>
     <metadata>
       <uncomplete/>
     </metadata>
