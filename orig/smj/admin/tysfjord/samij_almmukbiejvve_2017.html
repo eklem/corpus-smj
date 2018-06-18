@@ -1,0 +1,980 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<!-- JW -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" lang="no" xml:lang="no" >
+	<head>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="Publiser her ved kun nyhetsarkiv" />
+		<meta name="keywords" content="Publiser her ved kun nyhetsarkiv" />
+		<meta name="generator" content="www.CustomPublish.com" />
+		<link rel="alternate" type="application/rss+xml" href="/rss.php/cat/396207/lang/633" title="Publiser her ved kun nyhetsarkiv - www.tysfjord.kommune.no" />
+		<meta property="og:image" content="" />
+		<meta http-equiv="Last-Modified" content="Mon, 30 Jan 2017 07:18:29 GMT" />
+
+
+		<title>Sámij Álmmukbiejvve 2017 - Prográmma - Tysfjord kommune</title>
+<meta http-equiv="Last-Modified" content="Mon, 30 Jan 2017 07:18:29 GMT" />
+
+
+		<link type="text/css" rel="stylesheet" media="screen, projection, tv" href="stylesheet.php/23191.1172.css" />
+
+		<link href='//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700,600' rel='stylesheet' type='text/css' />
+
+		
+		
+
+		<script type="text/javascript" src="/cpclass/js/jquery/jquery.js"></script>
+		<script type="text/javascript" src="/cpclass/js/jquery/customization.js"></script>
+		<script type="text/javascript" src="/cpclass/js/jquery/collapseable/cp.collapsable.js"></script>
+		<script type="text/javascript" src="/cpclass/js/jquery/cycle2/jquery.cycle2.min.js"></script>
+<!-- 		<link rel="shortcut icon" href="/getfile.php/2649714.2290.dwefyvdtep/favicon-big.png" /> -->
+		<link rel="stylesheet" type="text/css" href="/cpclass/js/jquery/colorbox/example5/colorbox.css" />
+		<script type="text/javascript" src="/cpclass/js/jquery/colorbox/colorbox/jquery.colorbox.js"></script>
+		<script type="text/javascript" src="/cpclass/js/jquery/accessibleTabs/jquery.tabs.min.js"></script>
+
+
+		
+
+		<!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+	  
+
+
+
+
+		<script type="text/javascript"> <!--
+
+		jQuery(document).ready(function(){
+			jQuery('.dropdownmenu').hide();
+			jQuery('.dropdown').click(function(){
+					if (jQuery(this).hasClass("active")) {
+						//console.log("current is active");
+						// just close this, then do nothing
+						jQuery(this).toggleClass('active').find('.dropdownmenu').slideToggle('slow');
+					} else {
+						jQuery('.topleft .dropdown.active').toggleClass('active').find('.dropdownmenu').slideToggle('fast');
+						jQuery(this).toggleClass('active').find('.dropdownmenu').slideToggle('slow');
+						}
+				});
+				jQuery('.dropdown').click(function(event){
+					event.stopPropagation();
+				});
+
+				$("div.shop4content").append("<a href='/?checkout=1'>Gå til bestilling</a>");
+				$('span.shopremovefromcartlink:contains("X")').text('');
+
+					/*
+             $("div.shop4content u").append(" <span>kr</span>");
+              //Trashcan-icon for remove product in checkout
+              //add kr to price in checkout
+              $('.checkouttable td.pricetd').append($("<span></span>").text(" kr"));
+					*/
+					$('ul.infotabs').each(function(){
+			    var $active, $content, $links = $(this).find('a');
+			    $active = $($links.filter('[href="'+location.hash+'"]')[0] || $links[0]);
+			    $active.addClass('active');
+
+			    $content = $($active[0].hash);
+
+			    // Hide the remaining content
+			    $links.not($active).each(function () {
+			      $(this.hash).hide();
+			    });
+
+			    // Bind the click event handler
+			    $(this).on('click', 'a', function(e){
+			      // Make the old tab inactive.
+			      $active.removeClass('active');
+			      $content.hide();
+
+			      // Update the variables with the new link and content
+			      $active = $(this);
+			      $content = $(this.hash);
+
+			      // Make the tab active.
+			      $active.addClass('active');
+			      $content.show();
+
+			      // Prevent the anchor's default click action
+			      e.preventDefault();
+			    });
+			  })
+
+			  $('ul.opplevtabs').each(function(){
+			    var $active, $content, $links = $(this).find('a');
+			    $active = $($links.filter('[href="'+location.hash+'"]')[0] || $links[0]);
+			    $active.addClass('active');
+
+			    $content = $($active[0].hash);
+
+			    $links.not($active).each(function () {
+			      $(this.hash).hide();
+			    });
+
+			    $(this).on('click', 'a', function(e){
+			      $active.removeClass('active');
+			      $content.hide();
+
+			      $active = $(this);
+			      $content = $(this.hash);
+
+			      $active.addClass('active');
+			      $content.show();
+			      e.preventDefault();
+			    });
+			  });
+
+
+
+			  jQuery("a.lightbox").each(function() { this.onclick = 'return false'; });
+				jQuery(".lightbox").colorbox({
+					current: "Bilde {current} av {total}",
+					next: "Neste",
+					previous: "Forrige",
+					close: "Lukk",
+					scalePhotos: true,
+					maxWidth: "85%",
+					maxHeight: "85%",
+					width: "85%",
+					height: "85%",
+					opacity: 0.7
+				});
+
+				jQuery('.slides_container').cycle({
+					slides: ' > .slide ',
+					fx: "fade",
+					pauseOnHover: true,
+					speed: 500,
+					timeout: 5000,
+					next: '> .cycle-next',
+					prev: '> .cycle-prev',
+					delay: 2000,
+				});
+
+
+				//Accessible tabs
+$(".article-tk-tabs").accessibleTabs({
+	tabhead:'h3',
+	fx:"fadeIn",
+	clearfixClass: "cf"
+});
+// Hide these tabs if no content in any of them
+if ($('.article-tk-tabs').find('.content').children().length <= 0){
+	$('.article-tk-tabs').hide();
+}
+
+
+
+				//Tjenesteboks frontpage- Kva kan vi hjelpe deg med?
+				$(".velomrade > div").addClass(function(i){return "lossubmenu" + (i + 1);});
+
+				$(".losdropselect > select").addClass("lossubmenu");
+
+				$( ".lossubmenu").prepend("<option selected disabled='disabled' value=''>Vel emne..</option>");
+				$('.catselect315483').attr('id', 'losmainmenu');
+				$(".losdropselect").hide();
+
+					// $(".cat318092").attr("onclick","window.location.href='/?cat=318092'");
+
+				//	$(".cat318093").attr("onclick","window.location.href='/?cat=318093'");
+
+
+				//Skjema-lenker i nytt vindu -ee
+				$('.selvbetjening').find('ul').find('a').attr('target', '_blank');
+		});
+
+			//Function for showing submenu, hiding dummy submenu and hiding already chosen menus.
+			$(function(){
+          $("#losmainmenu").change(function(event){
+            $("option:selected", $(this)).each(function(){
+                var obj = document.getElementById('losmainmenu').value;
+				if (obj === '/?cat=318092') {
+					window.location.replace("/tenester-a-a.318092.nn.html");
+				}
+				if (obj === '/?cat=318093') {
+					window.location.replace("/skjema-a-a.318093.nn.html");
+				}
+				if (obj === '/?cat=317956') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu1, .lossubmenu1 > select").show();
+				$(".disabled").hide();
+				}
+				if (obj === '/?cat=317957') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu2, .lossubmenu2 > select").show();
+				$(".disabled").hide();
+				}
+				if (obj === '/?cat=317958') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu3, .lossubmenu3 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317959') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu4, .lossubmenu4 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317960') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu5, .lossubmenu5 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317961') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu6, .lossubmenu6 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317962') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu7, .lossubmenu7 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317963') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu8, .lossubmenu8 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317964') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu9, .lossubmenu9 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317965') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu10, .lossubmenu10 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317966') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu11, .lossubmenu11 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317967') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu12, .lossubmenu12 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317968') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu13, .lossubmenu13 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317969') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu14, .lossubmenu14 > select").show();
+				$(".disabled").hide();
+				}
+
+				if (obj === '/?cat=317970') {
+				$(".velomrade > .losdropselect").hide();
+				$(".lossubmenu15, .lossubmenu15 > select").show();
+				$(".disabled").hide();
+				}
+
+            });
+          });
+
+
+      /*
+
+          $('.tkcontainer').addClass('seven columns')
+          $('.articlearchive').addClass('seven columns')
+          $('.organizationswrap').addClass('seven columns')
+          $('.ppt313437 #loginbox').addClass('seven columns')
+          $('.utvalg').addClass('seven columns')
+          $('#sitetree').addClass('seven columns')
+*/
+		  		$('#checkouttablecontainer').addClass('twelve columns')
+		  		$('.buybtnorig').attr('src', '/getfile.php/2638331.2290.fptbbsrwtr/webshop_lan.png');
+
+		  		$('.losmenu').find('ul').addClass('sidemenu');
+
+		  		$('#tab4').find('a.link').attr('href', '/opplev-aukra.5492849-317327.html');
+        });
+
+
+
+		--></script>
+<script type="text/javascript" language="javascript">
+ed24ChatObj = {
+  'entrypoint':'Tysfjord_Main'
+ ,'mainid':'A805'
+	,'Online':'<img src="https://login.edialog24.com/kontakt/online_424994196288194930..png"></img>'
+	,'Offline':'<img src="https://login.edialog24.com/kontakt/online_424994197055903423..png"></img>'
+	,'Busy':'<img src="https://login.edialog24.com/images/standard2-offline-no.jpg"></img>'
+	,'webserverAddress':'https://login.edialog24.com'
+	,'urlToOpen':'https://login.edialog24.com/chattemplate/Tysfjord_Main/index.html'
+	,'windowSettings':'width=600,height=800,status=0,scrollbars=0,titlebar=0'
+};
+</script>
+<script src="https://login.edialog24.com/ChatClient3/EntrypointScript4.js" type="text/javascript"></script>
+
+
+	
+<link type="text/css" rel="stylesheet" media="screen, projection, tv, print" href="/include/kommuneextra.css" />
+</head>
+
+
+	<!--[if IE ]>
+	   <body class="hid1172  pagelevel1 page396207  ppt99245 ppt396207 notfrontpage pgn_publiserhervedkunnyhetsarkiv cprilangen clangen articleview article5951265 articledefault hasnoarticlepics hasnosubmenuitem langno mojuni ie">
+	<![endif]-->
+	<!--[if !IE]>-->
+	   <body class="hid1172  pagelevel1 page396207  ppt99245 ppt396207 notfrontpage pgn_publiserhervedkunnyhetsarkiv cprilangen clangen articleview article5951265 articledefault hasnoarticlepics hasnosubmenuitem langno mojuni ">
+	<!--<![endif]-->
+		<div class="skiplink">
+			<a href="#main">Hopp til hovedinnholdet p&aring; siden</a>
+		</div><!-- skiplink -->
+
+		<div class="topnav row cf">
+			<div class="wrap cf">
+				<div id="navigation" class="seven columns cf fl">
+					
+<ul class="mainmenu menu menulevel0" id="mainmenu">
+ <li class="menuitem hassubitem itemlvlnum1 menulevel1 menu341855 menu341855" id="li341855">
+  <a class="menuitem menulevel1" id="amenuitem341855" href="om-kommunen.341855.no.html">Om kommunen</a>
+ </li>
+ <li class="menuitem itemlvlnum2 menulevel1 menu95873 menu95873 menunewwindow" id="li95873">
+  <a class="menuitem menulevel1 newwindow" id="amenuitem95873" target="_blank" href="kart.95873.no.html">Kart</a>
+ </li>
+ <li class="menuitem itemlvlnum3 menulevel1 menu341857 menu341857" id="li341857">
+  <a class="menuitem menulevel1" id="amenuitem341857" href="nettstedskart.341857.no.html">Nettstedskart</a>
+ </li>
+ <li class="menuitem hassubitem itemlvlnum4 menulevel1 menu96267 menu96267" id="li96267">
+  <a class="menuitem menulevel1" id="amenuitem96267" href="turistinformasjon.96267.no.html">Turistinformasjon</a>
+ </li>
+ <li class="menuitem itemlvlnum5 menulevel1 menu91652 menu91652" id="li91652">
+  <a class="menuitem menulevel1" id="amenuitem91652" href="kontakt.91652.no.html">Kontakt</a>
+ </li>
+</ul>
+
+				</div><!-- end navbar -->
+
+				<div class="access five columns fr cf">
+
+
+					<div class="accessibility fr">
+						<div id="languagebar" class="fl"><a href="publiser-her-ved-kun-nyhetsarkiv.396207.no.html"><img src="images/flags/no.gif" alt="Språk Norsk - Norwegian" border="0" hspace="2" vspace="0" align="middle" /></a><a href="publiser-her-ved-kun-nyhetsarkiv.396207.se.html"><img src="images/flags/se.gif" alt="Språk Sami - Samisk" border="0" hspace="2" vspace="0" align="middle" /></a></div>
+						<div class="scaletext bold fl">
+							<span class="small">A</span>
+							<span class="medium">A</span>
+							<span class="large">A</span>
+						</div>
+						<div class="contrast fl">
+
+						
+								<a id="hoykontrast" href="#" title="Hvitt på svart" onclick="setFeatureCookie('contrast','high')">
+									<img alt="Høykontrast" src="https://img2.custompublish.com/getfile.php/2846472.1172.dscsaxwvyf/toptop_icon_contrast.png" width="22" height="21" />
+								</a>
+							
+
+
+							<a class="rsslink" href="/rss.php/cat/396207/lang/633">
+								<img src="https://img2.custompublish.com/getfile.php/2846473.1172.rpqywwybcu/toptop_icon_rss.png" alt="RSS" width="23" height="21" />
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- end topnav -->
+
+		<div class="expanded header_full row"><!--Ser du denne? -->
+			<div class="wrap cf">
+				<div id="header" class="cf row">
+					<div class="logo db six columns">
+						<a href="/index.php?cat=341841" id="logolink" >
+							<img class="logoimg" src="https://img2.custompublish.com/getfile.php/2846471.1172.cqffwwdpwu/logo.png" width="266" height="83" alt="logo" />
+						</a>
+					</div>
+					<div class="six columns">
+						<div class="search fr">
+							<form action="index.php" method="get" class="searchform" id="searchform">
+								<input class="searchinput" name="find" onclick="if(this.value=='Hva kan vi hjelpe deg med?'){this.value=''}" onblur="if(this.value==''){this.value='Hva kan vi hjelpe deg med?'}" value="Hva kan vi hjelpe deg med?" autocomplete="off" />
+								<input id="searchsubmit" class="searchsubmit" value="Search" type="image" src="https://img2.custompublish.com/getfile.php/2846467.1172.tasrwaerwp/header_icon_search.png" />
+							</form>
+						</div>
+					</div>
+
+				</div><!-- end top -->
+			</div>
+		</div>
+
+		<div id="content" class="cf">
+			<div class="wrap row cf">
+
+						<div class="three columns sidebararea"><div class="box boxmenu">&nbsp;<h3 class="caption">Publiser her ved kun nyhetsarkiv</h3></div></div>
+
+
+
+				<div id="main" class="main nine columns wbox box  cf" lang="no">
+					<div id="path"><a class="path pathnum0" href="/">Hjem</a> › <a class="path pathdyn pathnum1 " href="nyheter.99245.no.html">Nyheter</a></div>
+
+					<h1 class="headlineview">Sámij Álmmukbiejvve 2017 - Prográmma</h1>
+
+<div class="block">
+	<span class="date">27.01.2017</span>
+	
+	<div class="ingressview"></div>
+	<div class="ingress"></div>
+</div> 
+  <div class="body"></div>
+  <div class="body"><p dir="ltr" id="docs-internal-guid-1f667db3-dfee-f10e-2c7d-35ce6904469d"><img alt="sflaggredigert.jpg" height="266" src="https://img2.custompublish.com/getfile.php/845982.1172.epwbuswqcy/sflaggredigert.jpg" style="float: right;" width="200" /></p>
+
+<p dir="ltr" id="docs-internal-guid-1f667db3-dff7-a758-9fca-cd4bb87427c0">&Aacute;lmmugij k&aacute;ff&aacute; ja g&aacute;hko guossoduvvi</p>
+
+<p dir="ltr"><strong>M&aacute;nnodag&aacute; guovvam&aacute;no 6. biejve 11:30 - 12:30</strong></p>
+
+<p dir="ltr">R&aacute;devieson, G&aacute;sluovtan, &Aacute;rranin, &Aacute;jluovtan ja Stuorgiette baj&aacute;ssjaddamguovd&aacute;tjin.<br />
+Suohkanoajvve Tor Asgeir Johansen hoall&aacute; R&aacute;devieson kl. 11:30.</p>
+
+<p dir="ltr">2017 jage &aacute;vvudallap 100 jage li vuostasj s&aacute;me rijkkatj&aring;hkanime r&aacute;jes ja dav &aacute;vvudalli Roandemin guovvam&aacute;no gud&aacute;t biejve ja &aring;lles vahko. Divtasvuona suohkan f&aacute;ll&aacute; vies&aacute;diddjijda aktisasj nasjon&aacute;la avvudallamijda s&aelig;brrat. &Aacute;jggop streamit s&aacute;ddagav rahpamseremonijas Roandema saljos g&aring;nn&aring; St&aacute;htaminisstar Erna Solberg aktan iehtj&aacute;dij h&aring;lla m&aacute;nnodag&aacute; guovvam&aacute;no 6. Biejve kl. 11:45 - 12:30.</p>
+
+<p dir="ltr">Duodden guossidi suohkana &aring;vdestiddje suohkana g&aring;lmm&aring; vuorrasijhukso&aacute;sadus&aacute;jt.</p>
+
+<p dir="ltr"><strong><em>V&aacute;jmulattjat s&aacute;vvap g&aacute;jkajda buorisboahtemav S&aacute;mij &aacute;lmmukbiejvev &aacute;vvudal&aacute;tjit!</em></strong></p>
+
+<p dir="ltr">&nbsp;</p>
+
+<p>Ietj&aacute; d&aacute;hp&aacute;dus&aacute; suohkanin:</p>
+
+<p dir="ltr"><wbr /></p>
+
+<ul style="list-style-type:disc;">
+	<li dir="ltr">
+	<p dir="ltr">&Aacute;vvudullam &Aacute;rranin la ienemus oass&aacute;j duorastag&aacute; guovvam&aacute;no 2. biejve kl. 15:30 - 18:30, ja la g&aacute;jkajda. Progr&aacute;mav g&aacute;vna &Aacute;rrana n&aelig;httabielen: <a href="http://www.arran.no/">www.arran.no</a></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Divtasvuona ASVOn aj ienemus oass&aacute;j &aacute;vvudalli duorastag&aacute; guovvam&aacute;no 2. biejve kl. 10:00 - 14:00. Duodden la sij&aacute;n minisemin&aacute;rra ja duodjeiehkeda. Gehtja progr&aacute;mmav ASVO n&aelig;httabielen <a href="http://www.tysfjordasvo.no/">www.tysfjordasvo.no</a></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">B&aelig;sosaljo m&aacute;n&aacute;jg&aacute;rden galggi s&aacute;me biebmojt b&aring;rr&aring;t ja l&aring;vdagoaden subtsastallat.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">&Aacute;jlouvta m&aacute;n&aacute;jg&aacute;rden galggi m&aacute;n&aacute; &aacute;lmmukbiejve h&aacute;vsskudallat s&aacute;me biebmoj, subtsastallat &nbsp;ja s&aacute;bm&aacute;j l&aacute;vllot.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">G&aacute;sluovta sk&aring;vl&aring;n giessiji sl&aacute;vgav baj&aacute;s ja l&aacute;vllu s&aacute;mevierrega l&aacute;vllagav.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">&Aacute;jluovta sk&aring;vl&aring;n &aacute;vvudalli dagu d&aacute;b&aacute;lattjat aktisasj b&aring;rr&aring;mus&aacute;jn g&aacute;jkajda.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">Stuoragiette baj&aacute;ssjaddamguovd&aacute;tjin galggi &aring;lles biejvev &aring;lggon ja l&aring;vdagoaden &aacute;vvudallat. Malesti &aacute;rbbed&aacute;b&aacute;lasj s&aacute;me biebmojt, sl&aacute;vgav giessi baj&aacute;s, ja &aring;lles b&aacute;jkev guoss&aacute;j g&aring;httju.</p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr">&Aacute;jluovta/&Aacute;jl&aacute;tte girkkon la jubmeldievnastus guovvam&aacute;no 6. Bieve kl. 18:00. Girkkok&aacute;ffa &Aacute;rranin, &Aacute;jluovta/&Aacute;jl&aacute;tte tjoaggulvisr&aacute;de baktu.</p>
+	</li>
+</ul>
+
+<p>&nbsp;</p>
+</div>
+  <div class="related"></div>
+  <div class="forum"></div>
+  <div class="tools">
+  	<table class="tipstable" cellspacing="0" cellpadding="1"><tr><td><a class="toollink" href="#" onclick="location.href='/index.php?id=5951265&amp;showtipform=1&amp;cat=396207#tips'; return false;" title="Tips en venn"><img src="/images/emmaicons/iconMailThis.gif" width="19" height="13" align="left" hspace="3" vspace="0" border="0" alt="Tip a friend"  />Tips en venn</a></td></tr></table>
+  	<table cellspacing="0" cellpadding="1"><tr><td><div><a class="toollink"  href="/index.php?id=5951265&amp;cat=396207&amp;printable=1" title="Skriv ut"><img src="/images/emmaicons/iconPrint.gif" width="19" height="13" align="left" hspace="3" vspace="0" border="0" alt="Printer friendly" />Skriv ut</a></div></td></tr></table>
+   </div>
+   
+<div class="block" id="artpics">
+
+</div>
+
+
+
+
+
+
+				</div>
+
+				<div class="mainmenucontainer row cf"><h3 class="caption">HOVEDMENY</h3>
+					<div class="lolwrap cf">
+						<div class="mmcont three columns">
+							
+<ul class="hovedmeny boxmenu menulevel0" >
+ <li class="menuitem hassubitem itemlvlnum2 menulevel1 menu95864 menu95864" id="li95864">
+  <a class="menuitem menulevel1" id="amenuitem95864" href="barnehager.95864.no.html">Barnehager</a>
+ </li>
+ <li class="menuitem hassubitem itemlvlnum4 menulevel1 menu96517 menu96517" id="li96517">
+  <a class="menuitem menulevel1" id="amenuitem96517" href="bibliotek.96517.no.html">Bibliotek</a>
+ </li>
+ <li class="menuitem itemlvlnum5 menulevel1 menu399494 menu399494" id="li399494">
+  <a class="menuitem menulevel1" id="amenuitem399494" href="bostoette.399494.no.html">Bostøtte</a>
+ </li>
+ <li class="menuitem itemlvlnum6 menulevel1 menu283326 menu283326" id="li283326">
+  <a class="menuitem menulevel1" id="amenuitem283326" href="brann-og-redning.283326.no.html">Brann og redning</a>
+ </li>
+ <li class="menuitem itemlvlnum7 menulevel1 menu95871 menu95871" id="li95871">
+  <a class="menuitem menulevel1" id="amenuitem95871" href="gebyrer-og-avgifter.95871.no.html">Gebyrer og avgifter</a>
+ </li>
+</ul>
+
+						</div>
+						<div class="mmcont three columns">
+							
+<ul class="hovedmeny boxmenu menulevel0" >
+ <li class="menuitem itemlvlnum8 menulevel1 menu340121 menu340121" id="li340121">
+  <a class="menuitem menulevel1" id="amenuitem340121" href="havner-og-kaiomraader.340121.no.html">Havner og kaiområder</a>
+ </li>
+ <li class="menuitem hassubitem itemlvlnum9 menulevel1 menu181381 menu181381" id="li181381">
+  <a class="menuitem menulevel1" id="amenuitem181381" href="helse-og-omsorg.181381.no.html">Helse og omsorg</a>
+ </li>
+ <li class="menuitem itemlvlnum10 menulevel1 menu340628 menu340628" id="li340628">
+  <a class="menuitem menulevel1" id="amenuitem340628" href="kommunereform.340628.no.html">Kommunereform</a>
+ </li>
+ <li class="menuitem hassubitem itemlvlnum11 menulevel1 menu95827 menu95827" id="li95827">
+  <a class="menuitem menulevel1" id="amenuitem95827" href="kultur-naering-og-utvikling.95827.no.html">Kultur, næring og utvikling</a>
+ </li>
+ <li class="menuitem itemlvlnum12 menulevel1 menu140733 menu140733" id="li140733">
+  <a class="menuitem menulevel1" id="amenuitem140733" href="landbruk.140733.no.html">Landbruk</a>
+ </li>
+</ul>
+
+						</div>
+						<div class="mmcont three columns">
+							
+<ul class="hovedmeny boxmenu menulevel0" >
+ <li class="menuitem itemlvlnum13 menulevel1 menu393279 menu393279" id="li393279">
+  <a class="menuitem menulevel1" id="amenuitem393279" href="organisasjon.393279.no.html">Organisasjon</a>
+ </li>
+ <li class="menuitem hassubitem itemlvlnum14 menulevel1 menu96825 menu96825" id="li96825">
+  <a class="menuitem menulevel1" id="amenuitem96825" href="prosjekter.96825.no.html">Prosjekter</a>
+ </li>
+ <li class="menuitem itemlvlnum15 menulevel1 menu95874 menu95874" id="li95874">
+  <a class="menuitem menulevel1" id="amenuitem95874" href="renovasjon.95874.no.html">Renovasjon</a>
+ </li>
+ <li class="menuitem hassubitem itemlvlnum16 menulevel1 menu395943 menu395943" id="li395943">
+  <a class="menuitem menulevel1" id="amenuitem395943" href="samisk-spraak.395943.no.html">Samisk språk</a>
+ </li>
+ <li class="menuitem hassubitem itemlvlnum17 menulevel1 menu95792 menu95792" id="li95792">
+  <a class="menuitem menulevel1" id="amenuitem95792" href="skole-og-utdanning.95792.no.html">Skole og utdanning</a>
+ </li>
+</ul>
+
+						</div> <!-- end col -->
+						<div class="mmcont last three columns">
+							
+<ul class="hovedmeny boxmenu menulevel0" >
+ <li class="menuitem itemlvlnum18 menulevel1 menu149043 menu149043" id="li149043">
+  <a class="menuitem menulevel1" id="amenuitem149043" href="startlaan-og-boligtilskudd.149043.no.html">Startlån og boligtilskudd</a>
+ </li>
+ <li class="menuitem itemlvlnum19 menulevel1 menu283312 menu283312" id="li283312">
+  <a class="menuitem menulevel1" id="amenuitem283312" href="stetindhallen.283312.no.html">Stetindhallen</a>
+ </li>
+ <li class="menuitem hassubitem itemlvlnum20 menulevel1 menu97926 menu97926" id="li97926">
+  <a class="menuitem menulevel1" id="amenuitem97926" href="tekniske-tjenester.97926.no.html">Tekniske tjenester</a>
+ </li>
+ <li class="menuitem itemlvlnum21 menulevel1 menu95896 menu95896" id="li95896">
+  <a class="menuitem menulevel1" id="amenuitem95896" href="utleie.95896.no.html">Utleie</a>
+ </li>
+ <li class="menuitem itemlvlnum22 menulevel1 menu460111 menu460111" id="li460111">
+  <a class="menuitem menulevel1" id="amenuitem460111" href="soek-tilskudd.460111.no.html">Søk tilskudd</a>
+ </li>
+</ul>
+
+						</div> <!-- end col -->
+					</div>
+				</div><!-- end mainmenucontainer -->
+
+
+			</div><!-- end wrapper -->
+		</div><!-- end content -->
+
+			<div id="footer" class="cf">
+				<div class="wrap cf">
+					<div class="row cf">
+						<div class="four columns">
+							<div class="contactinfo">
+								<h2 class="caption">Divtasvuona suohkan - Tysfjord kommune</h2>
+								Poasstaboaksa - Postboks 104<br />
+8591 GÁSLUOKTA - KJØPSVIK <br/>
+								Tlf: 75 77 55 00 <br/>
+								<span id="spnda488b0"></span><script rel="not" type="text/javascript"><!--
+da488b0 = Array();
+function fda488b0() {
+da488b0.push('');
+da488b0.push('>');
+da488b0.push('a');
+da488b0.push('/');
+da488b0.push('<');
+da488b0.push('o');
+da488b0.push('n');
+da488b0.push('.');
+da488b0.push('e');
+da488b0.push('n');
+da488b0.push('u');
+da488b0.push('m');
+da488b0.push('m');
+da488b0.push('o');
+da488b0.push('k');
+da488b0.push('.');
+da488b0.push('d');
+da488b0.push('r');
+da488b0.push('o');
+da488b0.push('j');
+da488b0.push('f');
+da488b0.push('s');
+da488b0.push('y');
+da488b0.push('t');
+da488b0.push('>');
+da488b0.push('n');
+da488b0.push('a');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('/');
+da488b0.push('<');
+da488b0.push('.');
+da488b0.push('2');
+da488b0.push('7');
+da488b0.push('1');
+da488b0.push('1');
+da488b0.push('w');
+da488b0.push('>');
+da488b0.push('"');
+da488b0.push(';');
+da488b0.push('e');
+da488b0.push('n');
+da488b0.push('o');
+da488b0.push('n');
+da488b0.push(':');
+da488b0.push('y');
+da488b0.push('a');
+da488b0.push('l');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('i');
+da488b0.push('d');
+da488b0.push('"');
+da488b0.push('=');
+da488b0.push('e');
+da488b0.push('l');
+da488b0.push('y');
+da488b0.push('t');
+da488b0.push('s');
+da488b0.push(' ');
+da488b0.push('n');
+da488b0.push('a');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('<');
+da488b0.push('>');
+da488b0.push('n');
+da488b0.push('a');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('/');
+da488b0.push('<');
+da488b0.push(' ');
+da488b0.push('>');
+da488b0.push('"');
+da488b0.push('e');
+da488b0.push('c');
+da488b0.push('a');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('e');
+da488b0.push('t');
+da488b0.push('i');
+da488b0.push('h');
+da488b0.push('w');
+da488b0.push('e');
+da488b0.push('d');
+da488b0.push('i');
+da488b0.push('h');
+da488b0.push('"');
+da488b0.push('=');
+da488b0.push('s');
+da488b0.push('s');
+da488b0.push('a');
+da488b0.push('l');
+da488b0.push('c');
+da488b0.push(' ');
+da488b0.push('n');
+da488b0.push('a');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('<');
+da488b0.push('@');
+da488b0.push('>');
+da488b0.push('n');
+da488b0.push('a');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('/');
+da488b0.push('<');
+da488b0.push('.');
+da488b0.push('2');
+da488b0.push('7');
+da488b0.push('1');
+da488b0.push('1');
+da488b0.push('w');
+da488b0.push('.');
+da488b0.push('>');
+da488b0.push('"');
+da488b0.push(';');
+da488b0.push('e');
+da488b0.push('n');
+da488b0.push('o');
+da488b0.push('n');
+da488b0.push(':');
+da488b0.push('y');
+da488b0.push('a');
+da488b0.push('l');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('i');
+da488b0.push('d');
+da488b0.push('"');
+da488b0.push('=');
+da488b0.push('e');
+da488b0.push('l');
+da488b0.push('y');
+da488b0.push('t');
+da488b0.push('s');
+da488b0.push(' ');
+da488b0.push('n');
+da488b0.push('a');
+da488b0.push('p');
+da488b0.push('s');
+da488b0.push('<');
+da488b0.push('k');
+da488b0.push('a');
+da488b0.push('t');
+da488b0.push('t');
+da488b0.push('o');
+da488b0.push('m');
+da488b0.push('t');
+da488b0.push('s');
+da488b0.push('o');
+da488b0.push('p');
+da488b0.push('>');
+da488b0.push('"');
+da488b0.push('o');
+da488b0.push('t');
+da488b0.push('l');
+da488b0.push('i');
+da488b0.push('a');
+da488b0.push('m');
+da488b0.push('"');
+da488b0.push('=');
+da488b0.push('s');
+da488b0.push('s');
+da488b0.push('a');
+da488b0.push('l');
+da488b0.push('c');
+da488b0.push(' ');
+da488b0.push('"');
+da488b0.push('=');
+da488b0.push('t');
+da488b0.push('c');
+da488b0.push('e');
+da488b0.push('j');
+da488b0.push('b');
+da488b0.push('u');
+da488b0.push('s');
+da488b0.push('?');
+da488b0.push('o');
+da488b0.push('n');
+da488b0.push('.');
+da488b0.push('e');
+da488b0.push('n');
+da488b0.push('u');
+da488b0.push('m');
+da488b0.push('m');
+da488b0.push('o');
+da488b0.push('k');
+da488b0.push('.');
+da488b0.push('d');
+da488b0.push('r');
+da488b0.push('o');
+da488b0.push('j');
+da488b0.push('f');
+da488b0.push('s');
+da488b0.push('y');
+da488b0.push('t');
+da488b0.push('@');
+da488b0.push('k');
+da488b0.push('a');
+da488b0.push('t');
+da488b0.push('t');
+da488b0.push('o');
+da488b0.push('m');
+da488b0.push('t');
+da488b0.push('s');
+da488b0.push('o');
+da488b0.push('p');
+da488b0.push(':');
+da488b0.push('o');
+da488b0.push('t');
+da488b0.push('l');
+da488b0.push('i');
+da488b0.push('a');
+da488b0.push('m');
+da488b0.push('"');
+da488b0.push('=');
+da488b0.push('f');
+da488b0.push('e');
+da488b0.push('r');
+da488b0.push('h');
+da488b0.push(' ');
+da488b0.push('a');
+da488b0.push('<');
+div = document.getElementById('spnda488b0');
+tmp = "";
+for (da488b0i=da488b0.length-1;da488b0i>-1;da488b0i=da488b0i-1) {  tmp += da488b0[da488b0i];
+}
+ div.innerHTML += tmp;
+}
+if (window.addEventListener) { window.addEventListener('load', fda488b0, false); }
+else if (window.attachEvent) { window.attachEvent('onload', fda488b0); }
+// --></script>
+ <br/>
+								Orgnr: 972417769
+							</div>
+
+						</div>
+						
+						 
+						<div class="four columns last fr">
+							<ul class="mobbing">
+								<li>
+									<a href="http://www.nullmobbing.no" class="fb" target="_blank"><img src="https://img2.custompublish.com/getfile.php/3698776.1172.dsdwrbxrud/nullmobbing_small_bla.png" width="200" height="111" alt="mobbing" /></a>
+								</li>
+							</ul>
+						</div>
+						
+						
+						<div class="four columns last fr">
+							<p align="center">Følg oss:</p>
+							<ul class="social menu">
+								<li>
+									<a href="https://www.facebook.com/Divtasvuona-suohkan-Tysfjord-kommune-284100488385177/?fref=ts" class="fb" target="_blank"><img src="https://img2.custompublish.com/getfile.php/2846464.1172.wwerfecdta/footer_icon_facebook.png" width="40" height="40" alt="facebook" /></a>
+								</li>
+								<li>
+									<a href="https://www.instagram.com/tysfjordkommune/" class="inst" target="_blank"><img src="https://img2.custompublish.com/getfile.php/2846466.1172.ayxbbufdxb/footer_icon_insta.png" width="40" height="40" alt="instagram" /></a>
+								</li>
+								<li>
+									<a href="https://twitter.com/Tysfjord" class="flickr" target="_blank"><img src="https://img2.custompublish.com/getfile.php/3621758.1172.tbafdvxurp/twitter.png" width="40" height="40" alt="flickr" /></a>
+								</li>
+								<li>
+									<a href="https://www.youtube.com/channel/UCsGsTntWYBs8_dXc0Gocvig" class="flickr" target="_blank"><img src="https://img2.custompublish.com/getfile.php/3621759.1172.rtrqwvywrt/youtube.png" width="40" height="40" alt="flickr" /></a>
+								</li>
+							</ul>
+						</div>
+						
+						
+					</div>
+					<div class="cpcredits cf">
+						<a class="cp" href="http://www.custompublish.com/" target="_blank">Web levert av CustomPublish</a>
+					</div>
+
+				</div><!-- end wrapper -->
+			</div><!-- end footer -->
+
+
+
+	
+<style type="text/css">
+div.howtoscaletext {
+background-color: #FFFFDD;
+border: 1px solid #999999;
+box-shadow: 0 0 10px #999999;
+color: #333333;
+display: none;
+font-size: 1.4em;
+margin-left: auto;
+margin-right: auto;
+padding: 10px 50px 10px 10px;
+position: absolute;
+top: 10px;
+min-width: 30em;
+max-width: 100%;
+z-index: 10000;
+}
+.howtoscaletext .close {
+background-color: #FFF;
+background-image: none;
+border: 2px solid #333;
+border-radius: 5px;
+box-shadow: 0 0 3px #999999;
+color: #333;
+display: inline-block;
+font-weight: bold;
+line-height: 1.0em;
+margin: 0;
+padding: 3px;
+position: absolute;
+right: 5px;
+text-shadow: none;
+top: 7px;
+}
+.howtoscaletext .close:hover, .howtoscaletext .close:focus {
+background-color: #DDDDDD;
+border-color: #000000;
+color: #000;
+cursor: pointer;
+margin: 0;
+}
+</style>
+<script type="text/javascript"><!-- 
+	function is_touch_device() {
+		// from http://stackoverflow.com/questions/4817029/whats-the-best-way-to-detect-a-touch-screen-device-using-javascript
+		return !!('ontouchstart' in window) || !!('msmaxtouchpoints' in window.navigator);
+	};
+		
+	jQuery(document).ready(function(){
+		if (!is_touch_device()) {
+			jQuery("body").append('<div class="howtoscaletext">Hold inne &#8984;-tasten og trykk + for å skalere opp, - for å skalere ned.</div>');
+			var textelem = jQuery("div.howtoscaletext").first();
+			jQuery(".scaletext").hover(function(){
+				var heightabove = jQuery(this).position().top;
+				var thisheight = jQuery(this).innerHeight();
+				var bhb = jQuery(this).first().css("border-bottom-width");
+				if (!bhb) {
+					bhb = 0;
+				}
+				bhb = parseInt(bhb);
+				jQuery("div.howtoscaletext").offset({top: jQuery(this).offset().top + thisheight + bhb});
+				jQuery("div.howtoscaletext").css("margin-left", jQuery(window).width()/2 - textelem.innerWidth()/2 + "px");
+				jQuery("div.howtoscaletext").show();
+				},
+				function() {
+					jQuery("div.howtoscaletext").hide();
+				}
+				);
+			textelem.children(".close").mousedown(function(){
+				jQuery(this).parent().hide();
+			});
+		} else {
+			//console.log("touch device");
+		}
+	});
+//-->
+</script>
+
+<script type="text/javascript" src="/cpclass/run/cookieinfo/cookieinfo.js"></script>
+<link rel="stylesheet" type="text/css" href="/cpclass/run/cookieinfo/cookieinfo.css" />
+
+</body>
+
+</html>
+
+<!-- 1172 - 23188/7722/7722 - RWEB - AbexEOP - pu= - 37 s=0.04 - p=0.15  13:43:20 -->
+<!-- Tset Prsr= -->
+
+<!-- 0.27870488166809
+-->
