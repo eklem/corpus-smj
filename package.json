@@ -1,0 +1,25 @@
+{
+  "name": "corpus-smj",
+  "version": "0.0.1",
+  "description": " Lule sámi corpus files ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/corpus-smj.git"
+  },
+  "keywords": [
+    "Lule",
+    "Sami",
+    "corpus",
+    "dataset"
+  ],
+  "author": "Giellalt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eklem/corpus-smj/issues"
+  },
+  "homepage": "https://github.com/eklem/corpus-smj#readme"
+}
